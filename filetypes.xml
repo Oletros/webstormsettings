@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="File06" type="JavaScript" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <removed_mapping ext="yml" type="YAML" />
+      <removed_mapping ext="yaml" type="YAML" />
+      <mapping ext="yml" type="YAML_EX" />
+      <mapping ext="yaml" type="YAML_EX" />
+    </extensionMap>
+  </component>
+</application>
