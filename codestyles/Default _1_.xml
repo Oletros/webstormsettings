@@ -7,7 +7,4 @@
     <option name="SPACE_AFTER_TYPE_COLON" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
   </TypeScriptCodeStyleSettings>
-  <codeStyleSettings language="TypeScript">
-    <option name="EXTENDS_KEYWORD_WRAP" value="1" />
-  </codeStyleSettings>
 </code_scheme>
