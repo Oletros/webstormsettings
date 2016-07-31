@@ -335,11 +335,11 @@
         <mark key="^" line="7" column="20" />
         <mark key="." line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/index.html" timestamp="1469977336933">
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="22" column="12" />
-        <mark key="." line="22" column="12" />
-        <mark key="^" line="22" column="12" />
+      <file name="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/index.html" timestamp="1469979251090">
+        <mark key="'" line="35" column="16" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="45" column="7" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/masteringts/tslint.json" timestamp="1469805732195">
         <mark key="'" line="67" column="17" />
@@ -453,6 +453,7 @@
         <mark key="^" line="23" column="6" />
         <mark key="." line="23" column="6" />
       </file>
+      <file name="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/README.md" timestamp="1469978309588" />
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/update/1save.js" timestamp="1444971726443">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="28" column="4" />
@@ -568,11 +569,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="7" />
       </file>
-      <file name="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/app.ts" timestamp="1469977785783">
-        <mark key="[" line="19" column="45" />
-        <mark key="]" line="19" column="36" />
-        <mark key="^" line="19" column="36" />
-        <mark key="." line="19" column="36" />
+      <file name="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/app.ts" timestamp="1469979798980">
+        <mark key="'" line="8" column="22" />
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="29" />
+        <mark key="^" line="18" column="18" />
+        <mark key="." line="14" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/interop/context.js" timestamp="1445576394150">
         <mark key="[" line="12" column="37" />
@@ -738,6 +740,11 @@
         <mark key="^" line="14" column="65" />
         <mark key="." line="14" column="65" />
       </file>
+      <file name="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/index-full.html" timestamp="1469979225283">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="45" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/cookie/1basic.js" timestamp="1444798779521">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="11" column="16" />
@@ -764,7 +771,7 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="16" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469901980468">
+      <file name="/Dummy.txt" timestamp="1469978038161">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/7auth/2authArea.js" timestamp="1444712225351">
@@ -959,13 +966,17 @@
       <jump line="30" column="4" filename="$USER_HOME$/Development/Javascript/mastering-typescript/example02.ts" />
       <jump line="34" column="18" filename="$USER_HOME$/Development/Javascript/mastering-typescript/example02.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/masteringts/example02.ts" />
+      <jump line="8" column="22" filename="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/app.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/index-full.html" />
+      <jump line="22" column="7" filename="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/index.html" />
+      <jump line="35" column="16" filename="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdcPg==</text>
@@ -974,31 +985,31 @@
         <text>s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+QW5ndWxhciAyIC0gU2ltcGxlIFJlZGRpdDw8L3RpdGxlPgogICAgPCEtLSBMaWJyYXJpZXMgLS0+CiAgICA8c2NyaXB0IHNyYz0ibm9kZV9tb2R1bGVzL2VzNi1zaGltL2VzNi1zaGltLmpzIj48L3NjcmlwdD4KICAgIDxzY3JpcHQgc3JjPSJub2RlX21vZHVsZXMvem9uZS5qcy9kaXN0L3pvbmUuanMiPjwvc2NyaXB0PgogICAgPHNjcmlwdCBzcmM9Im5vZGVfbW9kdWxlcy9yZWZsZWN0LW1ldGFkYXRhL1JlZmxlY3QuanMiPjwvc2NyaXB0PgogICAgPHNjcmlwdCBzcmM9Im5vZGVfbW9kdWxlcy9zeXN0ZW1qcy9kaXN0L3N5c3RlbS5zcmMuanMiPjwvc2NyaXB0PgogICAgPCEtLSBTdHlsZXNoZWV0IC0tPgogICAgPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiB0eXBlPSJ0ZXh0L2NzcyIKICAgICAgICAgIGhyZWY9InJlc291cmNlcy92ZW5kb3Ivc2VtYW50aWMubWluLmNzcyI+CiAgICA8bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSJzdHlsZXMuY3NzIj4KCjwvaGVhZD4KPGJvZHk+CjxzY3JpcHQgc3JjPSJyZXNvdXJjZXMvc3lzdGVtanMuY29uZmlnLmpzIj48L3NjcmlwdD4KPHNjcmlwdD4KICAgIFN5c3RlbS5pbXBvcnQoJ2FwcC5qcycpCiAgICAgICAgICAgIC50aGVuKG51bGwsIGNvbnNvbGUuZXJyb3IuYmluZChjb25zb2xlKSk7Cjwvc2NyaXB0Pgo8cmVkZGl0PjwvcmVkZGl0PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQKICAgIDxzY3JpcHQKICAgIDxzY3JpcHQK</text>
+        <text encoding="base64">QENvbXBvbmVudCh7CiAgICBzZWxlY3RvcjogJ2hlbGxvLXdvcmxkJywKICAgIC8vIHRlbXBsYXRlOiBgPGRpdj5IZWxsbyB7eyBuYW1lIH19PC9kaXY+YAogICAgdGVtcGxhdGU6IGAKICAgIDx1bD4KICAgIDxsaSAqbmdGb3I9ImxldCBuYW1lIG9mIG5hbWVzIj5IZWxsbyB7eyBuYW1lIH19PC9saT4KPC91bD4KYAp9KQpjbGFzcyBIZWxsb1dvcmxkIHsKICAgIG5hbWVzOiBzdHJpbmdbXTsKCiAgICBjb25zdHJ1Y3RvcigpIHsKICAgICAgICB0aGlzLm5hbWVzID0gWydBcmknLCAnQ2FybG9zJywgJ0ZlbGlwZScsICdOYXRlJ107CiAgICB9Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQKICAgIDxzY3JpcHQKICAgIDxzY3JpcHQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Kn4K</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Kn4K</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ki5sb2cK</text>
+        <text encoding="base64">Kn4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBDb3ZlcnMgSmV0QnJhaW5zIElERXM6IEludGVsbGlKLCBSdWJ5TWluZSwgUGhwU3Rvcm0sIEFwcENvZGUsIFB5Q2hhcm0sIENMaW9uLCBBbmRyb2lkIFN0dWRpbyBhbmQgV2Vic3Rvcm0KIyBSZWZlcmVuY2U6IGh0dHBzOi8vaW50ZWxsaWotc3VwcG9ydC5qZXRicmFpbnMuY29tL2hjL2VuLXVzL2FydGljbGVzLzIwNjU0NDgzOQoKIyBVc2VyLXNwZWNpZmljIHN0dWZmOgouaWRlYS93b3Jrc3BhY2UueG1sCi5pZGVhL3Rhc2tzLnhtbAouaWRlYS9kaWN0aW9uYXJpZXMKLmlkZWEvdmNzLnhtbAouaWRlYS9qc0xpYnJhcnlNYXBwaW5ncy54bWwKCiMgU2Vuc2l0aXZlIG9yIGhpZ2gtY2h1cm4gZmlsZXM6Ci5pZGVhL2RhdGFTb3VyY2VzLmlkcwouaWRlYS9kYXRhU291cmNlcy54bWwKLmlkZWEvZGF0YVNvdXJjZXMubG9jYWwueG1sCi5pZGVhL3NxbERhdGFTb3VyY2VzLnhtbAouaWRlYS9keW5hbWljLnhtbAouaWRlYS91aURlc2lnbmVyLnhtbAoKIyBHcmFkbGU6Ci5pZGVhL2dyYWRsZS54bWwKLmlkZWEvbGlicmFyaWVzCgojIE1vbmdvIEV4cGxvcmVyIHBsdWdpbjoKLmlkZWEvbW9uZ29TZXR0aW5ncy54bWwKCiMjIEZpbGUtYmFzZWQgcHJvamVjdCBmb3JtYXQ6CiouaXdzCgojIyBQbHVnaW4tc3BlY2lmaWMgZmlsZXM6CgojIEludGVsbGlKCi9vdXQvCgojIG1wZWx0b25lbi9zYnQtaWRlYSBwbHVnaW4KLmlkZWFfbW9kdWxlcy8KCiMgSklSQSBwbHVnaW4KYXRsYXNzaWFuLWlkZS1wbHVnaW4ueG1sCgojIENyYXNobHl0aWNzIHBsdWdpbiAoZm9yIEFuZHJvaWQgU3R1ZGlvIGFuZCBJbnRlbGxpSikKY29tX2NyYXNobHl0aWNzX2V4cG9ydF9zdHJpbmdzLnhtbApjcmFzaGx5dGljcy5wcm9wZXJ0aWVzCmNyYXNobHl0aWNzLWJ1aWxkLnByb3BlcnRpZXMKZmFicmljLnByb3BlcnRpZXMKLioKIS5naXRpZ25vcmUKKn4KbGliLWNvdgoqLnNlZWQKKi5sb2cKKi5jc3YKKi5kYXQKKi5vdXQKKi5waWQKKi5negoKcGlkcwpsb2dzCnJlc3VsdHMKCm5wbS1kZWJ1Zy5sb2cKbm9kZV9tb2R1bGVzCgouRFNfU3RvcmUKLkFwcGxlRG91YmxlCi5MU092ZXJyaWRlCkljb24KCgojIFRodW1ibmFpbHMKLl8qCgojIEZpbGVzIHRoYXQgbWlnaHQgYXBwZWFyIG9uIGV4dGVybmFsIGRpc2sKLlNwb3RsaWdodC1WMTAwCi5UcmFzaGVzCgojIFdpbmRvd3MgaW1hZ2UgZmlsZSBjYWNoZXMKVGh1bWJzLmRiCmVodGh1bWJzLmRiCgojIEZvbGRlciBjb25maWcgZmlsZQpEZXNrdG9wLmluaQoKIyBSZWN5Y2xlIEJpbiB1c2VkIG9uIGZpbGUgc2hhcmVzCiRSRUNZQ0xFLkJJTi8K</text>
+        <text encoding="base64">Kn4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ki5pbWwKKi5pcHIKKi5pd3MKLmlkZWEvCg==</text>
+        <text encoding="base64">Ki5sb2cK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
