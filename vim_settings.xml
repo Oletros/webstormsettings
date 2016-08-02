@@ -186,12 +186,12 @@
         <mark key="." line="19" column="7" />
         <mark key="^" line="19" column="7" />
       </file>
-      <file name="C:/Development/pinboard/src/BreezeMeeting" timestamp="1470130273478">
-        <mark key="'" line="1" column="90" />
+      <file name="C:/Development/pinboard/src/BreezeMeeting" timestamp="1470138242708">
+        <mark key="'" line="5" column="27" />
         <mark key="[" line="5" column="32" />
-        <mark key="]" line="5" column="32" />
-        <mark key="^" line="3" column="13" />
-        <mark key="." line="5" column="32" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/ng-book2/code/typescript/tslint.json" timestamp="1469997317051">
         <mark key="[" line="57" column="0" />
@@ -750,6 +750,8 @@
       <jump line="54" column="0" filename="//mlgmuc00tfs003/i$/Builds/NET/33/Inator3/TRC-Current_DEV-PB-Daily/src/TRC_PB.msbuild" />
       <jump line="15" column="49" filename="//mlgmuc00tfs003/i$/Builds/NET/33/Inator3/TRC-Current_DEV-PB-Daily/src/TRC_PB.msbuild" />
       <jump line="1" column="90" filename="C:/Development/pinboard/src/BreezeMeeting" />
+      <jump line="15" column="0" filename="C:/Development/pinboard/src/BreezeMeeting" />
+      <jump line="5" column="27" filename="C:/Development/pinboard/src/BreezeMeeting" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -759,7 +761,7 @@
         <text encoding="base64">IGludmVzdGlnYXRlIHdoaWNoIG9uZSBpcyBhY3R1YWxseSB1c2VkIGluIFRSQyBhbmQ=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXdcPg==</text>
+        <text encoding="base64">XDxpc1w+</text>
       </register>
       <register name="0" type="4">
         <text />
@@ -796,7 +798,10 @@
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxpc1w+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxpc1w+</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -807,6 +812,7 @@
         <entry>*.log</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxuZXdcPg==</entry>
+        <entry encoding="base64">XDxpc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s#/home/oletros/Descargas#/var/data/deluge#gci</entry>
