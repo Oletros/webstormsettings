@@ -70,7 +70,6 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="5" />
       </file>
-      <file name="C:/Development/pinboard/src/app.js" timestamp="1470054555447" />
       <file name="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" timestamp="1469996748684">
         <mark key="'" line="72" column="3" />
         <mark key="[" line="76" column="21" />
@@ -186,6 +185,13 @@
         <mark key="]" line="19" column="7" />
         <mark key="." line="19" column="7" />
         <mark key="^" line="19" column="7" />
+      </file>
+      <file name="C:/Development/pinboard/src/BreezeMeeting" timestamp="1470127911686">
+        <mark key="'" line="1" column="90" />
+        <mark key="[" line="3" column="44" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="3" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/dev/ng-book2/code/typescript/tslint.json" timestamp="1469997317051">
         <mark key="[" line="57" column="0" />
@@ -743,13 +749,14 @@
       <jump line="34" column="14" filename="//mlgmuc00tfs003/i$/Builds/NET/33/Inator3/TRC-Current_DEV-PB-Daily/src/TRC_PB.msbuild" />
       <jump line="54" column="0" filename="//mlgmuc00tfs003/i$/Builds/NET/33/Inator3/TRC-Current_DEV-PB-Daily/src/TRC_PB.msbuild" />
       <jump line="15" column="49" filename="//mlgmuc00tfs003/i$/Builds/NET/33/Inator3/TRC-Current_DEV-PB-Daily/src/TRC_PB.msbuild" />
+      <jump line="1" column="90" filename="C:/Development/pinboard/src/BreezeMeeting" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJzb3J0LW9iamVjdC1saXRlcmFsLWtleXMiOiBmYWxzZSwK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdcPg==</text>
@@ -838,6 +845,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
