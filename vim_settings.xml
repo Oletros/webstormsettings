@@ -356,6 +356,13 @@
         <mark key="." line="22" column="32" />
         <mark key="^" line="22" column="32" />
       </file>
+      <file name="$USER_HOME$/Development/Javascript/mastering-typescript/async02.ts" timestamp="1470240406221">
+        <mark key="'" line="60" column="5" />
+        <mark key="[" line="70" column="1" />
+        <mark key="]" line="68" column="47" />
+        <mark key="^" line="68" column="47" />
+        <mark key="." line="68" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/masteringts/tsconfig.json" timestamp="1469768530734">
         <mark key="'" line="19" column="0" />
       </file>
@@ -1046,6 +1053,7 @@
       <jump line="1" column="90" filename="C:/Development/pinboard/src/BreezeMeeting" />
       <jump line="15" column="0" filename="C:/Development/pinboard/src/BreezeMeeting" />
       <jump line="5" column="27" filename="C:/Development/pinboard/src/BreezeMeeting" />
+      <jump line="59" column="5" filename="$USER_HOME$/Development/Javascript/mastering-typescript/async02.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
