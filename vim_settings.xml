@@ -190,11 +190,12 @@
         <mark key="^" line="144" column="3" />
         <mark key="." line="144" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/masteringts/generics02.ts" timestamp="1470144199336">
-        <mark key="[" line="30" column="34" />
-        <mark key="]" line="31" column="51" />
-        <mark key="^" line="31" column="51" />
-        <mark key="." line="31" column="51" />
+      <file name="$USER_HOME$/Documents/dev/masteringts/generics02.ts" timestamp="1470200431652">
+        <mark key="'" line="16" column="33" />
+        <mark key="[" line="64" column="14" />
+        <mark key="]" line="64" column="48" />
+        <mark key="^" line="64" column="48" />
+        <mark key="." line="64" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/dev/masteringts/example04.ts" timestamp="1470057103380">
         <mark key="'" line="25" column="40" />
@@ -238,12 +239,12 @@
         <mark key="^" line="24" column="117" />
         <mark key="." line="24" column="117" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/masteringts/tsconfig.json" timestamp="1470144019690">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="20" column="15" />
-        <mark key="." line="20" column="15" />
-        <mark key="^" line="19" column="3" />
+      <file name="$USER_HOME$/Documents/dev/masteringts/tsconfig.json" timestamp="1470229905664">
+        <mark key="'" line="13" column="18" />
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="22" column="16" />
+        <mark key="." line="22" column="16" />
+        <mark key="^" line="22" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/process/1uncaught.js" timestamp="1444107937062">
         <mark key="'" line="0" column="0" />
@@ -437,6 +438,13 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/masteringts/async01.ts" timestamp="1470229831320">
+        <mark key="'" line="68" column="5" />
+        <mark key="[" line="66" column="43" />
+        <mark key="]" line="66" column="43" />
+        <mark key="." line="66" column="43" />
+        <mark key="^" line="66" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/7auth/2authArea.js" timestamp="1444712225351">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="37" column="22" />
@@ -499,6 +507,13 @@
         <mark key="]" line="40" column="8" />
         <mark key="." line="40" column="8" />
         <mark key="^" line="39" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/masteringts/generics03.ts" timestamp="1470200781388">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="23" column="49" />
+        <mark key="]" line="23" column="59" />
+        <mark key="." line="23" column="59" />
+        <mark key="^" line="23" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/further/done.js" timestamp="1445601720827">
         <mark key="'" line="7" column="1" />
@@ -598,6 +613,13 @@
         <mark key="]" line="88" column="0" />
         <mark key="^" line="88" column="0" />
         <mark key="." line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/masteringts/async02.ts" timestamp="1470230568414">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="45" column="1" />
+        <mark key="]" line="47" column="18" />
+        <mark key="." line="47" column="18" />
+        <mark key="^" line="47" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" timestamp="1469996748684">
         <mark key="'" line="72" column="3" />
@@ -783,46 +805,62 @@
       <jump line="17" column="0" filename="$USER_HOME$/Documents/dev/masteringts/generics01.ts" />
       <jump line="6" column="7" filename="$USER_HOME$/Documents/dev/masteringts/generics01.ts" />
       <jump line="22" column="0" filename="$USER_HOME$/Documents/dev/masteringts/generics01.ts" />
+      <jump line="30" column="23" filename="$USER_HOME$/Documents/dev/masteringts/generics02.ts" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/dev/masteringts/generics02.ts" />
+      <jump line="39" column="50" filename="$USER_HOME$/Documents/dev/masteringts/generics02.ts" />
+      <jump line="60" column="0" filename="$USER_HOME$/Documents/dev/masteringts/generics02.ts" />
+      <jump line="15" column="22" filename="$USER_HOME$/Documents/dev/masteringts/generics02.ts" />
+      <jump line="64" column="0" filename="$USER_HOME$/Documents/dev/masteringts/generics02.ts" />
+      <jump line="16" column="33" filename="$USER_HOME$/Documents/dev/masteringts/generics02.ts" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/dev/masteringts/generics03.ts" />
+      <jump line="26" column="38" filename="$USER_HOME$/Documents/dev/masteringts/async01.ts" />
+      <jump line="13" column="18" filename="$USER_HOME$/Documents/dev/masteringts/tsconfig.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/masteringts/async01.ts" />
+      <jump line="27" column="8" filename="$USER_HOME$/Documents/dev/masteringts/async01.ts" />
+      <jump line="29" column="20" filename="$USER_HOME$/Documents/dev/masteringts/async01.ts" />
+      <jump line="64" column="5" filename="$USER_HOME$/Documents/dev/masteringts/async01.ts" />
+      <jump line="18" column="24" filename="$USER_HOME$/Documents/dev/masteringts/async02.ts" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/dev/masteringts/async02.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text>'resolved_within_promise'</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>'resolved_within_promise'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJnZW5lcmljczAxLnRzIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gYWZ0ZXJXYWl0KCkgewogICAgICAgICAgICAgICAgcmVzb2x2ZSgncmVzb2x2ZWRfd2l0aGluX3Byb21pc2UnKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgc2V0VGltZW91dChhZnRlcldhaXQsIDIwMDApOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0IHN0cmluZ1Jlc3VsdDI6IHN0cmluZyA9IG51bWJlckNvbmNhdC5jb25jYXRlbmF0ZUFycmF5KHN0cmluZ0FycmF5KTsKY29uc29sZS5sb2coc3RyaW5nUmVzdWx0Mik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gYWZ0ZXJXYWl0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3NXaXRoUEFyYW1EZWM6Q2xhc3NXaXRoUGFyYW1EZWMgPSBuZXcgQ2xhc3NXaXRoUGFyYW1EZWMoKTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJzb3J0LW9iamVjdC1saXRlcmFsLWtleXMiOiBmYWxzZSwK</text>
+        <text encoding="base64">KHJlc29sdmU6ICgpID0+IHZvaWQsCiByZWplY3Q6ICgpID0+IHZvaWQpID0+IHsKICAgIGZ1bmN0aW9uIGFmdGVyVGltZW91dCgpIHsKICAgICAgICByZXNvbHZlKCk7CiAgICB9CgogICAgc2V0VGltZW91dChhZnRlclRpbWVvdXQsIDEwMDApOwp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgc2VsZiA9IHRoaXM7Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gZm5EZWxheWVkUHJvbWlzZShyZXNvbHZlOiAoKT0+dm9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICByZWplY3Q6ICgpPT52b2lkKSB7CiAgICBmdW5jdGlvbiBhZnRlclRpbWVvdXQoKSB7CiAgICAgICAgcmVzb2x2ZSgpOwogICAgfQoKICAgIHNldFRpbWVvdXQoYWZ0ZXJUaW1lb3V0LCAyMDAwKTsKfQoKZnVuY3Rpb24gZGVsYXllZFJlc3BvbnNlUHJvbWlzZSgpOiBQcm9taXNlPHZvaWQ+IHsKICAgIHJldHVybiBuZXcgUHJvbWlzZTx2b2lkPihmbkRlbGF5ZWRQcm9taXNlKTsKCn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRhdGEuZm9yRWFjaChmdW5jdGlvbiAobGluZTogc3RyaW5nKTogdm9pZCB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGxpbmUpOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">aW1wb3J0IFZvaWRFeHByZXNzaW9uID0gdHMuVm9pZEV4cHJlc3Npb247Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRhdGEuZm9yRWFjaCgobGluZSkgPT4gY29uc29sZS5sb2cobGluZSkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBhZnRlciBgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcih2YWx1ZXMpOwo=</text>
+        <text encoding="base64">Y2xhc3MgVGhpcmRDbGFzc3sKICAgIGNyZWF0ZSgpOlQKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtib290c3RyYXB9IGZyb20gJ0Bhbmd1bGFyL3BsYXRmb3JtLWJyb3dzZXItZHluYW1pYyc7CmltcG9ydCB7Q29tcG9uZW50fSBmcm9tICdAYW5ndWxhci9jb3JlJzsKCkBDb21wb25lbnQoewogICAgc2VsZWN0b3I6ICdyZWRkaXQtYXJ0aWNsZScsCiAgICBob3N0OiB7CiAgICAgICAgY2xhc3M6ICdyb3cnCiAgICB9LAogICAgdGVtcGxhdGU6IGAKICAgICAgICA8ZGl2IGNsYXNzPSJmb3VyIHdpZGUgY29sdW1uIGNlbnRlciBhbGlnbmVkIHZvdGVzIj4KICAgICAgICA8ZGl2IGNsYXNzPSJ1aSBzdGF0aXN0aWMiPgogICAgICAgIDxkaXYgY2xhc3M9InZhbHVlIj4KICAgICAgICB7eyB2b3RlcyB9fQo8L2Rpdj48ZGl2IGNsYXNzPSJsYWJlbCI+ClBvaW50cwo8L2Rpdj4KPC9kaXY+CjwvZGl2Pgo8ZGl2IGNsYXNzPSJ0d2VsdmUgd2lkZSBjb2x1bW4iPgo8YSBjbGFzcz0idWkgbGFyZ2UgaGVhZGVyIiBocmVmPSJ7eyBsaW5rIH19Ij4Ke3sgdGl0bGUgfX0KPC9hPgo8dWwgY2xhc3M9InVpIGJpZyBob3Jpem9udGFsIGxpc3Qgdm90ZXJzIj4KPGxpIGNsYXNzPSJpdGVtIj4KPGEgaHJlZiAoY2xpY2spPSJ2b3RlVXAoKSI+CjxpIGNsYXNzPSJhcnJvdyB1cCBpY29uIj48L2k+CnVwdm90ZQo8L2E+CjwvbGk+CjxsaSBjbGFzcz0iaXRlbSI+CjxhIGhyZWYgKGNsaWNrKT0idm90ZURvd24oKSI+CjxpIGNsYXNzPSJhcnJvdyBkb3duIGljb24iPjwvaT4KZG93bnZvdGUKPC9hPgo8L2xpPgo8L3VsPgo8L2Rpdj4KYAp9KQpjbGFzcyBBcnRpY2xlQ29tcG9uZW50IHsKICAgIHZvdGVzOiBudW1iZXI7CiAgICB0aXRsZTogc3RyaW5nOwogICAgbGluazogc3RyaW5nOwoKICAgIGNvbnN0cnVjdG9yKCkgewogICAgICAgIHRoaXMudGl0bGUgPSAnQW5ndWxhciAyJzsKICAgICAgICB0aGlzLmxpbmsgPSAnaHR0cDovL2FuZ3VsYXIuaW8nOwogICAgICAgIHRoaXMudm90ZXMgPSAxMDsKICAgIH0KCiAgICB2b3RlVXAoKTogYm9vbGVhbiB7CiAgICAgICAgdGhpcy52b3RlcyArPSAxOwogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCiAgICB2b3RlRG93bigpOiBib29sZWFuIHsKICAgICAgICB0aGlzLnZvdGVzIC09IDE7CiAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgfQp9CgpAQ29tcG9uZW50KHsKICAgIHNlbGVjdG9yOiAncmVkZGl0JywKICAgIGRpcmVjdGl2ZXM6IFtBcnRpY2xlQ29tcG9uZW50XSwKICAgIHRlbXBsYXRlOiBgCiA8Zm9ybSBjbGFzcz0idWkgbGFyZ2UgZm9ybSBzZWdtZW50Ij4KIDxoMyBjbGFzcz0idWkgaGVhZGVyIj5BZGQgYSBMaW5rPC9oMz4KIDxkaXYgY2xhc3M9ImZpZWxkIj4KIDxsYWJlbCBmb3I9InRpdGxlIj5UaXRsZTo8L2xhYmVsPgogPGlucHV0IG5hbWU9InRpdGxlIiAjbmV3dGl0bGU+CiA8L2Rpdj4KIDxkaXYgY2xhc3M9ImZpZWxkIj4KIDxsYWJlbCBmb3I9ImxpbmsiPkxpbms6PC9sYWJlbD4KIDxpbnB1dCBuYW1lPSJsaW5rIiAjbmV3bGluaz4KIDwvZGl2PgogPGJ1dHRvbiAoY2xpY2spPSJhZGRBcnRpY2xlKG5ld3RpdGxlLG5ld2xpbmspIgogIGNsYXNzPSJ1aSBwb3NpdGl2ZSByaWdodCBmbG9hdGVkIGJ1dHRvbiI+CiBTdWJtaXQgbGluawo8L2J1dHRvbj4KIDwvZm9ybT4KIAogPGRpdiBjbGFzcz0idWkgZ3JpZCBwb3N0cyI+CiA8cmVkZGl0LWFydGljbGU+CiA8L3JlZGRpdC1hcnRpY2xlPgo8L2Rpdj4KIGAKfSkKY2xhc3MgUmVkZGl0QXBwIHsKICAgIGNvbnN0cnVjdG9yKCkgewogICAgfQoKICAgIGFkZEFydGljbGUodGl0bGU6IEhUTUxJbnB1dEVsZW1lbnQsIGxpbms6IEhUTUxJbnB1dEVsZW1lbnQpOiB2b2lkIHsKICAgICAgICBjb25zb2xlLmxvZyhgQWRkaW5nIGFydGljbGUgdGl0bGUgJHt0aXRsZS52YWx1ZX0gYW5kIGxpbmsgJHtsaW5rLnZhbHVlfWApOwogICAgfQp9Cgpib290c3RyYXAoUmVkZGl0QXBwKTsK</text>
+        <text encoding="base64">aW1wbGVtZW50cyBJRm9vdGJhbGxDbHViUHJpbnRlcjwgVCAgPiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
