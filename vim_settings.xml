@@ -874,8 +874,12 @@
         <mark key="." line="32" column="13" />
         <mark key="^" line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" timestamp="1469999066717">
-        <mark key="'" line="162" column="18" />
+      <file name="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" timestamp="1470766918680">
+        <mark key="'" line="39" column="19" />
+        <mark key="[" line="25" column="1" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/trackerhdrss/rssexample/example.js" timestamp="1432791342830">
         <mark key="'" line="0" column="0" />
@@ -1166,6 +1170,9 @@
       <jump line="10" column="36" filename="$USER_HOME$/Documents/dev/masteringts/ErrorHelper.d.ts" />
       <jump line="15" column="26" filename="$USER_HOME$/Documents/dev/masteringts/mvc01/mvc01.ts" />
       <jump line="4" column="11" filename="$USER_HOME$/Documents/dev/masteringts/mvc01/view01.html" />
+      <jump line="84" column="17" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
+      <jump line="26" column="0" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
+      <jump line="39" column="19" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
