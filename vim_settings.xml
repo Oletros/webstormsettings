@@ -508,6 +508,9 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="3" />
       </file>
+      <file name="/Angular2HTML Fragment (app.ts:1844).html" timestamp="1470767169452">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/further/librarycompat.js" timestamp="1445601856761">
         <mark key="[" line="17" column="4" />
         <mark key="]" line="17" column="5" />
@@ -874,8 +877,8 @@
         <mark key="." line="32" column="13" />
         <mark key="^" line="32" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" timestamp="1470766918680">
-        <mark key="'" line="39" column="19" />
+      <file name="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" timestamp="1470767082633">
+        <mark key="'" line="34" column="22" />
         <mark key="[" line="25" column="1" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="26" column="0" />
@@ -1099,6 +1102,9 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="5" />
       </file>
+      <file name="/Angular2HTML Fragment (app.ts:1070).html" timestamp="1470767159967">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/trackerhdrss/rssexample/app.js" timestamp="1442002915561">
         <mark key="'" line="29" column="12" />
         <mark key="[" line="9" column="12" />
@@ -1173,6 +1179,7 @@
       <jump line="84" column="17" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
       <jump line="26" column="0" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
       <jump line="39" column="19" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
+      <jump line="34" column="22" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
