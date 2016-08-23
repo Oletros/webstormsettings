@@ -631,11 +631,12 @@
       <file name="$USER_HOME$/Documents/dev/masteringts/example01.js" timestamp="1469830448875">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="C:/Development/pinboard/src/mailPDFPOC.md" timestamp="1471942606928">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="C:/Development/pinboard/src/mailPDFPOC.md" timestamp="1471945190905">
+        <mark key="'" line="23" column="29" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="117" />
+        <mark key="." line="39" column="117" />
+        <mark key="^" line="39" column="117" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/further/thenable.js" timestamp="1445601239869">
         <mark key="[" line="21" column="5" />
@@ -1187,19 +1188,20 @@
       <jump line="39" column="19" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
       <jump line="34" column="22" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
       <jump line="8" column="0" filename="C:/Development/pinboard/src/mailPDFPOC.md" />
+      <jump line="23" column="29" filename="C:/Development/pinboard/src/mailPDFPOC.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyMgVGhpbmdzIHRvIGRvIDIwMTYwODIzCgoxLiBXcml0ZSBtYWlsIHRvIEJyZWV6ZSBhYm91dCBQREYgZXhwb3J0CjIuIENoZWNrIGNsZWFuaW5nIG9mIHRhc2tzIGZyb20gVFJDIEJhdGNoIHdpdGggc3RhdHVzICdJJwozLiBBdXRvbWF0ZWQgY29weSBvZiBwYjJ4bHMuZGxsIHRvIGV4ZSBmb2xkZXIgdGhyb3VnaCBidWlsZHMKNC4gUG9ydHVnYWwgRFMgZGVsaXZlcnkgbm90ZSB0cmFuc2xhdGlvbnMKNS4gTW9yZSB0ZXN0aW5nIG9mIEZyYW5jZSBjeWxpbmRlcnMgaW1wb3J0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>call</text>
       </register>
       <register name="-" type="4">
-        <text>Title</text>
+        <text>call</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc1w+</text>
+        <text encoding="base64">XDwwXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJhc3luYzAyLnRzIgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">gCcqKiA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">IyMgVGhpbmdzIHRvIGRvIDIwMTYwODIzCgoxLiBXcml0ZSBtYWlsIHRvIEJyZWV6ZSBhYm91dCBQREYgZXhwb3J0CjIuIENoZWNrIGNsZWFuaW5nIG9mIHRhc2tzIGZyb20gVFJDIEJhdGNoIHdpdGggc3RhdHVzICdJJwozLiBBdXRvbWF0ZWQgY29weSBvZiBwYjJ4bHMuZGxsIHRvIGV4ZSBmb2xkZXIgdGhyb3VnaCBidWlsZHMKNC4gUG9ydHVnYWwgRFMgZGVsaXZlcnkgbm90ZSB0cmFuc2xhdGlvbnMKNS4gTW9yZSB0ZXN0aW5nIG9mIEZyYW5jZSBjeWxpbmRlcnMgaW1wb3J0Cg==</text>
@@ -1233,10 +1235,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc1w+</last-search>
+      <last-search encoding="base64">XDwwXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc1w+</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDwwXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1247,6 +1249,7 @@
         <entry>*.log</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxuZXdcPg==</entry>
+        <entry encoding="base64">XDwwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s#/home/oletros/Descargas#/var/data/deluge#gci</entry>
