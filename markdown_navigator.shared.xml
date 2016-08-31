@@ -1,6 +1,6 @@
 <application>
   <component name="Markdown Navigator">
-    <PreviewSettings splitEditorLayout="FIRST" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showPreviewTab="yes" showModifiedHtmlTab="false" showUnmodifiedHtmlTab="false" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizeScrollPosition="false" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true">
+    <PreviewSettings splitEditorLayout="FIRST" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showPreviewTab="yes" showModifiedHtmlTab="false" showUnmodifiedHtmlTab="false" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizeScrollPosition="false" highlightPreviewType="LINE" highlightFadeOut="5" highlightOnTyping="true">
       <PanelProvider>
         <provider providerId="com.vladsch.idea.multimarkdown.editor.javafx.html.panel" providerName="JavaFX WebView" />
       </PanelProvider>
@@ -13,18 +13,18 @@
         <option name="AUTOLINKS" value="true" />
         <option name="DEFINITIONS" value="true" />
         <option name="FENCED_CODE_BLOCKS" value="true" />
-        <option name="FOOTNOTES" value="false" />
+        <option name="FOOTNOTES" value="true" />
         <option name="FORCELISTITEMPARA" value="false" />
         <option name="HARDWRAPS" value="true" />
-        <option name="QUOTES" value="false" />
+        <option name="QUOTES" value="true" />
         <option name="RELAXEDHRULES" value="true" />
-        <option name="SMARTS" value="false" />
+        <option name="SMARTS" value="true" />
         <option name="STRIKETHROUGH" value="true" />
         <option name="SUPPRESS_HTML_BLOCKS" value="false" />
         <option name="SUPPRESS_INLINE_HTML" value="false" />
         <option name="TABLES" value="true" />
         <option name="TASKLISTITEMS" value="true" />
-        <option name="TOC" value="false" />
+        <option name="TOC" value="true" />
         <option name="TRACE_PARSER" value="false" />
         <option name="WIKILINKS" value="true" />
       </PegdownExtensions>
@@ -32,7 +32,7 @@
         <option name="DUMMY" value="false" />
         <option name="EMOJI_SHORTCUTS" value="false" />
         <option name="FLEXMARK_FRONT_MATTER" value="false" />
-        <option name="GFM_TABLE_RENDERING" value="false" />
+        <option name="GFM_TABLE_RENDERING" value="true" />
         <option name="GITBOOK_URL_ENCODING" value="false" />
         <option name="GITHUB_EMOJI_URL" value="false" />
         <option name="GITHUB_WIKI_LINKS" value="true" />
