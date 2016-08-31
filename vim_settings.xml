@@ -69,6 +69,9 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" timestamp="1472625530924">
+        <mark key="'" line="19" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/further/gracefulcatch.js" timestamp="1445601497736">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="4" column="0" />
@@ -704,6 +707,7 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" timestamp="1472625286210" />
       <file name="$USER_HOME$/Documents/dev/epublibre_node/test.yml" timestamp="1454807904917">
         <mark key="'" line="32" column="13" />
         <mark key="[" line="32" column="13" />
@@ -1189,6 +1193,7 @@
       <jump line="34" column="22" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
       <jump line="8" column="0" filename="C:/Development/pinboard/src/mailPDFPOC.md" />
       <jump line="23" column="29" filename="C:/Development/pinboard/src/mailPDFPOC.md" />
+      <jump line="19" column="53" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
