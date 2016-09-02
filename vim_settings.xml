@@ -69,10 +69,10 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" timestamp="1472800381702">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="59" column="30" />
-        <mark key="]" line="59" column="30" />
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" timestamp="1472804854050">
+        <mark key="'" line="75" column="34" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="22" />
         <mark key="^" line="59" column="53" />
         <mark key="." line="59" column="30" />
       </file>
@@ -113,12 +113,12 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/example.py" timestamp="1472802704465">
-        <mark key="'" line="3" column="4" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="3" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="3" column="3" />
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/example.py" timestamp="1472805456107">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="24" column="12" />
+        <mark key="^" line="24" column="12" />
+        <mark key="." line="24" column="12" />
       </file>
       <file name="/Bash" timestamp="1470239314229">
         <mark key="[" line="0" column="0" />
@@ -321,6 +321,9 @@
         <mark key="]" line="25" column="0" />
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1472804912543">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/node-api/server.js" timestamp="1428533979363">
         <mark key="'" line="16" column="43" />
@@ -1219,46 +1222,51 @@
       <jump line="95" column="39" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
       <jump line="12" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
       <jump line="3" column="4" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/example.py" />
+      <jump line="111" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
+      <jump line="11" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/example.py" />
+      <jump line="75" column="34" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
+      <jump line="20" column="21" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/example.py" />
+      <jump line="5" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/example.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_batch</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_batch</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">gCcqKiA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">Z2VuZmlsZSA9ICdDOlxcSElTQ29sbGVjdGlvblxcSW5hdG9yM1xcVFJDXFxDdXJyZW50XFxQb3dlcmJ1aWxkZXJcXHRyY19iYXRjaC5nZW4nCm9yaWdpbmFsX3BhdGggPSBvcy5nZXRjd2QoKQooYmFzZXBhdGgsIGJhc2VmaWxlKSA9IG9zLnBhdGguc3BsaXQoZ2VuZmlsZSkKZXJyZmlsZSA9IGJhc2VmaWxlICsgJy5lcnInCm91dGZpbGUgPSBiYXNlZmlsZSArICcub3V0Jwpjb21tYW5kMSA9ICciQzpcXFByb2dyYW0gRmlsZXMgKHg4NilcXEUuIENyYW5lIENvbXB1dGluZ1xcUG93ZXJHZW4gUHJvZmVzc2lvbmFsXFxwd3JnbjEyNi5leGUiIC9LPSJDOlxcSElTQ29sbGVjdGlvblxcSW5hdG9yM1xcVFJDXFxDdXJyZW50XFxQb3dlcmJ1aWxkZXJcXHRyY19iYXRjaC5nZW4iIC9QQkcgL05SUCcKY29tbWFuZDIgPSAnIkM6XFxQcm9ncmFtIEZpbGVzICh4ODYpXFxFLiBDcmFuZSBDb21wdXRpbmdcXFBvd2VyR2VuIFByb2Zlc3Npb25hbFxccHdyZ24xMjYuZXhlIiAvQT0iQzpcXEhJU0NvbGxlY3Rpb25cXEluYXRvcjNcXFRSQ1xcQ3VycmVudFxcUG93ZXJidWlsZGVyXFx0cmNfYmF0Y2guZ2VuIiAvTlMnCm9zLmNoZGlyKGJhc2VwYXRoKQp3aXRoIG9wZW4ob3V0ZmlsZSwgIndiIikgYXMgb3V0LCBvcGVuKGVycmZpbGUsICJ3YiIpIGFzIGVycjoKICAgIHByb2MxID0gc3VicHJvY2Vzcy5Qb3Blbihjb21tYW5kMSwgc3Rkb3V0PW91dCwgc3RkZXJyPWVycikKICAgIHdoaWxlIHByb2MxLnBvbGwoKSBpcyBOb25lOgogICAgICAgIHRpbWUuc2xlZXAoMC41KQogICAgcHJpbnQocHJvYzEucmV0dXJuY29kZSkKICAgIHRpbWUuc2xlZXAoNSkKICAgIHByb2MyID0gc3VicHJvY2Vzcy5Qb3Blbihjb21tYW5kMiwgc3Rkb3V0PW91dCwgc3RkZXJyPWVycikKICAgIHdoaWxlIHByb2MyLnBvbGwoKSBpcyBOb25lOgogICAgICAgIHRpbWUuc2xlZXAoMC41KQogICAgcHJpbnQocHJvYzIucmV0dXJuY29kZSkKb3MuY2hkaXIob3JpZ2luYWxfcGF0aCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQocHJvYy5yZXR1cm5jb2RlKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gW0Vycm9yIGNvZGVzXSgjZXJyb3ItY29kZXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">b250ZW50cyIKIyMgVGFibGUgb2YgQ29udGVudHMKLSBbSW50b3VjaCBjeWxpbmRlciBpbXBvcnRdKCNpbnRvdWNoLWN5bGluZGVyLWltcG9ydCkKICAgIC0gW0Zsb3ddKCNmbG93KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMgVGhpbmdzIHRvIGRvIDIwMTYwODIzCgoxLiBXcml0ZSBtYWlsIHRvIEJyZWV6ZSBhYm91dCBQREYgZXhwb3J0CjIuIENoZWNrIGNsZWFuaW5nIG9mIHRhc2tzIGZyb20gVFJDIEJhdGNoIHdpdGggc3RhdHVzICdJJwozLiBBdXRvbWF0ZWQgY29weSBvZiBwYjJ4bHMuZGxsIHRvIGV4ZSBmb2xkZXIgdGhyb3VnaCBidWlsZHMKNC4gUG9ydHVnYWwgRFMgZGVsaXZlcnkgbm90ZSB0cmFuc2xhdGlvbnMKNS4gTW9yZSB0ZXN0aW5nIG9mIEZyYW5jZSBjeWxpbmRlcnMgaW1wb3J0Cg==</text>
+        <text encoding="base64">ICAgIC0gW0Vycm9yIGNvZGVzXSgjZXJyb3ItY29kZXMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGRpdgo=</text>
+        <text encoding="base64">b250ZW50cyIKIyMgVGFibGUgb2YgQ29udGVudHMKLSBbSW50b3VjaCBjeWxpbmRlciBpbXBvcnRdKCNpbnRvdWNoLWN5bGluZGVyLWltcG9ydCkKICAgIC0gW0Zsb3ddKCNmbG93KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
+        <text encoding="base64">IyMgVGhpbmdzIHRvIGRvIDIwMTYwODIzCgoxLiBXcml0ZSBtYWlsIHRvIEJyZWV6ZSBhYm91dCBQREYgZXhwb3J0CjIuIENoZWNrIGNsZWFuaW5nIG9mIHRhc2tzIGZyb20gVFJDIEJhdGNoIHdpdGggc3RhdHVzICdJJwozLiBBdXRvbWF0ZWQgY29weSBvZiBwYjJ4bHMuZGxsIHRvIGV4ZSBmb2xkZXIgdGhyb3VnaCBidWlsZHMKNC4gUG9ydHVnYWwgRFMgZGVsaXZlcnkgbm90ZSB0cmFuc2xhdGlvbnMKNS4gTW9yZSB0ZXN0aW5nIG9mIEZyYW5jZSBjeWxpbmRlcnMgaW1wb3J0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJleGFtcGxlMDEudHMiLAogICAgImV4YW1wbGUwMi50cyIsCiAgICAiZXhhbXBsZTAzLnRzIiwKICAgICJleGFtcGxlMDQudHMiLAogICAgImRlY29yYXRvcnMwMS50cyIsCiAgICAiZGVjb3JhdG9yczAyLnRzIiwKICAgICJkZWNvcmF0b3JzMDMudHMiLAogICAgImdlbmVyaWNzMDEudHMiLAogICAgImdlbmVyaWNzMDIudHMiLAogICAgImdlbmVyaWNzMDMudHMiLAogICAgImFzeW5jMDEudHMiLAogICAgImFzeW5jMDIudHMiLAogICAgImFzeW5jMDMudHMiLAogICAgIkVycm9ySGVscGVyVHlwZVNjcmlwdCIsCiAgICAiRXJyb3JIZWxwZXIiLAo=</text>
+        <text encoding="base64">PGRpdgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBhbm90aGVyRmFpbHVyZTogSVJlc3BvbnNlID0gewogICAgICAgIHJlc3BvbnNlVGV4dDoge3N1Y2Nlc3M6IHRydWV9CiAgICB9Owo=</text>
+        <text encoding="base64">ICAgIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
