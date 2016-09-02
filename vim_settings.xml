@@ -113,6 +113,13 @@
         <mark key="^" line="10" column="15" />
         <mark key="." line="10" column="15" />
       </file>
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/example.py" timestamp="1472802704465">
+        <mark key="'" line="3" column="4" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+      </file>
       <file name="/Bash" timestamp="1470239314229">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1211,13 +1218,14 @@
       <jump line="7" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
       <jump line="95" column="39" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
       <jump line="12" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
+      <jump line="3" column="4" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/example.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
