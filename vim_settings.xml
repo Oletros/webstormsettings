@@ -716,6 +716,13 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" timestamp="1473261664077">
+        <mark key="'" line="127" column="20" />
+        <mark key="[" line="42" column="19" />
+        <mark key="]" line="36" column="25" />
+        <mark key="." line="36" column="25" />
+        <mark key="^" line="36" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/epublibre_node/test.yml" timestamp="1454807904917">
         <mark key="'" line="32" column="13" />
         <mark key="[" line="32" column="13" />
@@ -1229,13 +1236,14 @@
       <jump line="19" column="17" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/Build definitions.md" />
       <jump line="23" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/Build definitions.md" />
       <jump line="13" column="23" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/Build definitions.md" />
+      <jump line="127" column="20" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">WyBdCg==</text>
+      <register name="&quot;" type="4">
+        <text>powergen</text>
       </register>
       <register name="-" type="4">
-        <text>Agent settings</text>
+        <text>powergen</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTbGltQnVpbGRcPg==</text>
