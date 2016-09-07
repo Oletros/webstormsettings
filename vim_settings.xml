@@ -911,11 +911,12 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/Build definitions.md" timestamp="1473239236421">
-        <mark key="[" line="15" column="14" />
-        <mark key="]" line="15" column="17" />
-        <mark key="^" line="15" column="17" />
-        <mark key="." line="15" column="17" />
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/Build definitions.md" timestamp="1473250658707">
+        <mark key="'" line="14" column="23" />
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="11" column="2" />
+        <mark key="^" line="1" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/dev/masteringts/error_helper.js" timestamp="1470287327611">
         <mark key="'" line="26" column="5" />
@@ -1225,56 +1226,59 @@
       <jump line="57" column="4" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/utils.py" />
       <jump line="41" column="18" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/utils.py" />
       <jump line="40" column="4" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/utils.py" />
+      <jump line="19" column="17" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/Build definitions.md" />
+      <jump line="23" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/Build definitions.md" />
+      <jump line="13" column="23" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/Build definitions.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>DEV</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">WyBdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>DEV</text>
+        <text>Agent settings</text>
       </register>
       <register name="/" type="4">
-        <text>union</text>
+        <text encoding="base64">XDxTbGltQnVpbGRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">KiBUUkMtQ3VycmVudF9ERVYtUEItRGFpbHkK</text>
+      <register name="0" type="4">
+        <text encoding="base64">IFtd</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">VFJDX1BCLTIxLjAyLVJlbGVhc2UK</text>
+        <text encoding="base64">WyBdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VFJDX1BCLTIxLjAwLU1hbnVhbAo=</text>
+        <text encoding="base64">CkNoYW5nZWQgYWdlbnQgNDUgdG8gaGF2ZSB0YWdzIE5FVCBhbmQgUEIxMjYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VFJDX1BCLTIxLjAyLVJlbGVhc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzdWJwcm9jZXNzIGltcG9ydCBjaGVja19jYWxsCg==</text>
+        <text encoding="base64">VFJDX1BCLTIxLjAwLU1hbnVhbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gZXhlY3V0ZUNvbW1hbmQoY29tbWFuZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gZXhlY3V0ZUNvbW1hbmQoY29tbWFuZCkK</text>
+        <text encoding="base64">ZnJvbSBzdWJwcm9jZXNzIGltcG9ydCBjaGVja19jYWxsCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gZXhlY3V0ZUNvbW1hbmQoY29tbWFuZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocHJvYzEucmV0dXJuY29kZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gZXhlY3V0ZUNvbW1hbmQoY29tbWFuZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHByb2MxLikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0ID0gZXhlY3V0ZUNvbW1hbmQoY29tbWFuZCkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>union</last-search>
+      <last-search encoding="base64">XDxTbGltQnVpbGRcPg==</last-search>
       <last-offset />
-      <last-pattern>union</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxTbGltQnVpbGRcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1287,6 +1291,7 @@
         <entry encoding="base64">XDxuZXdcPg==</entry>
         <entry encoding="base64">XDwwXD4=</entry>
         <entry>union</entry>
+        <entry encoding="base64">XDxTbGltQnVpbGRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s#/home/oletros/Descargas#/var/data/deluge#gci</entry>
