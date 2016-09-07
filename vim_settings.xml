@@ -69,8 +69,8 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" timestamp="1473087354269">
-        <mark key="'" line="85" column="46" />
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" timestamp="1473231336593">
+        <mark key="'" line="166" column="0" />
         <mark key="[" line="162" column="0" />
         <mark key="]" line="162" column="21" />
         <mark key="^" line="149" column="23" />
@@ -1227,6 +1227,9 @@
       <jump line="20" column="21" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/example.py" />
       <jump line="5" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/example.py" />
       <jump line="85" column="46" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
+      <jump line="58" column="27" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
+      <jump line="0" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
+      <jump line="166" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
