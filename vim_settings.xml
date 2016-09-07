@@ -70,11 +70,11 @@
         <mark key="." line="1" column="17" />
       </file>
       <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" timestamp="1473231336593">
-        <mark key="'" line="166" column="0" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="21" />
-        <mark key="^" line="149" column="23" />
-        <mark key="." line="162" column="0" />
+        <mark key="'" line="195" column="0" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="21" />
+        <mark key="^" line="178" column="23" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/further/gracefulcatch.js" timestamp="1445601497736">
         <mark key="'" line="4" column="0" />
@@ -665,8 +665,8 @@
         <mark key="^" line="21" column="5" />
         <mark key="." line="21" column="5" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/utils.py" timestamp="1472628360756">
-        <mark key="'" line="24" column="0" />
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/utils.py" timestamp="1473231986759">
+        <mark key="'" line="40" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 09/todostart/public/index.html" timestamp="1445231498595">
         <mark key="'" line="14" column="6" />
@@ -1230,6 +1230,10 @@
       <jump line="58" column="27" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
       <jump line="0" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
       <jump line="166" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
+      <jump line="29" column="8" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/utils.py" />
+      <jump line="57" column="4" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/utils.py" />
+      <jump line="41" column="18" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/utils.py" />
+      <jump line="40" column="4" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1239,7 +1243,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwwXD4=</text>
+        <text>union</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGltZS5zbGVlcCg1KQo=</text>
@@ -1276,10 +1280,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwwXD4=</last-search>
+      <last-search>union</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwwXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>union</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1291,6 +1295,7 @@
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxuZXdcPg==</entry>
         <entry encoding="base64">XDwwXD4=</entry>
+        <entry>union</entry>
       </history-search>
       <history-cmd>
         <entry>%s#/home/oletros/Descargas#/var/data/deluge#gci</entry>
