@@ -66,8 +66,8 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" timestamp="1473340783951">
-        <mark key="'" line="177" column="14" />
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" timestamp="1473342940157">
+        <mark key="'" line="106" column="31" />
         <mark key="[" line="109" column="46" />
         <mark key="]" line="109" column="46" />
         <mark key="^" line="109" column="46" />
@@ -1145,7 +1145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="4" filename="$USER_HOME$/Development/Javascript/mastering-typescript/example02.ts" />
       <jump line="34" column="18" filename="$USER_HOME$/Development/Javascript/mastering-typescript/example02.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/masteringts/example02.ts" />
       <jump line="8" column="22" filename="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/app.ts" />
@@ -1245,6 +1244,7 @@
       <jump line="321" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="99" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="314" column="35" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="106" column="31" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
