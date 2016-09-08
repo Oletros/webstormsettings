@@ -66,12 +66,12 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" timestamp="1473342940157">
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" timestamp="1473343613564">
         <mark key="'" line="106" column="31" />
-        <mark key="[" line="109" column="46" />
-        <mark key="]" line="109" column="46" />
-        <mark key="^" line="109" column="46" />
-        <mark key="." line="109" column="46" />
+        <mark key="[" line="148" column="41" />
+        <mark key="]" line="148" column="41" />
+        <mark key="^" line="148" column="39" />
+        <mark key="." line="148" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/further/gracefulcatch.js" timestamp="1445601497736">
         <mark key="'" line="4" column="0" />
@@ -1247,11 +1247,11 @@
       <jump line="106" column="31" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdQQVRIOiAlcycsIG9zLmdldGVudignUEFUSCcpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>PA</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTbGltQnVpbGRcPg==</text>
