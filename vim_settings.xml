@@ -66,12 +66,12 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" timestamp="1473416700192">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="113" column="38" />
-        <mark key="]" line="113" column="38" />
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" timestamp="1473417489012">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="118" column="46" />
+        <mark key="]" line="118" column="46" />
         <mark key="^" line="118" column="29" />
-        <mark key="." line="113" column="38" />
+        <mark key="." line="118" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/further/gracefulcatch.js" timestamp="1445601497736">
         <mark key="'" line="4" column="0" />
@@ -1145,7 +1145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="34" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
       <jump line="21" column="8" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
       <jump line="14" column="2" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
       <jump line="33" column="55" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
@@ -1245,13 +1244,14 @@
       <jump line="265" column="15" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="52" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="94" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
+      <jump line="91" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC9R</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC9R</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>TEMPLATE12600</text>
