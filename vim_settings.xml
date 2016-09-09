@@ -66,12 +66,12 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" timestamp="1473413209896">
-        <mark key="'" line="175" column="19" />
-        <mark key="[" line="118" column="18" />
-        <mark key="]" line="118" column="29" />
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" timestamp="1473416700192">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="113" column="38" />
+        <mark key="]" line="113" column="38" />
         <mark key="^" line="118" column="29" />
-        <mark key="." line="118" column="29" />
+        <mark key="." line="113" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/further/gracefulcatch.js" timestamp="1445601497736">
         <mark key="'" line="4" column="0" />
@@ -717,12 +717,12 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" timestamp="1473413175346">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="322" column="0" />
-        <mark key="]" line="322" column="46" />
-        <mark key="." line="322" column="0" />
-        <mark key="^" line="321" column="31" />
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" timestamp="1473416329291">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="156" column="52" />
+        <mark key="]" line="142" column="49" />
+        <mark key="." line="142" column="49" />
+        <mark key="^" line="142" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/dev/epublibre_node/test.yml" timestamp="1454807904917">
         <mark key="'" line="32" column="13" />
@@ -1145,15 +1145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/app-02.ts" />
-      <jump line="90" column="18" filename="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/app.ts" />
-      <jump line="17" column="24" filename="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/app-02.ts" />
-      <jump line="4" column="0" filename="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/app-02.ts" />
-      <jump line="4" column="0" filename="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/app-04.ts" />
-      <jump line="61" column="0" filename="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/app-04.ts" />
-      <jump line="69" column="20" filename="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/intermediates/app-04.ts" />
-      <jump line="70" column="4" filename="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/intermediates/app-04.ts" />
-      <jump line="66" column="14" filename="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/app.ts" />
       <jump line="3" column="34" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
       <jump line="21" column="8" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
       <jump line="14" column="2" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
@@ -1217,7 +1208,6 @@
       <jump line="5" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/example.py" />
       <jump line="58" column="27" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
       <jump line="0" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
-      <jump line="166" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
       <jump line="29" column="8" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/utils.py" />
       <jump line="57" column="4" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/utils.py" />
       <jump line="41" column="18" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/utils.py" />
@@ -1245,16 +1235,26 @@
       <jump line="180" column="31" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
       <jump line="11" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="175" column="19" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
+      <jump line="166" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
+      <jump line="413" column="18" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="57" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="233" column="27" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="225" column="45" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="0" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="42" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="265" column="15" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="52" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="94" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>result</text>
+        <text encoding="base64">IC9R</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text encoding="base64">IC9R</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTbGltQnVpbGRcPg==</text>
+        <text>TEMPLATE12600</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCdQQVRIOiAlcycsIG9zLmdldGVudignUEFUSCcpKQo=</text>
@@ -1291,10 +1291,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTbGltQnVpbGRcPg==</last-search>
+      <last-search>TEMPLATE12600</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTbGltQnVpbGRcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>TEMPLATE12600</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1308,6 +1308,9 @@
         <entry encoding="base64">XDwwXD4=</entry>
         <entry>union</entry>
         <entry encoding="base64">XDxTbGltQnVpbGRcPg==</entry>
+        <entry>template12601</entry>
+        <entry>TEMPLATE12601</entry>
+        <entry>TEMPLATE12600</entry>
       </history-search>
       <history-cmd>
         <entry>%s#/home/oletros/Descargas#/var/data/deluge#gci</entry>
