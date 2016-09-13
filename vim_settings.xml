@@ -716,11 +716,11 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" timestamp="1473688473452">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="156" column="52" />
-        <mark key="]" line="142" column="49" />
-        <mark key="." line="142" column="49" />
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" timestamp="1473753230226">
+        <mark key="'" line="144" column="8" />
+        <mark key="[" line="336" column="43" />
+        <mark key="]" line="336" column="43" />
+        <mark key="." line="336" column="43" />
         <mark key="^" line="142" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/dev/epublibre_node/test.yml" timestamp="1454807904917">
@@ -1144,9 +1144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="18" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
-      <jump line="34" column="14" filename="//mlgmuc00tfs003/i$/Builds/NET/33/Inator3/TRC-Current_DEV-PB-Daily/src/TRC_PB.msbuild" />
-      <jump line="54" column="0" filename="//mlgmuc00tfs003/i$/Builds/NET/33/Inator3/TRC-Current_DEV-PB-Daily/src/TRC_PB.msbuild" />
       <jump line="15" column="49" filename="//mlgmuc00tfs003/i$/Builds/NET/33/Inator3/TRC-Current_DEV-PB-Daily/src/TRC_PB.msbuild" />
       <jump line="1" column="90" filename="C:/Development/pinboard/src/BreezeMeeting" />
       <jump line="15" column="0" filename="C:/Development/pinboard/src/BreezeMeeting" />
@@ -1244,13 +1241,16 @@
       <jump line="177" column="16" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
       <jump line="135" column="45" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
       <jump line="201" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
+      <jump line="407" column="20" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="155" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="144" column="8" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0aW1laXQ6Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>TEMPLATE12600</text>
