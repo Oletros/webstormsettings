@@ -66,8 +66,8 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" timestamp="1473759212898">
-        <mark key="'" line="123" column="62" />
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" timestamp="1474022325416">
+        <mark key="'" line="155" column="34" />
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
@@ -653,8 +653,8 @@
         <mark key="^" line="21" column="5" />
         <mark key="." line="21" column="5" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/utils.py" timestamp="1473673736282">
-        <mark key="'" line="18" column="17" />
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/utils.py" timestamp="1474022354184">
+        <mark key="'" line="96" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 09/todostart/public/index.html" timestamp="1445231498595">
         <mark key="'" line="14" column="6" />
@@ -716,8 +716,8 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" timestamp="1473760857229">
-        <mark key="'" line="278" column="18" />
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" timestamp="1474022312299">
+        <mark key="'" line="63" column="48" />
         <mark key="[" line="336" column="43" />
         <mark key="]" line="336" column="43" />
         <mark key="." line="336" column="43" />
@@ -1144,9 +1144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="4" filename="$USER_HOME$/Documents/dev/masteringts/async02.ts" />
-      <jump line="72" column="0" filename="$USER_HOME$/Documents/dev/masteringts/async02.ts" />
-      <jump line="56" column="10" filename="$USER_HOME$/Documents/dev/masteringts/async02.ts" />
       <jump line="64" column="8" filename="$USER_HOME$/Documents/dev/masteringts/async02.js" />
       <jump line="30" column="14" filename="$USER_HOME$/Documents/dev/masteringts/async03.ts" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/dev/masteringts/async03.ts" />
@@ -1244,6 +1241,9 @@
       <jump line="123" column="62" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
       <jump line="19" column="17" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="278" column="18" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="63" column="48" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="155" column="34" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
+      <jump line="96" column="37" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
