@@ -30,6 +30,9 @@
         <mark key="^" line="14" column="55" />
         <mark key="." line="14" column="55" />
       </file>
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/PowerBuilderBuild.md" timestamp="1474275842550">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/thencatch/fulfilled.js" timestamp="1445403777269">
         <mark key="[" line="14" column="65" />
         <mark key="]" line="14" column="65" />
@@ -1144,7 +1147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="6" filename="$USER_HOME$/Documents/dev/masteringts/async02.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/masteringts/async02.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/masteringts/async03.js" />
       <jump line="27" column="0" filename="$USER_HOME$/Documents/dev/masteringts/async03.js" />
@@ -1244,6 +1246,7 @@
       <jump line="337" column="30" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="437" column="4" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="421" column="4" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="96" column="48" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1357,6 +1360,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
