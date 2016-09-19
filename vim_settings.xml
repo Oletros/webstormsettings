@@ -719,10 +719,10 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" timestamp="1474271554320">
-        <mark key="'" line="421" column="4" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="103" />
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" timestamp="1474280530609">
+        <mark key="'" line="416" column="0" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="66" />
         <mark key="." line="336" column="43" />
         <mark key="^" line="142" column="49" />
       </file>
@@ -1147,7 +1147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/masteringts/async02.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/masteringts/async03.js" />
       <jump line="27" column="0" filename="$USER_HOME$/Documents/dev/masteringts/async03.js" />
       <jump line="17" column="22" filename="$USER_HOME$/Documents/dev/masteringts/async03.ts" />
@@ -1247,16 +1246,17 @@
       <jump line="437" column="4" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="421" column="4" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="96" column="48" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="416" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBleGNsdWRlZGZpbGVzID0gWydwYnVuaXQuZXhlJywgJ3BidW5pdC5wYmQnLCAncGJ1bml0Y29yZS5wYmQnLCAncGJ1bml0ZnVuYy5wYmQnLCAndGVzdHVuaXQucGJkJ10K</text>
+        <text encoding="base64">ICAgIHZlcnNpb25yZWdleCA9IHJlLmNvbXBpbGUociIoXGR7Mn1cLlxkezJ9XC5cZHsyfSlCdWlsZChcZHs2fSkiKQo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>TEMPLATE12600</text>
+        <text>normal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRpbWUuc2xlZXAoNSkK</text>
@@ -1293,9 +1293,9 @@
       </register>
     </registers>
     <search>
-      <last-search>TEMPLATE12600</last-search>
+      <last-search>normal</last-search>
       <last-offset />
-      <last-pattern>TEMPLATE12600</last-pattern>
+      <last-pattern>normal</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1313,6 +1313,7 @@
         <entry>template12601</entry>
         <entry>TEMPLATE12601</entry>
         <entry>TEMPLATE12600</entry>
+        <entry>normal</entry>
       </history-search>
       <history-cmd>
         <entry>%s#/home/oletros/Descargas#/var/data/deluge#gci</entry>
