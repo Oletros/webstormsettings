@@ -921,11 +921,11 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/Build definitions.md" timestamp="1473250658707">
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/Build definitions.md" timestamp="1474442712738">
         <mark key="'" line="14" column="23" />
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="1" column="1" />
-        <mark key="." line="11" column="2" />
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="27" />
+        <mark key="." line="16" column="27" />
         <mark key="^" line="1" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/dev/masteringts/error_helper.js" timestamp="1470287327611">
@@ -1249,11 +1249,11 @@
       <jump line="416" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZlcnNpb25yZWdleCA9IHJlLmNvbXBpbGUociIoXGR7Mn1cLlxkezJ9XC5cZHsyfSlCdWlsZChcZHs2fSkiKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IFt4XQ==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IFt4XQ==</text>
       </register>
       <register name="/" type="4">
         <text>normal</text>
