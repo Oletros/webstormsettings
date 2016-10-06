@@ -23,15 +23,15 @@
         <mark key="^" line="20" column="2" />
         <mark key="." line="20" column="2" />
       </file>
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/PowerBuilderBuild.md" timestamp="1474275842550">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/1create/1raw.js" timestamp="1444195419347">
         <mark key="'" line="7" column="30" />
         <mark key="[" line="14" column="53" />
         <mark key="]" line="14" column="55" />
         <mark key="^" line="14" column="55" />
         <mark key="." line="14" column="55" />
-      </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/PowerBuilderBuild.md" timestamp="1474275842550">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/thencatch/fulfilled.js" timestamp="1445403777269">
         <mark key="[" line="14" column="65" />
@@ -102,19 +102,19 @@
         <mark key="^" line="76" column="21" />
         <mark key="." line="76" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 11/mocha/only.js" timestamp="1445964407884">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="14" column="2" />
-        <mark key="^" line="10" column="15" />
-        <mark key="." line="10" column="15" />
-      </file>
       <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/example.py" timestamp="1473341783244">
         <mark key="'" line="1" column="10" />
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="10" />
         <mark key="^" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 11/mocha/only.js" timestamp="1445964407884">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="14" column="2" />
+        <mark key="^" line="10" column="15" />
+        <mark key="." line="10" column="15" />
       </file>
       <file name="/Bash" timestamp="1470239314229">
         <mark key="[" line="0" column="0" />
@@ -340,6 +340,12 @@
         <mark key="^" line="27" column="6" />
         <mark key="." line="27" column="6" />
       </file>
+      <file name="$USER_HOME$/Development/Misc/ServerConfig/Fedora/initial_ansible_install.sh" timestamp="1474912380796">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="1" column="45" />
+        <mark key="^" line="1" column="45" />
+        <mark key="." line="1" column="45" />
+      </file>
       <file name="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/app-04.ts" timestamp="1469986185961">
         <mark key="'" line="72" column="0" />
         <mark key="[" line="63" column="14" />
@@ -444,6 +450,12 @@
         <mark key="^" line="173" column="28" />
         <mark key="." line="173" column="28" />
       </file>
+      <file name="$USER_HOME$/Development/Misc/ServerConfig/Fedora/ddclient.yml" timestamp="1474907250880">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+        <mark key="^" line="7" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/7auth/1auth.js" timestamp="1444712158335">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -475,6 +487,13 @@
         <mark key="]" line="17" column="3" />
         <mark key="^" line="17" column="3" />
         <mark key="." line="17" column="3" />
+      </file>
+      <file name="$USER_HOME$/Development/Javascript/server-configuration/FranceTest.md" timestamp="1475046537534">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 11/mocha/asyncbad.js" timestamp="1445964857519">
         <mark key="'" line="10" column="3" />
@@ -643,8 +662,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/Development/pinboard/src/mailPDFPOC.md" timestamp="1471955957657">
-        <mark key="'" line="23" column="29" />
+      <file name="C:/Development/pinboard/src/mailPDFPOC.md" timestamp="1474960313266">
+        <mark key="'" line="33" column="44" />
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="117" />
         <mark key="." line="39" column="117" />
@@ -948,6 +967,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/Misc/ServerConfig/Fedora/nfs.yml" timestamp="1474907299207">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="10" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/approute/2route.js" timestamp="1444837643434">
         <mark key="[" line="16" column="18" />
         <mark key="]" line="16" column="18" />
@@ -982,7 +1007,7 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1471592683095">
+      <file name="/Dummy.txt" timestamp="1474926263621">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 04/file01.js" timestamp="1429043907101">
@@ -1147,9 +1172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/masteringts/async03.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/Documents/dev/masteringts/async03.js" />
-      <jump line="17" column="22" filename="$USER_HOME$/Documents/dev/masteringts/async03.ts" />
       <jump line="25" column="5" filename="$USER_HOME$/Documents/dev/masteringts/error_helper.js" />
       <jump line="1" column="32" filename="$USER_HOME$/Documents/dev/masteringts/ErrorHelper.d.ts" />
       <jump line="10" column="5" filename="$USER_HOME$/Documents/dev/masteringts/ErrorHelperTypeScript.ts" />
@@ -1247,46 +1269,49 @@
       <jump line="421" column="4" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="96" column="48" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
       <jump line="416" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powerbuilder_Build.py" />
+      <jump line="33" column="44" filename="C:/Development/pinboard/src/mailPDFPOC.md" />
+      <jump line="18" column="0" filename="$USER_HOME$/Development/Javascript/server-configuration/FranceTest.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/Javascript/server-configuration/FranceTest.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IFt4XQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBGcmFuY2UgY3lsaW5kZXIgbWlncmF0aW9uCgojIyBUYXNrIHRvIHBlcmZvcm0KCiogQ3JlYXRlIG1hdGVyaWFsIHR5cGUKKiBDcmVhdGUvdXBkYXRlIG1vbGVjdWxlIG1hdGVyaWFsCiogQ3JlYXRlL3VwZGF0ZSBjeWxpbmRlciBtYXRlcmlhbAoqIEFzc29jaWF0ZSBtb2xlY3VsZSB3aXRoIGN5bGluZGVycwoKIyMgQ3JlYXRlIG1hdGVyaWFsIHR5cGVzCgp8IEVudmlyb25tZW50ICAgICAgIHwgTWF0ZXJpYWwgdHlwZSBpZCB8IE1hdGVyaWFsIG5hbWUgfAp8Oi0tLS0tLS0tLS0tLS0tLS0tLXwtLS0tLS0tLS0tLS0tLS0tLTp8Oi0tLS0tLS0tLS0tLS0tfAp8IFRSX0ZSX1RFU1RfRERTICAgIHwgICAgICAgICAgICAgICAgNiB8IE1vbGVjdWxlICAgICAgfAp8IFRSX0ZSX1RFU1RfRERTICAgIHwgICAgICAgICAgICAgICAgMyB8IEN5bGluZGVyICAgICAgfAp8IFRSX0ZSX1NBTkRCT1hfRERTIHwgICAgICAgICAgICAgICAgNiB8IE1vbGVjdWxlICAgICAgfAp8IFRSX0ZSX1NBTkRCT1hfRERTIHwgICAgICAgICAgICAgICAgMyB8IEN5bGluZGVyICAgICAgfAoK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFt4XQ==</text>
+        <text>number</text>
       </register>
       <register name="/" type="4">
         <text>normal</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoNSkK</text>
+      <register name="0" type="4">
+        <text>TR_FR_TEST_DDS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0aW1laXQ6Cg==</text>
+        <text encoding="base64">fCAgICAgICAgICAgICAgICAgICB8ICAgICAgICAgICAgICAgICAgfCAgICAgICAgICAgICAgIHwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBjb3VudDwzIGFuZCBlbGFwc2VkX3RpbWUK</text>
+        <text encoding="base64">ICBiZWNvbWVfbWV0aG9kOiBzdWRvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudCA9IDEKICAgICAgICBlbGFwc2VkX3RpbWUgPSAwCg==</text>
+        <text encoding="base64">ICBiZWNvbWVfbWV0aG9kOiBzdWRvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBlbGFwc2VkX3RpbWUK</text>
+        <text encoding="base64">ICAgICAgICBpZiB0aW1laXQ6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBjb3VudDwzIGFuZCAK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSBjb3VudDwzIGFuZCBlbGFwc2VkX3RpbWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcy50aW1lLgo=</text>
+        <text encoding="base64">ICAgICAgICBjb3VudCA9IDEKICAgICAgICBlbGFwc2VkX3RpbWUgPSAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1hbmQgPSAnc3RhcnQgL3dhaXQgcHdyZ24xMjUgJyArIG9wdGlvbnNbJ2J1aWxkX2V4ZSddLmZvcm1hdChnZW5maWxlPWdlbmZpbGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBlbGFwc2VkX3RpbWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9zLmVudmlyb25bJycgXAogICAgICAgICAgICAgICAnJ10K</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSBjb3VudDwzIGFuZCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCmltcG9ydCBzdWJwcm9jZXNzCgppbXBvcnQgdGltZQoKZ2VuZmlsZSA9ICdDOlxcSElTQ29sbGVjdGlvblxcSW5hdG9yM1xcVFJDXFxDdXJyZW50XFxQb3dlcmJ1aWxkZXJcXHRyY19iYXRjaC5nZW4nCm9yaWdpbmFsX3BhdGggPSBvcy5nZXRjd2QoKQooYmFzZXBhdGgsIGJhc2VmaWxlKSA9IG9zLnBhdGguc3BsaXQoZ2VuZmlsZSkKZXJyZmlsZSA9IGJhc2VmaWxlICsgJy5lcnInCm91dGZpbGUgPSBiYXNlZmlsZSArICcub3V0Jwpjb21tYW5kMSA9ICciQzpcXFByb2dyYW0gRmlsZXMgKHg4NilcXEUuIENyYW5lIENvbXB1dGluZ1xcUG93ZXJHZW4gUHJvZmVzc2lvbmFsXFxwd3JnbjEyNi5leGUiIC9LPSJDOlxcSElTQ29sbGVjdGlvblxcSW5hdG9yM1xcVFJDXFxDdXJyZW50XFxQb3dlcmJ1aWxkZXJcXHRyY19iYXRjaC5nZW4iIC9QQkcgL05SUCcKY29tbWFuZDIgPSAnIkM6XFxQcm9ncmFtIEZpbGVzICh4ODYpXFxFLiBDcmFuZSBDb21wdXRpbmdcXFBvd2VyR2VuIFByb2Zlc3Npb25hbFxccHdyZ24xMjYuZXhlIiAvQT0iQzpcXEhJU0NvbGxlY3Rpb25cXEluYXRvcjNcXFRSQ1xcQ3VycmVudFxcUG93ZXJidWlsZGVyXFx0cmNfYmF0Y2guZ2VuIiAvTlMnCm9zLmNoZGlyKGJhc2VwYXRoKQp3aXRoIG9wZW4ob3V0ZmlsZSwgIndiIikgYXMgb3V0LCBvcGVuKGVycmZpbGUsICJ3YiIpIGFzIGVycjoKICAgIHByb2MxID0gc3VicHJvY2Vzcy5Qb3Blbihjb21tYW5kMSwgc3Rkb3V0PW91dCwgc3RkZXJyPWVycikKICAgIHdoaWxlIHByb2MxLnBvbGwoKSBpcyBOb25lOgogICAgICAgIHRpbWUuc2xlZXAoMC41KQogICAgcHJpbnQocHJvYzEucmV0dXJuY29kZSkKICAgIHRpbWUuc2xlZXAoNSkKICAgIHByb2MyID0gc3VicHJvY2Vzcy5Qb3Blbihjb21tYW5kMiwgc3Rkb3V0PW91dCwgc3RkZXJyPWVycikKICAgIHdoaWxlIHByb2MyLnBvbGwoKSBpcyBOb25lOgogICAgICAgIHRpbWUuc2xlZXAoMC41KQogICAgcHJpbnQocHJvYzIucmV0dXJuY29kZSkKb3MuY2hkaXIob3JpZ2luYWxfcGF0aCkKdGltZS5zbGVlcCgxMCkKZ2VuZmlsZSA9ICdDOlxcSElTQ29sbGVjdGlvblxcSW5hdG9yM1xcVFJDXFxDdXJyZW50XFxQb3dlcmJ1aWxkZXJcXHRyYy5nZW4nCm9yaWdpbmFsX3BhdGggPSBvcy5nZXRjd2QoKQooYmFzZXBhdGgsIGJhc2VmaWxlKSA9IG9zLnBhdGguc3BsaXQoZ2VuZmlsZSkKZXJyZmlsZSA9IGJhc2VmaWxlICsgJy5lcnInCm91dGZpbGUgPSBiYXNlZmlsZSArICcub3V0Jwpjb21tYW5kMSA9ICciQzpcXFByb2dyYW0gRmlsZXMgKHg4NilcXEUuIENyYW5lIENvbXB1dGluZ1xcUG93ZXJHZW4gUHJvZmVzc2lvbmFsXFxwd3JnbjEyNi5leGUiIC9LPSJDOlxcSElTQ29sbGVjdGlvblxcSW5hdG9yM1xcVFJDXFxDdXJyZW50XFxQb3dlcmJ1aWxkZXJcXHRyYy5nZW4iIC9QQkcgL05SUCcKY29tbWFuZDIgPSAnIkM6XFxQcm9ncmFtIEZpbGVzICh4ODYpXFxFLiBDcmFuZSBDb21wdXRpbmdcXFBvd2VyR2VuIFByb2Zlc3Npb25hbFxccHdyZ24xMjYuZXhlIiAvQT0iQzpcXEhJU0NvbGxlY3Rpb25cXEluYXRvcjNcXFRSQ1xcQ3VycmVudFxcUG93ZXJidWlsZGVyXFx0cmMuZ2VuIiAvTlMnCm9zLmNoZGlyKGJhc2VwYXRoKQp3aXRoIG9wZW4ob3V0ZmlsZSwgIndiIikgYXMgb3V0LCBvcGVuKGVycmZpbGUsICJ3YiIpIGFzIGVycjoKICAgIHByb2MxID0gc3VicHJvY2Vzcy5Qb3Blbihjb21tYW5kMSwgc3Rkb3V0PW91dCwgc3RkZXJyPWVycikKICAgIHdoaWxlIHByb2MxLnBvbGwoKSBpcyBOb25lOgogICAgICAgIHRpbWUuc2xlZXAoMC41KQogICAgcHJpbnQocHJvYzEucmV0dXJuY29kZSkKICAgIHRpbWUuc2xlZXAoNSkKICAgIHByb2MyID0gc3VicHJvY2Vzcy5Qb3Blbihjb21tYW5kMiwgc3Rkb3V0PW91dCwgc3RkZXJyPWVycikKICAgIHdoaWxlIHByb2MyLnBvbGwoKSBpcyBOb25lOgogICAgICAgIHRpbWUuc2xlZXAoMC41KQogICAgcHJpbnQocHJvYzIucmV0dXJuY29kZSkKb3MuY2hkaXIob3JpZ2luYWxfcGF0aCkK</text>
+        <text encoding="base64">ICAgICAgICBvcy50aW1lLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1323,6 +1348,7 @@
         <entry>q</entry>
         <entry>W</entry>
         <entry>wq</entry>
+        <entry>ww</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
