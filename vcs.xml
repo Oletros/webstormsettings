@@ -7,6 +7,10 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="http://oletros@home.oletros.net:7990/scm/per/server-configuration.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="http://oletros@home.oletros.net:7990/scm/lear/ng-book2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
