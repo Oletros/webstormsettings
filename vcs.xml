@@ -6,8 +6,12 @@
           <option name="url" value="http://oletros@192.168.1.6:7990/scm/lear/mastering-typescript.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://oletros@home.oletros.net:7990/scm/lear/ng-book2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Development/Javascript" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/dev/ng-book2" />
   </component>
 </application>
