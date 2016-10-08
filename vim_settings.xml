@@ -891,6 +891,9 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="11" column="26" />
       </file>
+      <file name="vim_settings.xml" timestamp="1475959354958">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/5middleware/5object.js" timestamp="1444368145017">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="7" column="3" />
@@ -1081,6 +1084,9 @@
         <mark key="]" line="17" column="47" />
         <mark key="^" line="17" column="47" />
         <mark key="." line="17" column="47" />
+      </file>
+      <file name="vcs.xml" timestamp="1475959278214">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/spawn/basics.js" timestamp="1445839702571">
         <mark key="[" line="18" column="2" />
