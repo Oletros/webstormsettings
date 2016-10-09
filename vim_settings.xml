@@ -929,6 +929,11 @@
         <mark key="." line="47" column="18" />
         <mark key="^" line="47" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/ng-book2/test/angular2_hello_world/README.md" timestamp="1475989029251">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" timestamp="1469996748684">
         <mark key="'" line="72" column="3" />
         <mark key="[" line="76" column="21" />
@@ -1189,10 +1194,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://oletros@</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>http://oletros@</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1w+</text>
