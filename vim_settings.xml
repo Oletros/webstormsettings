@@ -318,7 +318,7 @@
         <mark key="^" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1472804912543">
+      <file name="/Python Console" timestamp="1476962555915">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/node-api/server.js" timestamp="1428533979363">
@@ -527,12 +527,6 @@
         <mark key="]" line="88" column="0" />
         <mark key="^" line="88" column="0" />
         <mark key="." line="88" column="0" />
-      </file>
-      <file name="C:/Development/Provisioning/.gitignore" timestamp="1475756076105">
-        <mark key="'" line="296" column="0" />
-        <mark key="[" line="296" column="0" />
-        <mark key="]" line="296" column="0" />
-        <mark key="." line="296" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/4connect/2simpler.js" timestamp="1444366674111">
         <mark key="[" line="11" column="0" />
@@ -871,7 +865,6 @@
         <mark key="." line="13" column="14" />
         <mark key="^" line="12" column="18" />
       </file>
-      <file name="C:/Development/Provisioning/roles/common/files/setup" timestamp="1475829252716" />
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/crud/basic.js" timestamp="1444971198866">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="21" />
@@ -1007,7 +1000,7 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475756204304">
+      <file name="/Dummy.txt" timestamp="1474926263621">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 04/file01.js" timestamp="1429043907101">
@@ -1092,6 +1085,13 @@
         <mark key="^" line="61" column="18" />
         <mark key="." line="61" column="18" />
       </file>
+      <file name="C:/Development/DDS06Test/src/main.py" timestamp="1476963892155">
+        <mark key="'" line="42" column="16" />
+        <mark key="[" line="291" column="63" />
+        <mark key="]" line="291" column="63" />
+        <mark key="." line="291" column="63" />
+        <mark key="^" line="291" column="63" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/9ssl/1basic.js" timestamp="1444714077605">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="4" column="0" />
@@ -1172,9 +1172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
-      <jump line="3" column="4" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/example.py" />
-      <jump line="111" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
       <jump line="11" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/example.py" />
       <jump line="75" column="34" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
       <jump line="20" column="21" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/example.py" />
@@ -1254,73 +1251,76 @@
       <jump line="33" column="44" filename="C:/Development/pinboard/src/mailPDFPOC.md" />
       <jump line="18" column="0" filename="$USER_HOME$/Development/Javascript/server-configuration/FranceTest.md" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/Javascript/server-configuration/FranceTest.md" />
-      <jump line="4" column="0" filename="C:/Development/Provisioning/.gitignore" />
-      <jump line="6" column="1" filename="C:/Development/Provisioning/.gitignore" />
-      <jump line="7" column="1" filename="C:/Development/Provisioning/.gitignore" />
-      <jump line="8" column="1" filename="C:/Development/Provisioning/.gitignore" />
-      <jump line="9" column="1" filename="C:/Development/Provisioning/.gitignore" />
-      <jump line="10" column="1" filename="C:/Development/Provisioning/.gitignore" />
-      <jump line="13" column="1" filename="C:/Development/Provisioning/.gitignore" />
-      <jump line="14" column="1" filename="C:/Development/Provisioning/.gitignore" />
-      <jump line="15" column="1" filename="C:/Development/Provisioning/.gitignore" />
-      <jump line="16" column="1" filename="C:/Development/Provisioning/.gitignore" />
-      <jump line="17" column="1" filename="C:/Development/Provisioning/.gitignore" />
-      <jump line="18" column="1" filename="C:/Development/Provisioning/.gitignore" />
-      <jump line="21" column="1" filename="C:/Development/Provisioning/.gitignore" />
-      <jump line="22" column="1" filename="C:/Development/Provisioning/.gitignore" />
-      <jump line="25" column="1" filename="C:/Development/Provisioning/.gitignore" />
-      <jump line="35" column="16" filename="C:/Development/Provisioning/.gitignore" />
-      <jump line="36" column="1" filename="C:/Development/Provisioning/.gitignore" />
-      <jump line="296" column="0" filename="C:/Development/Provisioning/.gitignore" />
+      <jump line="12" column="48" filename="C:/Development/DDS06Test/src/main.py" />
+      <jump line="8" column="0" filename="C:/Development/DDS06Test/src/main.py" />
+      <jump line="53" column="0" filename="C:/Development/DDS06Test/src/main.py" />
+      <jump line="23" column="0" filename="C:/Development/DDS06Test/src/main.py" />
+      <jump line="4" column="0" filename="C:/Development/DDS06Test/src/main.py" />
+      <jump line="73" column="0" filename="C:/Development/DDS06Test/src/main.py" />
+      <jump line="244" column="21" filename="C:/Development/DDS06Test/src/main.py" />
+      <jump line="0" column="0" filename="C:/Development/DDS06Test/src/main.py" />
+      <jump line="259" column="37" filename="C:/Development/DDS06Test/src/main.py" />
+      <jump line="268" column="0" filename="C:/Development/DDS06Test/src/main.py" />
+      <jump line="2" column="0" filename="C:/Development/DDS06Test/src/main.py" />
+      <jump line="246" column="3" filename="C:/Development/DDS06Test/src/main.py" />
+      <jump line="13" column="23" filename="C:/Development/DDS06Test/src/main.py" />
+      <jump line="44" column="12" filename="C:/Development/DDS06Test/src/main.py" />
+      <jump line="3" column="0" filename="C:/Development/DDS06Test/src/main.py" />
+      <jump line="262" column="0" filename="C:/Development/DDS06Test/src/main.py" />
+      <jump line="1" column="0" filename="C:/Development/DDS06Test/src/main.py" />
+      <jump line="282" column="24" filename="C:/Development/DDS06Test/src/main.py" />
+      <jump line="61" column="23" filename="C:/Development/DDS06Test/src/main.py" />
+      <jump line="291" column="21" filename="C:/Development/DDS06Test/src/main.py" />
+      <jump line="42" column="16" filename="C:/Development/DDS06Test/src/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiMgSmV0QnJhaW5zIFJpZGVyCi5pZGVhLwoqLnNsbi5pbWwK</text>
+      <register name="&quot;" type="4">
+        <text>services</text>
       </register>
       <register name="-" type="4">
-        <text>number</text>
+        <text>services</text>
       </register>
       <register name="/" type="4">
-        <text>idea</text>
+        <text>normal</text>
       </register>
-      <register name="0" type="4">
-        <text>TR_FR_TEST_DDS</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJQcm9jZXNzaW5nIHNlcnZpY2UgezB9Ii5mb3JtYXQoc2VydmljZSwgYmFzZTY0RmlybSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiMgSmV0QnJhaW5zIFJpZGVyCi5pZGVhLwoqLnNsbi5pbWwK</text>
+        <text encoding="base64">ICAgIGZvciBzZXJ2aWNlRGF0YSBpbiBzZXJ2aWNlczoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LmdpdGlnbm9yZQo=</text>
+        <text encoding="base64">ICAgIHNlcnZpY2VSZXN1bHQgPSBbcG9vbC5hcHBseV9hc3luYyhvcy5nZXRwaWQsICgpKSBmb3IgaSBpbiByYW5nZSg0KV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LmlkZWEvUHJvdmlzaW9uaW5nLmltbAouaWRlYS9hdGxhc3NpYW4taWRlLXBsdWdpbi54bWwKLmlkZWEvZW5jb2RpbmdzLnhtbAouaWRlYS9tb2R1bGVzLnhtbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fCAgICAgICAgICAgICAgICAgICB8ICAgICAgICAgICAgICAgICAgfCAgICAgICAgICAgICAgIHwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBiZWNvbWVfbWV0aG9kOiBzdWRvCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiUHJvY2Vzc2luZyBzZXJ2aWNlIHswfSIuZm9ybWF0KHNlcnZpY2VEYXRhWydzZXJ2aWNlJ10pKQogICAgICAgIHJlc3VsdCA9IGNoZWNrSW1hZ2Uoc2VydmljZURhdGFbJ3NpZ25hdHVyZSddKQogICAgICAgIHNlcnZpY2VEYXRhWydyZXN1bHQnXSA9IHJlc3VsdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBiZWNvbWVfbWV0aG9kOiBzdWRvCg==</text>
+        <text encoding="base64">ICAgIGZvciBzZXJ2aWNlIGluIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0aW1laXQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhc2U2NEZpcm0gKz0gcm93WydmaXJtYV9wYWNpZW50ZSddCiAgICAgICAgICAgIHByaW50KCJQcm9jZXNzaW5nIHNlcnZpY2UgezB9Ii5mb3JtYXQoc2VydmljZSwgYmFzZTY0RmlybSkpCiAgICAgICAgICAgIHNhdmVGaXJtKHNlcnZpY2UsIGJhc2U2NEZpcm0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBjb3VudDwzIGFuZCBlbGFwc2VkX3RpbWUK</text>
+        <text encoding="base64">ICAgICAgICBmb3Igc2VydmljZSBpbiBzZXJ2aWNlc0xpc3Q6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudCA9IDEKICAgICAgICBlbGFwc2VkX3RpbWUgPSAwCg==</text>
+        <text encoding="base64">ICAgIHNpemUgPSAxMjgsIDEyOAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>idea</last-search>
+      <last-search>normal</last-search>
       <last-offset />
-      <last-pattern>idea</last-pattern>
+      <last-pattern>normal</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1339,7 +1339,6 @@
         <entry>TEMPLATE12601</entry>
         <entry>TEMPLATE12600</entry>
         <entry>normal</entry>
-        <entry>idea</entry>
       </history-search>
       <history-cmd>
         <entry>%s#/home/oletros/Descargas#/var/data/deluge#gci</entry>
@@ -1391,6 +1390,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
