@@ -1085,12 +1085,12 @@
         <mark key="^" line="61" column="18" />
         <mark key="." line="61" column="18" />
       </file>
-      <file name="C:/Development/DDS06Test/src/main.py" timestamp="1476963892155">
-        <mark key="'" line="42" column="16" />
-        <mark key="[" line="291" column="63" />
-        <mark key="]" line="291" column="63" />
-        <mark key="." line="291" column="63" />
-        <mark key="^" line="291" column="63" />
+      <file name="C:/Development/DDS06Test/src/main.py" timestamp="1476965822423">
+        <mark key="'" line="283" column="29" />
+        <mark key="[" line="282" column="22" />
+        <mark key="]" line="283" column="29" />
+        <mark key="." line="283" column="29" />
+        <mark key="^" line="283" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/9ssl/1basic.js" timestamp="1444714077605">
         <mark key="'" line="4" column="0" />
@@ -1172,7 +1172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/example.py" />
       <jump line="75" column="34" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
       <jump line="20" column="21" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/example.py" />
       <jump line="5" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/example.py" />
@@ -1272,13 +1271,14 @@
       <jump line="61" column="23" filename="C:/Development/DDS06Test/src/main.py" />
       <jump line="291" column="21" filename="C:/Development/DDS06Test/src/main.py" />
       <jump line="42" column="16" filename="C:/Development/DDS06Test/src/main.py" />
+      <jump line="283" column="29" filename="C:/Development/DDS06Test/src/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>services</text>
+        <text>length()</text>
       </register>
       <register name="-" type="4">
-        <text>services</text>
+        <text>length()</text>
       </register>
       <register name="/" type="4">
         <text>normal</text>
@@ -1287,31 +1287,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCJQcm9jZXNzaW5nIHNlcnZpY2UgezB9Ii5mb3JtYXQoc2VydmljZSwgYmFzZTY0RmlybSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciBzZXJ2aWNlRGF0YSBpbiBzZXJ2aWNlczoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2VSZXN1bHQgPSBbcG9vbC5hcHBseV9hc3luYyhvcy5nZXRwaWQsICgpKSBmb3IgaSBpbiByYW5nZSg0KV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG90YWxTZXJ2aWNlcyA9IGN1cnNvci5sZW5ndGgoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzZXJ2aWNlUmVzdWx0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlcnZpY2VSZXN1bHQgPSBbcG9vbC5hcHBseV9hc3luYyhjaGVja1NlcnZpY2Uoc2VydmljZURhdGEpKSBmb3Igc2VydmljZURhdGEgaW4gc2VydmljZXNdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiUHJvY2Vzc2luZyBzZXJ2aWNlIHswfSIuZm9ybWF0KHNlcnZpY2VEYXRhWydzZXJ2aWNlJ10pKQogICAgICAgIHJlc3VsdCA9IGNoZWNrSW1hZ2Uoc2VydmljZURhdGFbJ3NpZ25hdHVyZSddKQogICAgICAgIHNlcnZpY2VEYXRhWydyZXN1bHQnXSA9IHJlc3VsdAo=</text>
+        <text encoding="base64">ICAgIGZvciBzZXJ2aWNlRGF0YSBpbiBzZXJ2aWNlczoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBzZXJ2aWNlIGluIAo=</text>
+        <text encoding="base64">ICAgIHNlcnZpY2VSZXN1bHQgPSBbcG9vbC5hcHBseV9hc3luYyhvcy5nZXRwaWQsICgpKSBmb3IgaSBpbiByYW5nZSg0KV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhc2U2NEZpcm0gKz0gcm93WydmaXJtYV9wYWNpZW50ZSddCiAgICAgICAgICAgIHByaW50KCJQcm9jZXNzaW5nIHNlcnZpY2UgezB9Ii5mb3JtYXQoc2VydmljZSwgYmFzZTY0RmlybSkpCiAgICAgICAgICAgIHNhdmVGaXJtKHNlcnZpY2UsIGJhc2U2NEZpcm0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igc2VydmljZSBpbiBzZXJ2aWNlc0xpc3Q6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNpemUgPSAxMjgsIDEyOAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiUHJvY2Vzc2luZyBzZXJ2aWNlIHswfSIuZm9ybWF0KHNlcnZpY2VEYXRhWydzZXJ2aWNlJ10pKQogICAgICAgIHJlc3VsdCA9IGNoZWNrSW1hZ2Uoc2VydmljZURhdGFbJ3NpZ25hdHVyZSddKQogICAgICAgIHNlcnZpY2VEYXRhWydyZXN1bHQnXSA9IHJlc3VsdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
