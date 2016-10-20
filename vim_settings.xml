@@ -1085,12 +1085,12 @@
         <mark key="^" line="61" column="18" />
         <mark key="." line="61" column="18" />
       </file>
-      <file name="C:/Development/DDS06Test/src/main.py" timestamp="1476967716242">
+      <file name="C:/Development/DDS06Test/src/main.py" timestamp="1476970504231">
         <mark key="'" line="35" column="69" />
-        <mark key="[" line="36" column="65" />
-        <mark key="]" line="36" column="65" />
-        <mark key="^" line="36" column="65" />
-        <mark key="." line="36" column="65" />
+        <mark key="[" line="36" column="63" />
+        <mark key="]" line="36" column="73" />
+        <mark key="^" line="36" column="73" />
+        <mark key="." line="36" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/9ssl/1basic.js" timestamp="1444714077605">
         <mark key="'" line="4" column="0" />
@@ -1275,10 +1275,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>D</text>
+        <text>ES_PRD</text>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text>ES_PRD</text>
       </register>
       <register name="/" type="4">
         <text>normal</text>
