@@ -528,6 +528,12 @@
         <mark key="^" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
+      <file name="C:/Development/Provisioning/.gitignore" timestamp="1475756076105">
+        <mark key="'" line="296" column="0" />
+        <mark key="[" line="296" column="0" />
+        <mark key="]" line="296" column="0" />
+        <mark key="." line="296" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/4connect/2simpler.js" timestamp="1444366674111">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -865,6 +871,7 @@
         <mark key="." line="13" column="14" />
         <mark key="^" line="12" column="18" />
       </file>
+      <file name="C:/Development/Provisioning/roles/common/files/setup" timestamp="1475829252716" />
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/crud/basic.js" timestamp="1444971198866">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="21" />
@@ -1000,7 +1007,7 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474926263621">
+      <file name="/Dummy.txt" timestamp="1475756204304">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 04/file01.js" timestamp="1429043907101">
@@ -1165,24 +1172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="5" filename="$USER_HOME$/Documents/dev/masteringts/error_helper.js" />
-      <jump line="1" column="32" filename="$USER_HOME$/Documents/dev/masteringts/ErrorHelper.d.ts" />
-      <jump line="10" column="5" filename="$USER_HOME$/Documents/dev/masteringts/ErrorHelperTypeScript.ts" />
-      <jump line="10" column="36" filename="$USER_HOME$/Documents/dev/masteringts/ErrorHelper.d.ts" />
-      <jump line="15" column="26" filename="$USER_HOME$/Documents/dev/masteringts/mvc01/mvc01.ts" />
-      <jump line="4" column="11" filename="$USER_HOME$/Documents/dev/masteringts/mvc01/view01.html" />
-      <jump line="84" column="17" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
-      <jump line="26" column="0" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
-      <jump line="39" column="19" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
-      <jump line="34" column="22" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
-      <jump line="8" column="0" filename="C:/Development/pinboard/src/mailPDFPOC.md" />
-      <jump line="23" column="29" filename="C:/Development/pinboard/src/mailPDFPOC.md" />
-      <jump line="19" column="53" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
-      <jump line="24" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/utils.py" />
-      <jump line="78" column="37" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
-      <jump line="61" column="23" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
-      <jump line="7" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
-      <jump line="95" column="39" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
       <jump line="12" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
       <jump line="3" column="4" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/example.py" />
       <jump line="111" column="0" filename="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/powergen.py" />
@@ -1265,55 +1254,73 @@
       <jump line="33" column="44" filename="C:/Development/pinboard/src/mailPDFPOC.md" />
       <jump line="18" column="0" filename="$USER_HOME$/Development/Javascript/server-configuration/FranceTest.md" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/Javascript/server-configuration/FranceTest.md" />
+      <jump line="4" column="0" filename="C:/Development/Provisioning/.gitignore" />
+      <jump line="6" column="1" filename="C:/Development/Provisioning/.gitignore" />
+      <jump line="7" column="1" filename="C:/Development/Provisioning/.gitignore" />
+      <jump line="8" column="1" filename="C:/Development/Provisioning/.gitignore" />
+      <jump line="9" column="1" filename="C:/Development/Provisioning/.gitignore" />
+      <jump line="10" column="1" filename="C:/Development/Provisioning/.gitignore" />
+      <jump line="13" column="1" filename="C:/Development/Provisioning/.gitignore" />
+      <jump line="14" column="1" filename="C:/Development/Provisioning/.gitignore" />
+      <jump line="15" column="1" filename="C:/Development/Provisioning/.gitignore" />
+      <jump line="16" column="1" filename="C:/Development/Provisioning/.gitignore" />
+      <jump line="17" column="1" filename="C:/Development/Provisioning/.gitignore" />
+      <jump line="18" column="1" filename="C:/Development/Provisioning/.gitignore" />
+      <jump line="21" column="1" filename="C:/Development/Provisioning/.gitignore" />
+      <jump line="22" column="1" filename="C:/Development/Provisioning/.gitignore" />
+      <jump line="25" column="1" filename="C:/Development/Provisioning/.gitignore" />
+      <jump line="35" column="16" filename="C:/Development/Provisioning/.gitignore" />
+      <jump line="36" column="1" filename="C:/Development/Provisioning/.gitignore" />
+      <jump line="296" column="0" filename="C:/Development/Provisioning/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBGcmFuY2UgY3lsaW5kZXIgbWlncmF0aW9uCgojIyBUYXNrIHRvIHBlcmZvcm0KCiogQ3JlYXRlIG1hdGVyaWFsIHR5cGUKKiBDcmVhdGUvdXBkYXRlIG1vbGVjdWxlIG1hdGVyaWFsCiogQ3JlYXRlL3VwZGF0ZSBjeWxpbmRlciBtYXRlcmlhbAoqIEFzc29jaWF0ZSBtb2xlY3VsZSB3aXRoIGN5bGluZGVycwoKIyMgQ3JlYXRlIG1hdGVyaWFsIHR5cGVzCgp8IEVudmlyb25tZW50ICAgICAgIHwgTWF0ZXJpYWwgdHlwZSBpZCB8IE1hdGVyaWFsIG5hbWUgfAp8Oi0tLS0tLS0tLS0tLS0tLS0tLXwtLS0tLS0tLS0tLS0tLS0tLTp8Oi0tLS0tLS0tLS0tLS0tfAp8IFRSX0ZSX1RFU1RfRERTICAgIHwgICAgICAgICAgICAgICAgNiB8IE1vbGVjdWxlICAgICAgfAp8IFRSX0ZSX1RFU1RfRERTICAgIHwgICAgICAgICAgICAgICAgMyB8IEN5bGluZGVyICAgICAgfAp8IFRSX0ZSX1NBTkRCT1hfRERTIHwgICAgICAgICAgICAgICAgNiB8IE1vbGVjdWxlICAgICAgfAp8IFRSX0ZSX1NBTkRCT1hfRERTIHwgICAgICAgICAgICAgICAgMyB8IEN5bGluZGVyICAgICAgfAoK</text>
+        <text encoding="base64">CiMgSmV0QnJhaW5zIFJpZGVyCi5pZGVhLwoqLnNsbi5pbWwK</text>
       </register>
       <register name="-" type="4">
         <text>number</text>
       </register>
       <register name="/" type="4">
-        <text>normal</text>
+        <text>idea</text>
       </register>
       <register name="0" type="4">
         <text>TR_FR_TEST_DDS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fCAgICAgICAgICAgICAgICAgICB8ICAgICAgICAgICAgICAgICAgfCAgICAgICAgICAgICAgIHwK</text>
+        <text encoding="base64">CiMgSmV0QnJhaW5zIFJpZGVyCi5pZGVhLwoqLnNsbi5pbWwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBiZWNvbWVfbWV0aG9kOiBzdWRvCg==</text>
+        <text encoding="base64">LmdpdGlnbm9yZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBiZWNvbWVfbWV0aG9kOiBzdWRvCg==</text>
+        <text encoding="base64">LmlkZWEvUHJvdmlzaW9uaW5nLmltbAouaWRlYS9hdGxhc3NpYW4taWRlLXBsdWdpbi54bWwKLmlkZWEvZW5jb2RpbmdzLnhtbAouaWRlYS9tb2R1bGVzLnhtbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiB0aW1laXQ6Cg==</text>
+        <text encoding="base64">fCAgICAgICAgICAgICAgICAgICB8ICAgICAgICAgICAgICAgICAgfCAgICAgICAgICAgICAgIHwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBjb3VudDwzIGFuZCBlbGFwc2VkX3RpbWUK</text>
+        <text encoding="base64">ICBiZWNvbWVfbWV0aG9kOiBzdWRvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudCA9IDEKICAgICAgICBlbGFwc2VkX3RpbWUgPSAwCg==</text>
+        <text encoding="base64">ICBiZWNvbWVfbWV0aG9kOiBzdWRvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBlbGFwc2VkX3RpbWUK</text>
+        <text encoding="base64">ICAgICAgICBpZiB0aW1laXQ6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBjb3VudDwzIGFuZCAK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSBjb3VudDwzIGFuZCBlbGFwc2VkX3RpbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvcy50aW1lLgo=</text>
+        <text encoding="base64">ICAgICAgICBjb3VudCA9IDEKICAgICAgICBlbGFwc2VkX3RpbWUgPSAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>normal</last-search>
+      <last-search>idea</last-search>
       <last-offset />
-      <last-pattern>normal</last-pattern>
+      <last-pattern>idea</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1332,6 +1339,7 @@
         <entry>TEMPLATE12601</entry>
         <entry>TEMPLATE12600</entry>
         <entry>normal</entry>
+        <entry>idea</entry>
       </history-search>
       <history-cmd>
         <entry>%s#/home/oletros/Descargas#/var/data/deluge#gci</entry>
