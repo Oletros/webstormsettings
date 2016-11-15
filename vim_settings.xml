@@ -26,6 +26,7 @@
         <mark key="^" line="24" column="59" />
         <mark key="." line="68" column="0" />
       </file>
+      <file name="C:/Temp/files.dat" timestamp="1479222472228" />
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 09/angularstart/public/index.html" timestamp="1445107273277">
         <mark key="'" line="16" column="26" />
         <mark key="[" line="1" column="6" />
@@ -372,12 +373,12 @@
         <mark key="^" line="8" column="15" />
         <mark key="." line="8" column="15" />
       </file>
-      <file name="C:/Development/legacy_functions/src/createDSfile.py" timestamp="1479221122677">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="19" column="23" />
-        <mark key="." line="19" column="23" />
-        <mark key="^" line="19" column="23" />
+      <file name="C:/Development/legacy_functions/src/createDSfile.py" timestamp="1479222323517">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="29" column="42" />
+        <mark key="." line="29" column="42" />
+        <mark key="^" line="29" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/dev/rss/readTrackerHD.js" timestamp="1432239519129">
         <mark key="'" line="29" column="49" />
@@ -1288,13 +1289,16 @@
       <jump line="7" column="27" filename="C:/Development/legacy_functions/src/test_reg.py" />
       <jump line="96" column="19" filename="C:/Development/legacy_functions/src/checkfiles.py" />
       <jump line="0" column="0" filename="C:/Development/legacy_functions/src/createDSfile.py" />
+      <jump line="22" column="18" filename="C:/Development/legacy_functions/src/createDSfile.py" />
+      <jump line="20" column="15" filename="C:/Development/legacy_functions/src/createDSfile.py" />
+      <jump line="18" column="0" filename="C:/Development/legacy_functions/src/createDSfile.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+      <register name="&quot;" type="4">
+        <text>te()</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>te()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1w+</text>
