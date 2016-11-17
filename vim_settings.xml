@@ -16,7 +16,7 @@
         <mark key="^" line="14" column="65" />
         <mark key="." line="14" column="65" />
       </file>
-      <file name="/a.dummy" timestamp="1450111241478">
+      <file name="/a.dummy" timestamp="1479390125765">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 12/File01.html" timestamp="1430978313249">
@@ -372,12 +372,12 @@
         <mark key="^" line="8" column="15" />
         <mark key="." line="8" column="15" />
       </file>
-      <file name="C:/Development/legacy_functions/src/createDSfile.py" timestamp="1479308359315">
-        <mark key="'" line="109" column="25" />
-        <mark key="[" line="28" column="89" />
-        <mark key="]" line="28" column="89" />
-        <mark key="." line="28" column="89" />
-        <mark key="^" line="28" column="89" />
+      <file name="C:/Development/legacy_functions/src/createDSfile.py" timestamp="1479390462502">
+        <mark key="'" line="132" column="0" />
+        <mark key="[" line="140" column="36" />
+        <mark key="]" line="140" column="44" />
+        <mark key="." line="140" column="44" />
+        <mark key="^" line="140" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/dev/rss/readTrackerHD.js" timestamp="1432239519129">
         <mark key="'" line="29" column="49" />
@@ -1307,22 +1307,24 @@
       <jump line="17" column="19" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="76" column="40" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="39" column="12" filename="C:/Development/legacy_functions/src/createDSfile.py" />
-      <jump line="110" column="36" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="21" column="0" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="109" column="25" filename="C:/Development/legacy_functions/src/createDSfile.py" />
+      <jump line="110" column="6" filename="C:/Development/legacy_functions/src/createDSfile.py" />
+      <jump line="58" column="20" filename="C:/Development/legacy_functions/src/createDSfile.py" />
+      <jump line="132" column="0" filename="C:/Development/legacy_functions/src/createDSfile.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNvdXJjZXBhdGggPSBEQkJBU0VQQVRIMjAwOQogICAgdGFyZ2V0cGF0aCA9IG9zLnBhdGguam9pbihERVNUUEFUSCwgIlRlY2gvREIiKQogICAgY29weWZpbGVzKHNvdXJjZXBhdGgsIHRhcmdldHBhdGgpCiAgICBzb3VyY2VwYXRoID0gREJCQVNFUEFUSEFUSE9NRQogICAgdGFyZ2V0cGF0aCA9IG9zLnBhdGguam9pbihERVNUUEFUSCwgIkFUSG9tZS9EQiIpCiAgICBjb3B5ZmlsZXMoc291cmNlcGF0aCwgdGFyZ2V0cGF0aCwgREJGSUxFUykK</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>DBFILES</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZXBhdGggPSBCQVNFUEFUSDIwMDkKICAgIHRhcmdldHBhdGggPSBvcy5wYXRoLmpvaW4oREVTVFBBVEgsICJUZWNoIikKICAgIGNvcHlmaWxlcyhzb3VyY2VwYXRoLCB0YXJnZXQ9KQo=</text>
+        <text encoding="base64">ICAgIHNvdXJjZXBhdGggPSBEQkJBU0VQQVRIMjAwOQogICAgdGFyZ2V0cGF0aCA9IG9zLnBhdGguam9pbihERVNUUEFUSCwgIlRlY2gvREIiKQogICAgY29weWZpbGVzKHNvdXJjZXBhdGgsIHRhcmdldHBhdGgpCiAgICBzb3VyY2VwYXRoID0gREJCQVNFUEFUSEFUSE9NRQogICAgdGFyZ2V0cGF0aCA9IG9zLnBhdGguam9pbihERVNUUEFUSCwgIkFUSG9tZS9EQiIpCiAgICBjb3B5ZmlsZXMoc291cmNlcGF0aCwgdGFyZ2V0cGF0aCwgREJGSUxFUykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHNlcnZpY2VJZCA9IFNFUlZJQ0VTWzBdCiAgICBzZXJ2aWNlTGluZSA9IGNyZWF0ZURTTGluZShzZXJ2aWNlSWQpCiAgICBjaGVja0RTTGluZShzZXJ2aWNlTGluZSkKICAgICMgd2l0aCBvcGVuKCdjOi90ZW1wL2ZpbGVzLmRhdCcsIG1vZGU9J3cnKSBhcyB0ZXN0OgogICAgIyAgICAgZm9yIHNlcnZpY2UgaW4gU0VSVklDRVM6CiAgICAjICAgICAgICAgdGVzdC53cml0ZShjcmVhdGVEU0xpbmUoc2VydmljZSkgKyAnXG4nKQogICAgIyAgICAgICAgIHByaW50IGNyZWF0ZURTTGluZShzZXJ2aWNlKQo=</text>
