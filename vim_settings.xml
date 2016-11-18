@@ -372,12 +372,12 @@
         <mark key="^" line="8" column="15" />
         <mark key="." line="8" column="15" />
       </file>
-      <file name="C:/Development/legacy_functions/src/createDSfile.py" timestamp="1479390462502">
-        <mark key="'" line="132" column="0" />
-        <mark key="[" line="140" column="36" />
-        <mark key="]" line="140" column="44" />
-        <mark key="." line="140" column="44" />
-        <mark key="^" line="140" column="44" />
+      <file name="C:/Development/legacy_functions/src/createDSfile.py" timestamp="1479458801849">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="51" column="50" />
+        <mark key="]" line="51" column="67" />
+        <mark key="." line="51" column="67" />
+        <mark key="^" line="51" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/dev/rss/readTrackerHD.js" timestamp="1432239519129">
         <mark key="'" line="29" column="49" />
@@ -1295,7 +1295,6 @@
       <jump line="18" column="0" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="103" column="10" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="51" column="4" filename="C:/Development/legacy_functions/src/createDSfile.py" />
-      <jump line="0" column="0" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="57" column="25" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="1" column="28" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="29" column="32" filename="C:/Development/legacy_functions/src/createDSfile.py" />
@@ -1312,13 +1311,15 @@
       <jump line="110" column="6" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="58" column="20" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="132" column="0" filename="C:/Development/legacy_functions/src/createDSfile.py" />
+      <jump line="135" column="21" filename="C:/Development/legacy_functions/src/createDSfile.py" />
+      <jump line="0" column="0" filename="C:/Development/legacy_functions/src/createDSfile.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZXBhdGggPSBEQkJBU0VQQVRIMjAwOQogICAgdGFyZ2V0cGF0aCA9IG9zLnBhdGguam9pbihERVNUUEFUSCwgIlRlY2gvREIiKQogICAgY29weWZpbGVzKHNvdXJjZXBhdGgsIHRhcmdldHBhdGgpCiAgICBzb3VyY2VwYXRoID0gREJCQVNFUEFUSEFUSE9NRQogICAgdGFyZ2V0cGF0aCA9IG9zLnBhdGguam9pbihERVNUUEFUSCwgIkFUSG9tZS9EQiIpCiAgICBjb3B5ZmlsZXMoc291cmNlcGF0aCwgdGFyZ2V0cGF0aCwgREJGSUxFUykK</text>
+      <register name="&quot;" type="4">
+        <text>Current</text>
       </register>
       <register name="-" type="4">
-        <text>DBFILES</text>
+        <text>Current</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1w+</text>
