@@ -1211,6 +1211,12 @@
         <mark key="." line="16" column="10" />
         <mark key="^" line="15" column="0" />
       </file>
+      <file name="C:/Development/awesome-test/tslint.json" timestamp="1481789567188">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+      </file>
       <file name="/Angular2HTML Fragment (app.ts:1070).html" timestamp="1471243177624">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1315,10 +1321,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Current</text>
+        <text>variable</text>
       </register>
       <register name="-" type="4">
-        <text>Current</text>
+        <text>variable</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc1w+</text>
