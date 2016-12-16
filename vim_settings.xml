@@ -22,8 +22,12 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="C:/Development/awesome-test/server.ts" timestamp="1481786471283">
-        <mark key="'" line="27" column="40" />
+      <file name="C:/Development/awesome-test/server.ts" timestamp="1481892859804">
+        <mark key="'" line="13" column="23" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="23" column="45" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/masteringts/ErrorHelper.d.ts" timestamp="1470316665930">
         <mark key="'" line="10" column="36" />
@@ -323,6 +327,9 @@
       </file>
       <file name="C:/Development/legacy_functions/src/test_reg.py" timestamp="1479220896979">
         <mark key="'" line="7" column="27" />
+      </file>
+      <file name="C:/Development/awesome-test/tsconfig.json" timestamp="1481892524266">
+        <mark key="[" line="4" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/dev/masteringts/async03.js" timestamp="1470286701140">
         <mark key="'" line="27" column="0" />
@@ -1211,11 +1218,10 @@
         <mark key="." line="16" column="10" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="C:/Development/awesome-test/tslint.json" timestamp="1481789567188">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="28" />
-        <mark key="." line="5" column="28" />
-        <mark key="^" line="5" column="28" />
+      <file name="C:/Development/awesome-test/tslint.json" timestamp="1481892548968">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/Angular2HTML Fragment (app.ts:1070).html" timestamp="1471243177624">
         <mark key="[" line="0" column="0" />
@@ -1318,10 +1324,13 @@
       <jump line="121" column="10" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="36" column="30" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="27" column="40" filename="C:/Development/awesome-test/server.ts" />
+      <jump line="8" column="1" filename="C:/Development/awesome-test/server.ts" />
+      <jump line="23" column="45" filename="C:/Development/awesome-test/server.ts" />
+      <jump line="13" column="23" filename="C:/Development/awesome-test/server.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>variable</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmNvbnN0IHBlcnNvbjogRXhhbXBsZSA9IG5ldyBFeGFtcGxlKCdKb2huJywgMSk7Cgpjb25zdCBwZXJzb25OYW1lOiBzdHJpbmcgPSBwZXJzb24uJG5hbWU7CmNvbnNvbGUubG9nKGBUaGUgbmFtZSBpcyAke3BlcnNvbk5hbWV9YCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>variable</text>
@@ -1333,34 +1342,34 @@
         <text encoding="base64">ICAgIHNvdXJjZXBhdGggPSBEQkJBU0VQQVRIMjAwOQogICAgdGFyZ2V0cGF0aCA9IG9zLnBhdGguam9pbihERVNUUEFUSCwgIlRlY2gvREIiKQogICAgY29weWZpbGVzKHNvdXJjZXBhdGgsIHRhcmdldHBhdGgpCiAgICBzb3VyY2VwYXRoID0gREJCQVNFUEFUSEFUSE9NRQogICAgdGFyZ2V0cGF0aCA9IG9zLnBhdGguam9pbihERVNUUEFUSCwgIkFUSG9tZS9EQiIpCiAgICBjb3B5ZmlsZXMoc291cmNlcGF0aCwgdGFyZ2V0cGF0aCwgREJGSUxFUykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2VJZCA9IFNFUlZJQ0VTWzBdCiAgICBzZXJ2aWNlTGluZSA9IGNyZWF0ZURTTGluZShzZXJ2aWNlSWQpCiAgICBjaGVja0RTTGluZShzZXJ2aWNlTGluZSkKICAgICMgd2l0aCBvcGVuKCdjOi90ZW1wL2ZpbGVzLmRhdCcsIG1vZGU9J3cnKSBhcyB0ZXN0OgogICAgIyAgICAgZm9yIHNlcnZpY2UgaW4gU0VSVklDRVM6CiAgICAjICAgICAgICAgdGVzdC53cml0ZShjcmVhdGVEU0xpbmUoc2VydmljZSkgKyAnXG4nKQogICAgIyAgICAgICAgIHByaW50IGNyZWF0ZURTTGluZShzZXJ2aWNlKQo=</text>
+        <text encoding="base64">CmNvbnN0IHBlcnNvbjogRXhhbXBsZSA9IG5ldyBFeGFtcGxlKCdKb2huJywgMSk7Cgpjb25zdCBwZXJzb25OYW1lOiBzdHJpbmcgPSBwZXJzb24uJG5hbWU7CmNvbnNvbGUubG9nKGBUaGUgbmFtZSBpcyAke3BlcnNvbk5hbWV9YCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0Ogo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ0lUUyBNWSBGSVJTVCBOT0RFIEFQUCEgT0ggQU5EIEkgR1VFU1MgSEVMTE8gV09STEQnKTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5ld0xpbmUgPSBjcmVhdGVEU0xpbmUoKQo=</text>
+        <text encoding="base64">CQkibm8tdW51c2VkLXZhcmlhYmxlIjogdHJ1ZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kRGF0ZSA9IGRhdGV0aW1lLnN0cnB0aW1lKHN1YnN0cihsaW5lLCAxMTI0LCAxMCksICclZC4lbS4leScpCg==</text>
+        <text encoding="base64">CQkibm8tZHVwbGljYXRlLWtleSI6IHRydWUsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludERhdGUgPSBzdWJzdHIobGluZSwgMTExNCwgMTApCg==</text>
+        <text encoding="base64">ICAgIHNlcnZpY2VJZCA9IFNFUlZJQ0VTWzBdCiAgICBzZXJ2aWNlTGluZSA9IGNyZWF0ZURTTGluZShzZXJ2aWNlSWQpCiAgICBjaGVja0RTTGluZShzZXJ2aWNlTGluZSkKICAgICMgd2l0aCBvcGVuKCdjOi90ZW1wL2ZpbGVzLmRhdCcsIG1vZGU9J3cnKSBhcyB0ZXN0OgogICAgIyAgICAgZm9yIHNlcnZpY2UgaW4gU0VSVklDRVM6CiAgICAjICAgICAgICAgdGVzdC53cml0ZShjcmVhdGVEU0xpbmUoc2VydmljZSkgKyAnXG4nKQogICAgIyAgICAgICAgIHByaW50IGNyZWF0ZURTTGluZShzZXJ2aWNlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxzX2F1eFQgPSBtaWQoYXNfbGluZWEsIDExMzQsIDgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0Ogo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5ld0xpbmUgPSBjcmVhdGVEU0xpbmUoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxkdHRfZmVjaGFFbnZpbyA9IGRhdGV0aW1lKGRhdGUobWlkKGFzX2xpbmVhLCAxMTI0LCAxMCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZW5kRGF0ZSA9IGRhdGV0aW1lLnN0cnB0aW1lKHN1YnN0cihsaW5lLCAxMTI0LCAxMCksICclZC4lbS4leScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxkdHRfZmVjaGFJbXByZXNpb24gPSBkYXRldGltZShkYXRlKG1pZChhc19saW5lYSwgMTExNCwgMTApKSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludERhdGUgPSBzdWJzdHIobGluZSwgMTExNCwgMTApCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
