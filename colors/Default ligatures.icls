@@ -1,7 +1,6 @@
 <scheme name="Default ligatures" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+    <option name="EDITOR_FONT_NAME" value="Hasklig" />
     <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
   <font>
