@@ -556,6 +556,9 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/ng-book2/code/first_app/angular2_reddit/src/main.ts" timestamp="1482265172343">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="C:/Development/DDS06Test/src/main.py" timestamp="1477394836965">
         <mark key="'" line="35" column="69" />
         <mark key="[" line="36" column="63" />
@@ -1322,6 +1325,8 @@
       <jump line="36" column="30" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="27" column="40" filename="C:/Development/awesome-test/server.ts" />
       <jump line="35" column="7" filename="$USER_HOME$/Documents/dev/ng-book2/code/first_app/angular2_reddit/tslint.json" />
+      <jump line="5" column="15" filename="$USER_HOME$/Documents/dev/ng-book2/code/first_app/angular2_reddit/src/main.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/ng-book2/code/first_app/angular2_reddit/src/main.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
