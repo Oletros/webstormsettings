@@ -328,8 +328,10 @@
       <file name="C:/Development/legacy_functions/src/test_reg.py" timestamp="1479220896979">
         <mark key="'" line="7" column="27" />
       </file>
-      <file name="C:/Development/awesome-test/tsconfig.json" timestamp="1481892524266">
-        <mark key="[" line="4" column="21" />
+      <file name="C:/Development/awesome-test/tsconfig.json" timestamp="1483946680782">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/dev/masteringts/async03.js" timestamp="1470286701140">
         <mark key="'" line="27" column="0" />
@@ -1130,6 +1132,9 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
+      <file name="C:/Development/awesome-test/server.js" timestamp="1483946698380">
+        <mark key="'" line="9" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" timestamp="1469996748684">
         <mark key="'" line="72" column="3" />
         <mark key="[" line="76" column="21" />
@@ -1327,6 +1332,7 @@
       <jump line="8" column="1" filename="C:/Development/awesome-test/server.ts" />
       <jump line="23" column="45" filename="C:/Development/awesome-test/server.ts" />
       <jump line="13" column="23" filename="C:/Development/awesome-test/server.ts" />
+      <jump line="9" column="24" filename="C:/Development/awesome-test/server.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
