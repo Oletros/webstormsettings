@@ -1144,12 +1144,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" timestamp="1484288823509">
-        <mark key="'" line="42" column="8" />
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="42" column="46" />
-        <mark key="." line="42" column="46" />
-        <mark key="^" line="42" column="46" />
+      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" timestamp="1484547633068">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="71" column="48" />
+        <mark key="]" line="71" column="72" />
+        <mark key="^" line="71" column="72" />
+        <mark key="." line="71" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 04/file01.js" timestamp="1429043907101">
         <mark key="'" line="0" column="0" />
@@ -1257,14 +1257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="2" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
-      <jump line="33" column="55" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
-      <jump line="15" column="1" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
-      <jump line="30" column="0" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
-      <jump line="25" column="4" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
-      <jump line="35" column="40" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
-      <jump line="38" column="12" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
       <jump line="62" column="20" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
       <jump line="69" column="21" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
       <jump line="73" column="3" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
@@ -1356,47 +1348,55 @@
       <jump line="28" column="14" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
       <jump line="35" column="0" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
       <jump line="40" column="2" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
-      <jump line="42" column="8" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
+      <jump line="42" column="46" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
+      <jump line="14" column="12" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
+      <jump line="9" column="31" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
+      <jump line="57" column="2" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
+      <jump line="12" column="8" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gR3VscCB0YXNrIHRvIGNvbXBpbGUgVHlwZXNjcmlwdAo=</text>
+      <register name="&quot;" type="4">
+        <text>source/js/</text>
       </register>
       <register name="-" type="4">
-        <text>compile Typescript</text>
+        <text>source/js/</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gR3VscCB0YXNrIHRvIGNvbXBpbGUgVHlwZXNjcmlwdAo=</text>
+        <text encoding="base64">Z3VscC50YXNrKCJidW5kbGUtanMiLCBmdW5jdGlvbiAoKSB7CiAgICByZXR1cm4gZ3VscC5zcmMoIi4vdGVtcC9zb3VyY2UvanMvbWFpbi5qcyIpCiAgICAgICAgLnBpcGUoYnJvd3NlcmlmaWVkKQogICAgICAgIC5waXBlKHNvdXJjZW1hcHMuaW5pdCh7CiAgICAgICAgICAgIGxvYWRNYXBzOiB0cnVlCiAgICAgICAgfSkpCiAgICAgICAgLnBpcGUodWdsaWZ5KCkpCiAgICAgICAgLnBpcGUoc291cmNlbWFwcy53cml0ZSgiLi8iKSkKICAgICAgICAucGlwZShndWxwLmRlc3QoIi4vZGlzdC9zb3VyY2UvanMvIikpOwp9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gVHlwZXNjcmlwdCBwcm9qZWN0IGRlZmluaXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAucGlwZShzb3VyY2VtYXBzLndyaXRlKCIuLyIpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiZmlsZXNHbG9iIjogWwogICAgIioqLyoudHMiLAogICAgIiFub2RlX21vZHVsZXMvKioiCiAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAucGlwZSh1Z2xpZnkoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJ0eXBpbmdzL2Jyb3dzZXIuZC50cyIK</text>
+        <text encoding="base64">ICAgICAgICB9KSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJ0eXBpbmdzL21haW4uZC50cyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9hZE1hcHM6IHRydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFyIHBhdGg6IHN0cmluZ3xzdHJpbmdbXTsKCnBhdGggPSAnL3RlbXAvbG9nL3htbCc7CnBhdGggPSBbJy90ZW1wL2xvZy54bWwnLCAnL3RlbXAvbG9nMi54bWwnXTsKLy8gcGF0aCA9IDE7Cgp2YXIgeDogYW55ID0ge307CmlmICh0eXBlb2YgeCA9PSAnc3RyaW5nJykgewogICAgY29uc29sZS5sb2coeCk7CiAgICAvLyBjb25zb2xlLmxvZyh4LnNwbGljZSgzLCAxKSk7Cgp9Cgp0eXBlIFByaW1pdGl2ZUFycmF5PUFycmF5PHN0cmluZ3xudW1iZXJ8Ym9vbGVhbj47CnR5cGUgTXlOdW1iZXI9bnVtYmVyOwp0eXBlIENhbGxiYWNrPSgpID0+IHZvaWQ7Cgp2YXIgaXNWYWxpZDogYm9vbGVhbiA9IHRydWU7CnZhciBtZXNzYWdlID0gaXNWYWxpZCA/ICJJcyB2YWxpZCEiIDogIk5vdCBpcyB2YWxpZCI7CmNvbnNvbGUubG9nKG1lc3NhZ2UpOwoKZW51bSBBbGVydExldmVsewogICAgaW5mbywKICAgIHdhcm5pbmcsCiAgICBlcnJvcgp9CgpmdW5jdGlvbiBnZXRBbGVydFN1YnNjcmliZXJzKGxldmVsOiBBbGVydExldmVsKTogQXJyYXk8c3RyaW5nPiB7CiAgICBjb25zdCBlbWFpbHMgPSBuZXcgQXJyYXk8c3RyaW5nPigpOwogICAgc3dpdGNoIChsZXZlbCkgewogICAgICAgIGNhc2UgQWxlcnRMZXZlbC5pbmZvOgogICAgICAgICAgICBlbWFpbHMucHVzaCgnY3N0QGRvbWFpbi5jb20nKTsKICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgY2FzZSBBbGVydExldmVsLndhcm5pbmc6CiAgICAgICAgICAgIGVtYWlscy5wdXNoKCdkZXZlbG9wbWVudEBkb21haW4uY29tJyk7CiAgICAgICAgICAgIGVtYWlscy5wdXNoKCdzeXNhZG1pbkBkb21haW4uY29tJyk7CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgIGNhc2UgQWxlcnRMZXZlbC5lcnJvcjoKICAgICAgICAgICAgZW1haWxzLnB1c2goJ2RldmVsb3BtZW50QGRvbWFpbi5jb20nKTsKICAgICAgICAgICAgZW1haWxzLnB1c2goJ3N5c2FkbWluQGRvbWFpbi5jb20nKTsKICAgICAgICAgICAgZW1haWxzLnB1c2goJ21hbmFnZW1lbnRAZG9tYWluLmNvbScpOwogICAgICAgICAgICBicmVhazsKICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICB0aHJvdyBuZXcgRXJyb3IoIkludmFsaWQgYXJndW1lbmJ0Iik7CgogICAgfQogICAgcmV0dXJuIGVtYWlsczsKfQpjb25zdCBpbmZvOiBBcnJheTxzdHJpbmc+ID0gZ2V0QWxlcnRTdWJzY3JpYmVycyhBbGVydExldmVsLmluZm8pOwpjb25zdCB3YXJuaW5nOiBBcnJheTxzdHJpbmc+ID0gZ2V0QWxlcnRTdWJzY3JpYmVycyhBbGVydExldmVsLndhcm5pbmcpOwpjb25zdCBlcnJvcmxldmVsOiBBcnJheTxzdHJpbmc+ID0gZ2V0QWxlcnRTdWJzY3JpYmVycyhBbGVydExldmVsLmVycm9yKTsK</text>
+        <text encoding="base64">ICAgICAgICAucGlwZShzb3VyY2VtYXBzLmluaXQoewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHlwZSBOZ1Njb3BlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2VJZCA9IFNFUlZJQ0VTWzBdCiAgICBzZXJ2aWNlTGluZSA9IGNyZWF0ZURTTGluZShzZXJ2aWNlSWQpCiAgICBjaGVja0RTTGluZShzZXJ2aWNlTGluZSkKICAgICMgd2l0aCBvcGVuKCdjOi90ZW1wL2ZpbGVzLmRhdCcsIG1vZGU9J3cnKSBhcyB0ZXN0OgogICAgIyAgICAgZm9yIHNlcnZpY2UgaW4gU0VSVklDRVM6CiAgICAjICAgICAgICAgdGVzdC53cml0ZShjcmVhdGVEU0xpbmUoc2VydmljZSkgKyAnXG4nKQogICAgIyAgICAgICAgIHByaW50IGNyZWF0ZURTTGluZShzZXJ2aWNlKQo=</text>
+        <text encoding="base64">Ly8gVHlwZXNjcmlwdCBwcm9qZWN0IGRlZmluaXRpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0Ogo=</text>
+        <text encoding="base64">ICAiZmlsZXNHbG9iIjogWwogICAgIioqLyoudHMiLAogICAgIiFub2RlX21vZHVsZXMvKioiCiAgXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5ld0xpbmUgPSBjcmVhdGVEU0xpbmUoKQo=</text>
+        <text encoding="base64">ICAgICJ0eXBpbmdzL2Jyb3dzZXIuZC50cyIK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvIi9nY2k=</text>
