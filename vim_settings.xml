@@ -533,6 +533,13 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.ts" timestamp="1484634673354">
+        <mark key="'" line="36" column="13" />
+        <mark key="[" line="49" column="15" />
+        <mark key="]" line="49" column="15" />
+        <mark key="^" line="49" column="15" />
+        <mark key="." line="49" column="15" />
+      </file>
       <file name="/Dummy.txt" timestamp="1471592683095">
         <mark key="[" line="0" column="0" />
       </file>
@@ -946,6 +953,9 @@
         <mark key="^" line="16" column="43" />
         <mark key="." line="16" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.js" timestamp="1484634476235">
+        <mark key="'" line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 09/todocomplete/app.js" timestamp="1445231688035">
         <mark key="[" line="5" column="37" />
         <mark key="]" line="5" column="34" />
@@ -1257,11 +1267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="20" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
-      <jump line="69" column="21" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
-      <jump line="73" column="3" filename="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" />
-      <jump line="4" column="25" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
-      <jump line="203" column="0" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
       <jump line="162" column="18" filename="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" />
       <jump line="34" column="14" filename="//mlgmuc00tfs003/i$/Builds/NET/33/Inator3/TRC-Current_DEV-PB-Daily/src/TRC_PB.msbuild" />
       <jump line="54" column="0" filename="//mlgmuc00tfs003/i$/Builds/NET/33/Inator3/TRC-Current_DEV-PB-Daily/src/TRC_PB.msbuild" />
@@ -1357,13 +1362,18 @@
       <jump line="12" column="8" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
       <jump line="71" column="0" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.ts" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.ts" />
+      <jump line="22" column="29" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.ts" />
+      <jump line="28" column="0" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.js" />
+      <jump line="36" column="13" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>source/js/</text>
+        <text>const</text>
       </register>
       <register name="-" type="4">
-        <text>source/js/</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
@@ -1372,31 +1382,31 @@
         <text encoding="base64">Z3VscC50YXNrKCJidW5kbGUtanMiLCBmdW5jdGlvbiAoKSB7CiAgICByZXR1cm4gZ3VscC5zcmMoIi4vdGVtcC9zb3VyY2UvanMvbWFpbi5qcyIpCiAgICAgICAgLnBpcGUoYnJvd3NlcmlmaWVkKQogICAgICAgIC5waXBlKHNvdXJjZW1hcHMuaW5pdCh7CiAgICAgICAgICAgIGxvYWRNYXBzOiB0cnVlCiAgICAgICAgfSkpCiAgICAgICAgLnBpcGUodWdsaWZ5KCkpCiAgICAgICAgLnBpcGUoc291cmNlbWFwcy53cml0ZSgiLi8iKSkKICAgICAgICAucGlwZShndWxwLmRlc3QoIi4vZGlzdC9zb3VyY2UvanMvIikpOwp9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAucGlwZShzb3VyY2VtYXBzLndyaXRlKCIuLyIpKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBmb28gKyBiYXIgKyBmb29iYXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAucGlwZSh1Z2xpZnkoKSkK</text>
+        <text encoding="base64">ICAgIGlmIChmb29iYXIpIHsKICAgICAgICByZXN1bHQgKz0gZm9vYmFyOwogICAgfQogICAgcmV0dXJuIHJlc3VsdDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9KSkK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZ3JlZXROYW1lZCgnSm9obicpKTsKY29uc29sZS5sb2coZ3JlZXRVbm5hbWVkKCdKb2huJykpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9hZE1hcHM6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAucGlwZShzb3VyY2VtYXBzLndyaXRlKCIuLyIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAucGlwZShzb3VyY2VtYXBzLmluaXQoewo=</text>
+        <text encoding="base64">ICAgICAgICAucGlwZSh1Z2xpZnkoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gVHlwZXNjcmlwdCBwcm9qZWN0IGRlZmluaXRpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9hZE1hcHM6IHRydWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiZmlsZXNHbG9iIjogWwogICAgIioqLyoudHMiLAogICAgIiFub2RlX21vZHVsZXMvKioiCiAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAucGlwZShzb3VyY2VtYXBzLmluaXQoewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ0eXBpbmdzL2Jyb3dzZXIuZC50cyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvIi9nY2k=</text>
