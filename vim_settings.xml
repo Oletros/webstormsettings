@@ -523,11 +523,12 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.ts" timestamp="1484687848534">
-        <mark key="'" line="14" column="9" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.ts" timestamp="1484762713473">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="55" column="9" />
+        <mark key="]" line="55" column="12" />
+        <mark key="." line="55" column="12" />
+        <mark key="^" line="55" column="12" />
       </file>
       <file name="/Dummy.txt" timestamp="1471592683095">
         <mark key="[" line="0" column="0" />
@@ -948,9 +949,6 @@
         <mark key="^" line="16" column="43" />
         <mark key="." line="16" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.js" timestamp="1484634476235">
-        <mark key="'" line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 09/todocomplete/app.js" timestamp="1445231688035">
         <mark key="[" line="5" column="37" />
         <mark key="]" line="5" column="34" />
@@ -1262,12 +1260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="//mlgmuc00tfs003/i$/Builds/NET/33/Inator3/TRC-Current_DEV-PB-Daily/src/TRC_PB.msbuild" />
-      <jump line="15" column="49" filename="//mlgmuc00tfs003/i$/Builds/NET/33/Inator3/TRC-Current_DEV-PB-Daily/src/TRC_PB.msbuild" />
-      <jump line="1" column="90" filename="C:/Development/pinboard/src/BreezeMeeting" />
-      <jump line="15" column="0" filename="C:/Development/pinboard/src/BreezeMeeting" />
-      <jump line="5" column="27" filename="C:/Development/pinboard/src/BreezeMeeting" />
-      <jump line="59" column="5" filename="$USER_HOME$/Development/Javascript/mastering-typescript/async02.ts" />
       <jump line="43" column="4" filename="$USER_HOME$/Documents/dev/masteringts/async02.ts" />
       <jump line="72" column="0" filename="$USER_HOME$/Documents/dev/masteringts/async02.ts" />
       <jump line="56" column="10" filename="$USER_HOME$/Documents/dev/masteringts/async02.ts" />
@@ -1357,51 +1349,57 @@
       <jump line="31" column="0" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.ts" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.ts" />
-      <jump line="22" column="29" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.ts" />
       <jump line="28" column="0" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.js" />
       <jump line="36" column="13" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.ts" />
       <jump line="31" column="14" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/tslint.json" />
       <jump line="14" column="9" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.ts" />
+      <jump line="32" column="0" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.ts" />
+      <jump line="13" column="16" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.ts" />
+      <jump line="25" column="14" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.ts" />
+      <jump line="20" column="17" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.ts" />
+      <jump line="6" column="15" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.ts" />
+      <jump line="22" column="38" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.ts" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZm9vMik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;/api/orders&quot;,</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>&quot;/api/orders&quot;,</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Z3VscC50YXNrKCJidW5kbGUtanMiLCBmdW5jdGlvbiAoKSB7CiAgICByZXR1cm4gZ3VscC5zcmMoIi4vdGVtcC9zb3VyY2UvanMvbWFpbi5qcyIpCiAgICAgICAgLnBpcGUoYnJvd3NlcmlmaWVkKQogICAgICAgIC5waXBlKHNvdXJjZW1hcHMuaW5pdCh7CiAgICAgICAgICAgIGxvYWRNYXBzOiB0cnVlCiAgICAgICAgfSkpCiAgICAgICAgLnBpcGUodWdsaWZ5KCkpCiAgICAgICAgLnBpcGUoc291cmNlbWFwcy53cml0ZSgiLi8iKSkKICAgICAgICAucGlwZShndWxwLmRlc3QoIi4vZGlzdC9zb3VyY2UvanMvIikpOwp9KTsK</text>
+        <text encoding="base64">ICAgICQuYWpheCh7CiAgICAgICAgdXJsOiAiL2FwaS9vcmRlcnMiLAogICAgICAgIG1ldGhvZDogIkdFVCIsCiAgICAgICAgc3VjY2VzczogZnVuY3Rpb24gKGRhdGEpIHsKICAgICAgICAgICAgY2IoZGF0YS5pdGVtcyk7CiAgICAgICAgfSwKICAgICAgICBlcnJvcjogZnVuY3Rpb24gKGVycm9yKSB7CiAgICAgICAgICAgIGNiKG51bGwpOwogICAgICAgIH0KICAgIH0pOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZm9vMik7Cg==</text>
+        <text encoding="base64">ICAgICQuYWpheFMKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvbzoiYmF4Igo=</text>
+        <text encoding="base64">Y2xhc3MgQ291bnRlciB7CiAgICBwcml2YXRlIF9pOiBudW1iZXI7CgogICAgY29uc3RydWN0b3IoKSB7CiAgICAgICAgdGhpcy5faSA9IDA7CiAgICB9CgogICAgZ2V0KCk6IG51bWJlciB7CiAgICAgICAgcmV0dXJuIHRoaXMuX2k7CiAgICB9CgogICAgc2V0KHZhbDogbnVtYmVyKTogdm9pZCB7CiAgICAgICAgdGhpcy5faSA9IHZhbDsKICAgIH0KCiAgICBpbmNyZW1lbnQoKTogdm9pZCB7CiAgICAgICAgdGhpcy5faSsrOwogICAgfQp9CgpsZXQgY291bnRlcjogQ291bnRlciA9IG5ldyBDb3VudGVyKCk7CmNvbnNvbGUubG9nKGNvdW50ZXIuZ2V0KCkpOwpjb3VudGVyLnNldCgyKTsKY29uc29sZS5sb2coY291bnRlci5nZXQoKSk7CmNvdW50ZXIuaW5jcmVtZW50KCk7CmNvbnNvbGUubG9nKGNvdW50ZXIuZ2V0KCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJzb3J0LW9iamVjdC1saXRlcmFsLWtleXMiOiBmYWxzZSwK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coY291bnRlci5faSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJsYWJlbC11bmRlZmluZWQiOiB0cnVlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJuby11bnJlYWNoYWJsZSI6IHRydWUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJuby10cmFpbGluZy1jb21tYSI6IHRydWUsCg==</text>
+        <text encoding="base64">bGV0IGJhcjogbnVtYmVyID0gMDsKKGZ1bmN0aW9uICgpOiB2b2lkIHsKICAgIGxldCBmb286IG51bWJlciA9IDA7CiAgICBiYXIgPSAxOwogICAgY29uc29sZS5sb2coYmFyKTsKICAgIGNvbnNvbGUubG9nKGZvbyk7Cn0pKCk7CmNvbnNvbGUubG9nKGJhcik7CmNvbnNvbGUubG9nKGZvbyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJuby1kdXBsaWNhdGUta2V5IjogdHJ1ZSwK</text>
+        <text encoding="base64">ZnVuY3Rpb24gZm9vKCk6IHZvaWQgewogICAgaWYgKHRydWUpIHsKICAgICAgICBsZXQgYmFyOiBudW1iZXIgPSAwOwogICAgICAgIGJhciA9IDE7CiAgICB9CiAgICBjb25zb2xlLmxvZyhiYXIpOwp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KGJhcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KGJhcik7Cg==</text>
+        <text encoding="base64">bGV0IGJhcjogbnVtYmVyID0gMDsKKGZ1bmN0aW9uIChnbG9iYWw6IGFueSk6IHZvaWQgewogICAgbGV0IGZvbzogbnVtYmVyID0gMDsKICAgIGJhciA9IDE7CiAgICBjb25zb2xlLmxvZyhnbG9iYWwuYmFyKTsKICAgIGNvbnNvbGUubG9nKGZvbyk7Cn0pKHRoaXMpOwoKY29uc29sZS5sb2coYmFyKTsKY29uc29sZS5sb2coZm9vKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLycvIi9nY2k=</text>
