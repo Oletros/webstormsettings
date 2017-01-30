@@ -1154,8 +1154,8 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" timestamp="1485498554802">
-        <mark key="'" line="16" column="21" />
+      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" timestamp="1485731646294">
+        <mark key="'" line="55" column="27" />
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
@@ -1274,8 +1274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="23" filename="C:/Development/legacy_functions/src/createDSfile.py" />
-      <jump line="74" column="17" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="17" column="19" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="76" column="40" filename="C:/Development/legacy_functions/src/createDSfile.py" />
       <jump line="39" column="12" filename="C:/Development/legacy_functions/src/createDSfile.py" />
@@ -1373,7 +1371,9 @@
       <jump line="5" column="11" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
       <jump line="2" column="23" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
       <jump line="110" column="15" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
-      <jump line="16" column="21" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
+      <jump line="98" column="12" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
+      <jump line="16" column="35" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
+      <jump line="55" column="27" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
