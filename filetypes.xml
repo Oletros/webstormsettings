@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="File06" type="JavaScript" />
-      <mapping pattern="BreezeMeeting" type="Markdown" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
