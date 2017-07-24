@@ -22,12 +22,12 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="6" column="12" />
       </file>
-      <file name="C:/Development/awesome-test/server.ts" timestamp="1492594213834">
+      <file name="C:/Development/awesome-test/server.ts" timestamp="1500902161775">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="30" column="24" />
-        <mark key="." line="11" column="32" />
-        <mark key="^" line="11" column="32" />
+        <mark key="[" line="20" column="8" />
+        <mark key="]" line="20" column="7" />
+        <mark key="." line="20" column="7" />
+        <mark key="^" line="20" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/dev/masteringts/ErrorHelper.d.ts" timestamp="1470316665930">
         <mark key="'" line="10" column="36" />
