@@ -3,84 +3,36 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 02/File02.js" timestamp="1429042339889">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="144" column="12" />
-        <mark key="]" line="144" column="3" />
-        <mark key="^" line="144" column="3" />
-        <mark key="." line="144" column="25" />
+      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/nightwatch.json" timestamp="1485497871603">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/generators/infiniteSequence.js" timestamp="1445838908734">
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="4" column="8" />
-        <mark key="^" line="8" column="13" />
-        <mark key="." line="4" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/streams/3readable/basic.js" timestamp="1444164908240">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="6" column="12" />
-        <mark key="^" line="6" column="12" />
-        <mark key="." line="6" column="12" />
-      </file>
-      <file name="C:/Development/awesome-test/server.ts" timestamp="1500902161775">
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/process/1uncaught.js" timestamp="1444107937062">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="20" column="7" />
-        <mark key="." line="20" column="7" />
-        <mark key="^" line="20" column="7" />
+        <mark key="[" line="13" column="37" />
+        <mark key="]" line="13" column="37" />
+        <mark key="^" line="13" column="37" />
+        <mark key="." line="13" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/masteringts/ErrorHelper.d.ts" timestamp="1470316665930">
-        <mark key="'" line="10" column="36" />
-        <mark key="[" line="1" column="20" />
-        <mark key="]" line="1" column="28" />
-        <mark key="^" line="1" column="28" />
-        <mark key="." line="1" column="28" />
+      <file name="C:/Development/awesome-test/server.ts" timestamp="1490106444864">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="45" />
+        <mark key="]" line="9" column="31" />
+        <mark key="^" line="9" column="31" />
+        <mark key="." line="9" column="31" />
       </file>
       <file name="/a.dummy" timestamp="1479390125765">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 11/mocha/only.js" timestamp="1445964407884">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="14" column="2" />
-        <mark key="^" line="10" column="15" />
-        <mark key="." line="10" column="15" />
-      </file>
-      <file name="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/app-02.ts" timestamp="1469986105188">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="58" column="19" />
-        <mark key="." line="58" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/streams/2pipe/2chain.js" timestamp="1444164598506">
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="11" column="24" />
-        <mark key="^" line="11" column="24" />
-        <mark key="." line="11" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/interop/bad.json" timestamp="1445576196013">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/trackerhdrss/rssexample/example.js" timestamp="1432791342830">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="11" column="26" />
-        <mark key="^" line="11" column="26" />
-        <mark key="." line="11" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 11/mocha/basic.js" timestamp="1445964060085">
-        <mark key="[" line="13" column="2" />
-        <mark key="]" line="13" column="3" />
-        <mark key="^" line="13" column="3" />
-        <mark key="." line="13" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/8error/2errorHandler.js" timestamp="1444712819440">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="21" column="15" />
-        <mark key="^" line="21" column="16" />
-        <mark key="." line="21" column="16" />
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 09/todostart/public/main.js" timestamp="1445231421915">
+        <mark key="'" line="25" column="17" />
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="17" />
+        <mark key="^" line="48" column="0" />
+        <mark key="." line="25" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/generators.js" timestamp="1445838730774">
         <mark key="[" line="3" column="0" />
@@ -92,116 +44,22 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/masteringts/async02.js" timestamp="1470286685804">
+      <file name="$USER_HOME$/WebstormProjects/untitled/example.js" timestamp="1494607793650">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+        <mark key="^" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/6chain/1parse.js" timestamp="1444392390702">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="17" column="6" />
-        <mark key="^" line="17" column="6" />
-        <mark key="." line="17" column="6" />
+      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" timestamp="1485843168029">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="50" column="44" />
+        <mark key="]" line="50" column="48" />
+        <mark key="^" line="50" column="48" />
+        <mark key="." line="50" column="48" />
       </file>
-      <file name="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/app.ts" timestamp="1469988123714">
-        <mark key="'" line="8" column="22" />
-        <mark key="[" line="87" column="15" />
-        <mark key="]" line="88" column="0" />
-        <mark key="^" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 04/File03.js" timestamp="1429632982958">
-        <mark key="'" line="83" column="1" />
-        <mark key="[" line="106" column="55" />
-        <mark key="]" line="106" column="74" />
-        <mark key="^" line="106" column="74" />
-        <mark key="." line="106" column="74" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/events/maxEventListeners.js" timestamp="1444077258330">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="9" column="33" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/ng-book2/code/typescript/generics.ts" timestamp="1469994184161">
-        <mark key="'" line="26" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/tslint.json" timestamp="1485497257600">
-        <mark key="'" line="53" column="10" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 10/File02.js" timestamp="1430201144209">
-        <mark key="'" line="0" column="1" />
-        <mark key="[" line="9" column="40" />
-        <mark key="]" line="9" column="40" />
-        <mark key="^" line="9" column="40" />
-        <mark key="." line="9" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/thencatch/fulfilled.js" timestamp="1445403777269">
-        <mark key="[" line="14" column="65" />
-        <mark key="]" line="14" column="65" />
-        <mark key="^" line="14" column="65" />
-        <mark key="." line="14" column="65" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/approute/5paramLoad.js" timestamp="1444885777585">
-        <mark key="'" line="14" column="8" />
+      <file name="$USER_HOME$/WebstormProjects/untitled/docker.yml" timestamp="1491414924224">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="16" column="40" />
-        <mark key="^" line="16" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/interop/sleep.js" timestamp="1445576553682">
-        <mark key="[" line="16" column="2" />
-        <mark key="]" line="16" column="2" />
-        <mark key="." line="16" column="2" />
-        <mark key="^" line="16" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/masteringts/decorators03.ts" timestamp="1470114490069">
-        <mark key="'" line="15" column="26" />
-        <mark key="[" line="17" column="1" />
-        <mark key="]" line="22" column="19" />
-        <mark key="^" line="22" column="19" />
-        <mark key="." line="22" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/interop/good.json" timestamp="1445576185347">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="8" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="1" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/spawn/async.js" timestamp="1445878092254">
-        <mark key="'" line="19" column="8" />
-        <mark key="[" line="14" column="41" />
-        <mark key="]" line="19" column="8" />
-        <mark key="^" line="19" column="8" />
-        <mark key="." line="19" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 11/mocha/asyncbad.js" timestamp="1445964857519">
-        <mark key="'" line="10" column="3" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="16" column="2" />
-        <mark key="^" line="16" column="3" />
-        <mark key="." line="16" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/cookie/2show.js" timestamp="1444799677597">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="11" />
-        <mark key="^" line="12" column="11" />
-        <mark key="." line="12" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/further/librarycompat.js" timestamp="1445601856761">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="5" />
-        <mark key="^" line="17" column="5" />
-        <mark key="." line="17" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 09/todostart/public/main.js" timestamp="1445231421915">
-        <mark key="'" line="25" column="17" />
-        <mark key="[" line="25" column="17" />
-        <mark key="]" line="25" column="17" />
-        <mark key="^" line="48" column="0" />
-        <mark key="." line="25" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/2server/public/index.html" timestamp="1444280028606">
         <mark key="'" line="0" column="0" />
@@ -210,132 +68,15 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/Development/Javascript/mastering-typescript/example01.ts" timestamp="1469901476239">
-        <mark key="'" line="127" column="20" />
-        <mark key="[" line="127" column="21" />
-        <mark key="]" line="137" column="4" />
-        <mark key="^" line="137" column="4" />
-        <mark key="." line="137" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 11/mocha/asyncpromise.js" timestamp="1445965049432">
-        <mark key="[" line="14" column="3" />
-        <mark key="]" line="14" column="2" />
-        <mark key="^" line="14" column="2" />
-        <mark key="." line="14" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/further/badcatch.js" timestamp="1445601635167">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="18" column="5" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 04/File02.js" timestamp="1429509140789">
-        <mark key="'" line="226" column="22" />
-        <mark key="[" line="248" column="29" />
-        <mark key="]" line="248" column="27" />
-        <mark key="^" line="248" column="27" />
-        <mark key="." line="248" column="27" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/untitled/docker.yml" timestamp="1491414924224">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/8error/1error.js" timestamp="1444712445789">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="13" column="13" />
-        <mark key="^" line="13" column="13" />
-        <mark key="." line="11" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/chapter01.ts" timestamp="1484115679910">
-        <mark key="'" line="5" column="4" />
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="4" />
-        <mark key="." line="5" column="4" />
-        <mark key="^" line="35" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 12/File03.html" timestamp="1431322153026">
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="16" />
-        <mark key="^" line="22" column="10" />
-        <mark key="." line="16" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 11/assert/list.js" timestamp="1445925316199">
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/streams/5createReadable/counter.js" timestamp="1444194364464">
         <mark key="'" line="28" column="0" />
-        <mark key="[" line="32" column="2" />
-        <mark key="]" line="34" column="21" />
-        <mark key="^" line="34" column="21" />
-        <mark key="." line="34" column="21" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="15" column="45" />
+        <mark key="." line="15" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/bundled/test/bdd.test.js" timestamp="1485843325637">
-        <mark key="'" line="21953" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/tsconfig.json" timestamp="1484116209981">
-        <mark key="[" line="17" column="3" />
-        <mark key="]" line="17" column="3" />
-        <mark key="." line="17" column="3" />
-        <mark key="^" line="14" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/further/done.js" timestamp="1445601720827">
-        <mark key="'" line="7" column="1" />
-        <mark key="[" line="19" column="9" />
-        <mark key="]" line="19" column="7" />
-        <mark key="." line="19" column="7" />
-        <mark key="^" line="19" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/further/inspect.js" timestamp="1445602091867">
-        <mark key="[" line="17" column="40" />
-        <mark key="]" line="17" column="47" />
-        <mark key="^" line="17" column="47" />
-        <mark key="." line="17" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/postgres/routes/index.js" timestamp="1442433334246">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/Misc/ServerConfig/Fedora/initial_ansible_install.sh" timestamp="1474912380796">
-        <mark key="[" line="1" column="33" />
-        <mark key="]" line="1" column="45" />
-        <mark key="^" line="1" column="45" />
-        <mark key="." line="1" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/5middleware/1noop.js" timestamp="1444366847006">
-        <mark key="[" line="13" column="39" />
-        <mark key="]" line="13" column="42" />
-        <mark key="^" line="13" column="42" />
-        <mark key="." line="13" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/thencatch/rejected.js" timestamp="1445403884900">
-        <mark key="'" line="7" column="35" />
-        <mark key="[" line="8" column="2" />
-        <mark key="]" line="8" column="2" />
-        <mark key="^" line="8" column="2" />
-        <mark key="." line="8" column="2" />
-      </file>
-      <file name="/Angular2HTML Fragment (app.ts:1844).html" timestamp="1470767169452">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/events/8maxEventListeners.js" timestamp="1444107156856">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="33" />
-        <mark key="^" line="19" column="27" />
-        <mark key="." line="19" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/session/inmemory.js" timestamp="1444997412558">
-        <mark key="[" line="17" column="35" />
-        <mark key="]" line="17" column="36" />
-        <mark key="^" line="23" column="16" />
-        <mark key="." line="17" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/interop/loadJSONAsync.js" timestamp="1445576244576">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="33" column="26" />
-        <mark key="]" line="33" column="27" />
-        <mark key="^" line="33" column="27" />
-        <mark key="." line="33" column="27" />
+      <file name="$USER_HOME$/Documents/dev/masteringts/async02.js" timestamp="1470286685804">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/tslint.json" timestamp="1484028936608">
         <mark key="[" line="44" column="4" />
@@ -343,71 +84,11 @@
         <mark key="^" line="44" column="3" />
         <mark key="." line="44" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/trackerhdrss/rssexample/app.js" timestamp="1442002915561">
-        <mark key="'" line="29" column="12" />
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="25" />
-        <mark key="^" line="9" column="25" />
-        <mark key="." line="9" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/postgres/models/database.js" timestamp="1442432449781">
-        <mark key="[" line="5" column="51" />
-        <mark key="]" line="5" column="103" />
-        <mark key="^" line="5" column="101" />
-        <mark key="." line="5" column="101" />
-      </file>
-      <file name="C:/Development/legacy_functions/src/test_reg.py" timestamp="1479220896979">
-        <mark key="'" line="7" column="27" />
-      </file>
-      <file name="C:/Development/awesome-test/tsconfig.json" timestamp="1492593890673">
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="18" />
-        <mark key="." line="3" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/masteringts/example04.ts" timestamp="1470057103380">
-        <mark key="'" line="25" column="40" />
-        <mark key="[" line="25" column="31" />
-        <mark key="]" line="25" column="40" />
-        <mark key="^" line="25" column="40" />
-        <mark key="." line="25" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/masteringts/async03.js" timestamp="1470286701140">
-        <mark key="'" line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/streams/6createWriteable/logger.js" timestamp="1444194399983">
-        <mark key="'" line="5" column="41" />
-        <mark key="[" line="5" column="41" />
-        <mark key="]" line="5" column="41" />
-        <mark key="^" line="5" column="41" />
-        <mark key="." line="5" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/bodyparser/basic.js" timestamp="1444798602821">
-        <mark key="'" line="19" column="16" />
-        <mark key="[" line="19" column="14" />
-        <mark key="]" line="19" column="14" />
-        <mark key="^" line="19" column="14" />
-        <mark key="." line="19" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/approute/1verbs.js" timestamp="1444837541126">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/promises/create.js" timestamp="1445356102019">
-        <mark key="'" line="9" column="28" />
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="13" column="28" />
-        <mark key="^" line="13" column="28" />
-        <mark key="." line="13" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 04/File04.js" timestamp="1429854591868">
-        <mark key="'" line="197" column="23" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="17" />
-        <mark key="^" line="41" column="16" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/math_demo.ts" timestamp="1485844028788">
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="27" column="36" />
+        <mark key="." line="27" column="36" />
+        <mark key="^" line="29" column="13" />
       </file>
       <file name="$USER_HOME$/Development/Javascript/mastering-typescript/tsconfig.json" timestamp="1469898901707">
         <mark key="[" line="13" column="12" />
@@ -415,12 +96,12 @@
         <mark key="." line="13" column="14" />
         <mark key="^" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/masteringts/error_helper.js" timestamp="1470287327611">
-        <mark key="'" line="26" column="5" />
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="16" />
-        <mark key="^" line="5" column="16" />
-        <mark key="." line="5" column="16" />
+      <file name="$USER_HOME$/Documents/dev/trackerhdrss/rssexample/example.js" timestamp="1432791342830">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="26" />
+        <mark key="^" line="11" column="26" />
+        <mark key="." line="11" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/odm/connection.js" timestamp="1444996505722">
         <mark key="'" line="16" column="0" />
@@ -429,428 +110,12 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/static/1basic.js" timestamp="1444751975109">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="9" column="15" />
-        <mark key="^" line="9" column="16" />
-        <mark key="." line="9" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/masteringts/mvc01/view01.html" timestamp="1470373108712">
-        <mark key="'" line="4" column="11" />
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="9" column="28" />
-        <mark key="." line="9" column="28" />
-        <mark key="^" line="9" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/masteringts/decorators02.ts" timestamp="1470114046624">
-        <mark key="'" line="47" column="5" />
-        <mark key="[" line="43" column="32" />
-        <mark key="]" line="43" column="32" />
-        <mark key="^" line="43" column="26" />
-        <mark key="." line="47" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 02/File01.js" timestamp="1428691688348">
-        <mark key="'" line="41" column="10" />
-        <mark key="[" line="61" column="20" />
-        <mark key="]" line="61" column="18" />
-        <mark key="^" line="61" column="18" />
-        <mark key="." line="61" column="18" />
-      </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/5middleware/4prefix.js" timestamp="1444367389829">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="12" column="9" />
         <mark key="]" line="12" column="12" />
         <mark key="^" line="12" column="12" />
         <mark key="." line="12" column="12" />
-      </file>
-      <file name="C:/Development/legacy_functions/src/createDSfile.py" timestamp="1479717641662">
-        <mark key="'" line="36" column="30" />
-        <mark key="[" line="51" column="50" />
-        <mark key="]" line="51" column="67" />
-        <mark key="." line="51" column="67" />
-        <mark key="^" line="51" column="67" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/5middleware/3echo.js" timestamp="1444367266974">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="7" column="1" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="12" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/further/parallel.js" timestamp="1445602331375">
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="9" column="10" />
-        <mark key="^" line="9" column="10" />
-        <mark key="." line="9" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/10redirect/secure.js" timestamp="1444751181740">
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="22" column="33" />
-        <mark key="." line="22" column="33" />
-        <mark key="^" line="22" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/approute/2route.js" timestamp="1444837643434">
-        <mark key="[" line="16" column="18" />
-        <mark key="]" line="16" column="18" />
-        <mark key="^" line="16" column="18" />
-        <mark key="." line="16" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/trackerhdrss/.gitignore" timestamp="1432334243739">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="^" line="189" column="6" />
-        <mark key="." line="159" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/interop/dual.js" timestamp="1445576795295">
-        <mark key="[" line="22" column="2" />
-        <mark key="]" line="22" column="3" />
-        <mark key="^" line="22" column="3" />
-        <mark key="." line="22" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/7auth/2authArea.js" timestamp="1444712225351">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="37" column="22" />
-        <mark key="]" line="37" column="22" />
-        <mark key="^" line="37" column="22" />
-        <mark key="." line="37" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/masteringts/generics01.ts" timestamp="1470143862559">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="32" column="5" />
-        <mark key="]" line="47" column="26" />
-        <mark key="." line="47" column="26" />
-        <mark key="^" line="47" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/interop/nodeback.js" timestamp="1445490402895">
-        <mark key="'" line="41" column="2" />
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="18" />
-        <mark key="." line="6" column="18" />
-        <mark key="^" line="6" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/node-api/server.js" timestamp="1428533979363">
-        <mark key="'" line="16" column="43" />
-        <mark key="[" line="20" column="81" />
-        <mark key="]" line="20" column="81" />
-        <mark key="^" line="49" column="0" />
-        <mark key="." line="20" column="81" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/misc/src/promises.js" timestamp="1446531852346">
-        <mark key="'" line="26" column="29" />
-        <mark key="[" line="40" column="7" />
-        <mark key="]" line="40" column="8" />
-        <mark key="." line="40" column="8" />
-        <mark key="^" line="39" column="25" />
-      </file>
-      <file name="$USER_HOME$/Development/Javascript/mastering-typescript/async02.ts" timestamp="1471592644079">
-        <mark key="'" line="60" column="5" />
-        <mark key="[" line="41" column="33" />
-        <mark key="]" line="41" column="38" />
-        <mark key="^" line="41" column="38" />
-        <mark key="." line="41" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/generators/insideThrow.js" timestamp="1445839482225">
-        <mark key="[" line="16" column="46" />
-        <mark key="]" line="16" column="43" />
-        <mark key="^" line="16" column="43" />
-        <mark key="." line="16" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/math_demo.ts" timestamp="1485844028788">
-        <mark key="[" line="27" column="35" />
-        <mark key="]" line="27" column="36" />
-        <mark key="." line="27" column="36" />
-        <mark key="^" line="29" column="13" />
-      </file>
-      <file name="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/app-04.ts" timestamp="1469986185961">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="63" column="14" />
-        <mark key="]" line="63" column="14" />
-        <mark key="^" line="68" column="22" />
-        <mark key="." line="63" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/static/2static.js" timestamp="1444751999475">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="21" />
-        <mark key="^" line="7" column="20" />
-        <mark key="." line="7" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/.gitignore" timestamp="1445107949169">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="23" column="6" />
-        <mark key="^" line="23" column="6" />
-        <mark key="." line="23" column="6" />
-      </file>
-      <file name="$USER_HOME$/Development/Misc/ServerConfig/Fedora/ddclient.yml" timestamp="1474907250880">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="17" />
-        <mark key="." line="7" column="17" />
-        <mark key="^" line="7" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/events/10errorEvent.js" timestamp="1444107303853">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="9" column="32" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-      </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/Build definitions.md" timestamp="1474442712738">
-        <mark key="'" line="14" column="23" />
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="27" />
-        <mark key="." line="16" column="27" />
-        <mark key="^" line="1" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/ng-book2/code/first_app/angular2_reddit/src/main.ts" timestamp="1482265172343">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/streams/5createReadable/counter.js" timestamp="1444194364464">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="27" />
-        <mark key="^" line="15" column="45" />
-        <mark key="." line="15" column="45" />
-      </file>
-      <file name="$USER_HOME$/WebstormProjects/untitled/example.js" timestamp="1491415690055">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="3" column="7" />
-        <mark key="." line="3" column="7" />
-        <mark key="^" line="3" column="7" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1471592683095">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/streams/2pipe/1basic.js" timestamp="1444163884878">
-        <mark key="[" line="10" column="35" />
-        <mark key="]" line="10" column="35" />
-        <mark key="^" line="10" column="35" />
-        <mark key="." line="10" column="35" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/8error/3throwErrorHandler.js" timestamp="1444712869441">
-        <mark key="'" line="9" column="44" />
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="22" column="16" />
-        <mark key="." line="22" column="16" />
-        <mark key="^" line="22" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/odm/basic.js" timestamp="1444996891773">
-        <mark key="'" line="34" column="1" />
-        <mark key="[" line="31" column="22" />
-        <mark key="]" line="31" column="22" />
-        <mark key="." line="31" column="22" />
-        <mark key="^" line="31" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/requestmount/mountUrl.js" timestamp="1444800512209">
-        <mark key="[" line="12" column="63" />
-        <mark key="]" line="12" column="66" />
-        <mark key="^" line="12" column="66" />
-        <mark key="." line="12" column="66" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 11/mocha/hooks.js" timestamp="1445964271684">
-        <mark key="[" line="18" column="2" />
-        <mark key="]" line="18" column="2" />
-        <mark key="^" line="18" column="2" />
-        <mark key="." line="18" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/4connect/2simpler.js" timestamp="1444366674111">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="9" column="14" />
-      </file>
-      <file name="C:/Development/DDS06Test/src/main.py" timestamp="1477394836965">
-        <mark key="'" line="35" column="69" />
-        <mark key="[" line="36" column="63" />
-        <mark key="]" line="36" column="73" />
-        <mark key="^" line="36" column="73" />
-        <mark key="." line="36" column="73" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 12/File01.html" timestamp="1430978313249">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="77" column="9" />
-        <mark key="^" line="24" column="59" />
-        <mark key="." line="68" column="0" />
-      </file>
-      <file name="vcs.xml" timestamp="1475959278214">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/karma.conf.js" timestamp="1485756041184">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="50" column="1" />
-        <mark key="^" line="50" column="1" />
-        <mark key="." line="50" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/masteringts/tsconfig.json" timestamp="1470372884716">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/5middleware/5object.js" timestamp="1444368145017">
-        <mark key="[" line="7" column="3" />
-        <mark key="]" line="7" column="3" />
-        <mark key="^" line="7" column="3" />
-        <mark key="." line="7" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 09/todocomplete/app.js" timestamp="1445231688035">
-        <mark key="[" line="5" column="37" />
-        <mark key="]" line="5" column="34" />
-        <mark key="^" line="5" column="34" />
-        <mark key="." line="5" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/7auth/1auth.js" timestamp="1444712158335">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="33" column="15" />
-        <mark key="^" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/PowerBuilderBuild.md" timestamp="1474275842550">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/3serverjs/public/main.js" timestamp="1444279986443">
-        <mark key="[" line="5" column="69" />
-        <mark key="]" line="5" column="69" />
-        <mark key="^" line="5" column="69" />
-        <mark key="." line="5" column="69" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/3serverjs/public/index.html" timestamp="1444280097472">
-        <mark key="'" line="10" column="6" />
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="17" />
-        <mark key="^" line="3" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/generators/outsicde.js" timestamp="1445839121529">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="29" />
-        <mark key="^" line="14" column="28" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/Misc/ServerConfig/Fedora/nfs.yml" timestamp="1474907299207">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="10" column="21" />
-      </file>
-      <file name="C:/Development/awesome-test/example.xml" timestamp="1512059486776">
-        <mark key="'" line="11" column="13" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/masteringts/generics02.ts" timestamp="1470200431652">
-        <mark key="'" line="16" column="33" />
-        <mark key="[" line="64" column="14" />
-        <mark key="]" line="64" column="48" />
-        <mark key="^" line="64" column="48" />
-        <mark key="." line="64" column="48" />
-      </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/example.py" timestamp="1473341783244">
-        <mark key="'" line="1" column="10" />
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-        <mark key="^" line="2" column="23" />
-      </file>
-      <file name="/Bash" timestamp="1470239314229">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/ng-book2/code/first_app/angular2-reddit-base/app.ts" timestamp="1469980760975">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/intro/2simpler.js" timestamp="1444751719497">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="10" column="16" />
-        <mark key="^" line="10" column="16" />
-        <mark key="." line="10" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/2server/server.js" timestamp="1444232943487">
-        <mark key="'" line="8" column="55" />
-        <mark key="[" line="17" column="7" />
-        <mark key="]" line="17" column="1" />
-        <mark key="^" line="17" column="1" />
-        <mark key="." line="17" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/pyramid/simplify.js" timestamp="1445317331084">
-        <mark key="'" line="10" column="1" />
-        <mark key="[" line="29" column="2" />
-        <mark key="]" line="29" column="2" />
-        <mark key="." line="29" column="2" />
-        <mark key="^" line="25" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/9ssl/1basic.js" timestamp="1444714077605">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="14" column="16" />
-        <mark key="." line="9" column="77" />
-        <mark key="^" line="9" column="77" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 04/file01.js" timestamp="1429043907101">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="31" />
-        <mark key="]" line="5" column="31" />
-        <mark key="^" line="5" column="31" />
-        <mark key="." line="5" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/masteringts/async01.ts" timestamp="1470229831320">
-        <mark key="'" line="68" column="5" />
-        <mark key="[" line="66" column="43" />
-        <mark key="]" line="66" column="43" />
-        <mark key="." line="66" column="43" />
-        <mark key="^" line="66" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/nightwatch.json" timestamp="1485497871603">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 15/File01.js" timestamp="1431581599795">
-        <mark key="'" line="92" column="15" />
-        <mark key="[" line="109" column="39" />
-        <mark key="]" line="115" column="1" />
-        <mark key="^" line="115" column="1" />
-        <mark key="." line="115" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/intro/1basic.js" timestamp="1444751603159">
-        <mark key="[" line="16" column="16" />
-        <mark key="]" line="16" column="16" />
-        <mark key="^" line="16" column="16" />
-        <mark key="." line="16" column="16" />
-      </file>
-      <file name="C:/Development/pinboard/src/BreezeMeeting" timestamp="1470141270103">
-        <mark key="'" line="5" column="27" />
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="25" column="89" />
-        <mark key="^" line="25" column="89" />
-        <mark key="." line="25" column="89" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/streams/4writeable/basic.js" timestamp="1444193629993">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="13" />
-        <mark key="^" line="8" column="13" />
-        <mark key="." line="8" column="13" />
-      </file>
-      <file name="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/intermediates/app-04.ts" timestamp="1469987828926">
-        <mark key="'" line="70" column="4" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="^" line="112" column="9" />
-        <mark key="." line="67" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/masteringts/example02.ts" timestamp="1469917745580">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="80" column="60" />
-        <mark key="]" line="80" column="60" />
-        <mark key="^" line="80" column="60" />
-        <mark key="." line="80" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/chainability/chain.js" timestamp="1445404216807">
         <mark key="'" line="4" column="2" />
@@ -859,91 +124,24 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/cookie/1basic.js" timestamp="1444798779521">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="16" />
-        <mark key="^" line="11" column="16" />
-        <mark key="." line="11" column="16" />
+      <file name="$USER_HOME$/Documents/dev/masteringts/error_helper.js" timestamp="1470287327611">
+        <mark key="'" line="26" column="5" />
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/5middleware/6configurable.js" timestamp="1444368434542">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="17" column="8" />
-        <mark key="^" line="17" column="8" />
-        <mark key="." line="17" column="8" />
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/4connect/2simpler.js" timestamp="1444366674111">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" timestamp="1470767082633">
-        <mark key="'" line="34" column="22" />
-        <mark key="[" line="25" column="1" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="/Python Console" timestamp="1479308361056">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1479283413257">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/3serverjs/public/server.js" timestamp="1444281721684">
-        <mark key="'" line="28" column="5" />
-        <mark key="[" line="17" column="3" />
-        <mark key="]" line="17" column="3" />
-        <mark key="^" line="17" column="3" />
-        <mark key="." line="17" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/process/1uncaught.js" timestamp="1444107937062">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="37" />
-        <mark key="]" line="13" column="37" />
-        <mark key="^" line="13" column="37" />
-        <mark key="." line="13" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/masteringts/example01.js" timestamp="1469830448875">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/update/2update.js" timestamp="1444972995486">
-        <mark key="'" line="29" column="8" />
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="50" />
-        <mark key="^" line="39" column="4" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/streams/1concepts/eventBased.js" timestamp="1444163307371">
-        <mark key="[" line="8" column="62" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/router/basic.js" timestamp="1444923861319">
-        <mark key="'" line="16" column="31" />
-        <mark key="[" line="21" column="18" />
-        <mark key="]" line="21" column="18" />
-        <mark key="^" line="47" column="31" />
-        <mark key="." line="21" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 09/angularstart/public/index.html" timestamp="1445107273277">
-        <mark key="'" line="16" column="26" />
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="1" column="17" />
-        <mark key="^" line="1" column="17" />
-        <mark key="." line="1" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/pyramid/indented.js" timestamp="1445317100380">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/masteringts/ErrorHelperTypeScript.ts" timestamp="1470316630173">
-        <mark key="'" line="10" column="5" />
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="28" />
-        <mark key="." line="6" column="28" />
-        <mark key="^" line="6" column="28" />
-      </file>
-      <file name="C:/Development/legacy_functions/src/test_invoice_printing.py" timestamp="1479200053475">
-        <mark key="'" line="36" column="0" />
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 09/todocomplete/app.js" timestamp="1445231688035">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="34" />
+        <mark key="^" line="5" column="34" />
+        <mark key="." line="5" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/dev/masteringts/example03.ts" timestamp="1470027614409">
         <mark key="'" line="39" column="31" />
@@ -952,19 +150,47 @@
         <mark key="^" line="39" column="31" />
         <mark key="." line="39" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/approute/2path.js" timestamp="1444838029006">
-        <mark key="'" line="14" column="34" />
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="20" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="11" column="20" />
+      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/chapter01.js" timestamp="1484115622552">
+        <mark key="'" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/masteringts/generics03.ts" timestamp="1470200781388">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="23" column="49" />
-        <mark key="]" line="23" column="59" />
-        <mark key="." line="23" column="59" />
-        <mark key="^" line="23" column="59" />
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/approute/1verbs.js" timestamp="1444837541126">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/trackerhdrss/rssexample/app.js" timestamp="1442002915561">
+        <mark key="'" line="29" column="12" />
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/5middleware/3echo.js" timestamp="1444367266974">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="12" column="10" />
+        <mark key="." line="12" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/process/2exit.js" timestamp="1444108023751">
+        <mark key="'" line="7" column="13" />
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/generators/outsicde.js" timestamp="1445839121529">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="29" />
+        <mark key="^" line="14" column="28" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/8error/1error.js" timestamp="1444712445789">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="13" column="13" />
+        <mark key="^" line="13" column="13" />
+        <mark key="." line="11" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 04/File05.js" timestamp="1430112755286">
         <mark key="'" line="19" column="25" />
@@ -973,18 +199,56 @@
         <mark key="^" line="60" column="19" />
         <mark key="." line="60" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/interop/context.js" timestamp="1445576394150">
-        <mark key="[" line="12" column="37" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="0" />
+      <file name="$USER_HOME$/Documents/dev/masteringts/example01.js" timestamp="1469830448875">
+        <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/masteringts/decorators01.ts" timestamp="1470057887433">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="39" column="23" />
-        <mark key="]" line="39" column="43" />
-        <mark key="." line="39" column="43" />
-        <mark key="^" line="39" column="43" />
+      <file name="$USER_HOME$/Documents/dev/rss/readTrackerHD.js" timestamp="1432239519129">
+        <mark key="'" line="29" column="49" />
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="4" />
+      </file>
+      <file name="$USER_HOME$/Development/Javascript/mastering-typescript/example01.ts" timestamp="1469901476239">
+        <mark key="'" line="127" column="20" />
+        <mark key="[" line="127" column="21" />
+        <mark key="]" line="137" column="4" />
+        <mark key="^" line="137" column="4" />
+        <mark key="." line="137" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/requestmount/mountUrl.js" timestamp="1444800512209">
+        <mark key="[" line="12" column="63" />
+        <mark key="]" line="12" column="66" />
+        <mark key="^" line="12" column="66" />
+        <mark key="." line="12" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/masteringts/example04.ts" timestamp="1470057103380">
+        <mark key="'" line="25" column="40" />
+        <mark key="[" line="25" column="31" />
+        <mark key="]" line="25" column="40" />
+        <mark key="^" line="25" column="40" />
+        <mark key="." line="25" column="40" />
+      </file>
+      <file name="$USER_HOME$/Development/Javascript/server-configuration/FranceTest.md" timestamp="1475046537534">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/3serverjs/public/server.js" timestamp="1444281721684">
+        <mark key="'" line="28" column="5" />
+        <mark key="[" line="17" column="3" />
+        <mark key="]" line="17" column="3" />
+        <mark key="^" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 11/mocha/syncgood.js" timestamp="1445964950405">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="25" />
+        <mark key="^" line="12" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/events/6listeners.js" timestamp="1444075701796">
         <mark key="'" line="14" column="18" />
@@ -1000,63 +264,18 @@
         <mark key="." line="22" column="32" />
         <mark key="^" line="22" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/masteringts/async02.ts" timestamp="1470286226980">
-        <mark key="'" line="56" column="10" />
-        <mark key="[" line="45" column="1" />
-        <mark key="]" line="47" column="18" />
-        <mark key="." line="47" column="18" />
-        <mark key="^" line="47" column="18" />
+      <file name="$USER_HOME$/Documents/dev/masteringts/tsconfig.json" timestamp="1470372884716">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/rss/app.js" timestamp="1432243215288">
-        <mark key="'" line="63" column="4" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="17" />
-        <mark key="^" line="30" column="4" />
-        <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/promises/seperate.js" timestamp="1445356341857">
-        <mark key="'" line="7" column="25" />
-        <mark key="[" line="20" column="2" />
-        <mark key="]" line="20" column="2" />
-        <mark key="^" line="20" column="2" />
-        <mark key="." line="20" column="2" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 11/assert/list.test.js" timestamp="1445925829618">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="55" column="1" />
-        <mark key="]" line="54" column="43" />
-        <mark key="." line="54" column="43" />
-        <mark key="^" line="54" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/gulpfile.js" timestamp="1485843168029">
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="50" column="44" />
-        <mark key="]" line="50" column="48" />
-        <mark key="^" line="50" column="48" />
-        <mark key="." line="50" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/masteringts/mvc01/mvc01.ts" timestamp="1470372987713">
-        <mark key="'" line="15" column="26" />
-        <mark key="[" line="19" column="64" />
-        <mark key="]" line="19" column="60" />
-        <mark key="^" line="19" column="60" />
-        <mark key="." line="19" column="60" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/update/1save.js" timestamp="1444971726443">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="28" column="4" />
-        <mark key="^" line="27" column="6" />
-        <mark key="." line="27" column="6" />
-      </file>
-      <file name="$USER_HOME$/Development/Javascript/mastering-typescript/example03.ts" timestamp="1469963990817">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="33" column="5" />
-        <mark key="]" line="33" column="5" />
-        <mark key="^" line="33" column="5" />
-        <mark key="." line="33" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/chapter01.js" timestamp="1484115622552">
-        <mark key="'" line="8" column="0" />
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/odm/basic.js" timestamp="1444996891773">
+        <mark key="'" line="34" column="1" />
+        <mark key="[" line="31" column="22" />
+        <mark key="]" line="31" column="22" />
+        <mark key="." line="31" column="22" />
+        <mark key="^" line="31" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 11/File01.js" timestamp="1430806421042">
         <mark key="'" line="135" column="12" />
@@ -1065,151 +284,21 @@
         <mark key="^" line="173" column="28" />
         <mark key="." line="173" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/test/bdd.test.ts" timestamp="1485930330190">
-        <mark key="[" line="15" column="1" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="0" />
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/streams/6createWriteable/logger.js" timestamp="1444194399983">
+        <mark key="'" line="5" column="41" />
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="5" column="41" />
+        <mark key="^" line="5" column="41" />
+        <mark key="." line="5" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 09/angularstart/app.js" timestamp="1445105755371">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="8" column="15" />
-        <mark key="^" line="8" column="15" />
-        <mark key="." line="8" column="15" />
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/pyramid/simplify.js" timestamp="1445317331084">
+        <mark key="'" line="10" column="1" />
+        <mark key="[" line="29" column="2" />
+        <mark key="]" line="29" column="2" />
+        <mark key="." line="29" column="2" />
+        <mark key="^" line="25" column="27" />
       </file>
-      <file name="C:/Development/pinboard/src/mailPDFPOC.md" timestamp="1474960313266">
-        <mark key="'" line="33" column="44" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="117" />
-        <mark key="." line="39" column="117" />
-        <mark key="^" line="39" column="117" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/9ssl/2connect.js" timestamp="1444714296381">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="18" column="15" />
-        <mark key="." line="18" column="1" />
-        <mark key="^" line="18" column="1" />
-      </file>
-      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/utils.py" timestamp="1474022354184">
-        <mark key="'" line="106" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/masteringts/declaring01.html" timestamp="1470287358934">
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="5" column="31" />
-        <mark key="." line="5" column="31" />
-        <mark key="^" line="5" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/process/2exit.js" timestamp="1444108023751">
-        <mark key="'" line="7" column="13" />
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="13" />
-        <mark key="^" line="7" column="13" />
-        <mark key="." line="7" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/1create/1raw.js" timestamp="1444195419347">
-        <mark key="'" line="7" column="30" />
-        <mark key="[" line="14" column="53" />
-        <mark key="]" line="14" column="55" />
-        <mark key="^" line="14" column="55" />
-        <mark key="." line="14" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 12/File01.js" timestamp="1430930498103">
-        <mark key="'" line="0" column="1" />
-        <mark key="[" line="12" column="45" />
-        <mark key="]" line="12" column="50" />
-        <mark key="^" line="12" column="50" />
-        <mark key="." line="12" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 11/mocha/syncgood.js" timestamp="1445964950405">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="12" column="11" />
-        <mark key="]" line="12" column="25" />
-        <mark key="." line="12" column="25" />
-        <mark key="^" line="12" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/events/11custom.js" timestamp="1444107546245">
-        <mark key="'" line="26" column="13" />
-        <mark key="[" line="25" column="2" />
-        <mark key="]" line="26" column="13" />
-        <mark key="." line="26" column="13" />
-        <mark key="^" line="26" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/trackerhdrss/rssexample/closure_example.js" timestamp="1442002847436">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="52" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/tslint.json" timestamp="1469977076915">
-        <mark key="[" line="57" column="20" />
-        <mark key="]" line="57" column="24" />
-        <mark key="." line="57" column="24" />
-        <mark key="^" line="57" column="24" />
-      </file>
-      <file name="$USER_HOME$/Development/Javascript/server-configuration/FranceTest.md" timestamp="1475046537534">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/interfaces.d.ts" timestamp="1485843960881">
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="8" column="12" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/further/thenable.js" timestamp="1445601239869">
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="21" column="5" />
-        <mark key="^" line="21" column="5" />
-        <mark key="." line="21" column="5" />
-      </file>
-      <file name="vim_settings.xml" timestamp="1475959354958">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/crud/basic.js" timestamp="1444971198866">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="21" />
-        <mark key="^" line="9" column="26" />
-        <mark key="." line="6" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/ng-book2/code/first_app/angular2-reddit-base/index.html" timestamp="1469981179238">
-        <mark key="'" line="9" column="60" />
-        <mark key="[" line="9" column="61" />
-        <mark key="]" line="10" column="3" />
-        <mark key="." line="10" column="3" />
-        <mark key="^" line="10" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/rss/readTrackerHD.js" timestamp="1432239519129">
-        <mark key="'" line="29" column="49" />
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="4" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="4" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/spawn/basics.js" timestamp="1445839702571">
-        <mark key="[" line="18" column="2" />
-        <mark key="]" line="18" column="2" />
-        <mark key="." line="18" column="2" />
-        <mark key="^" line="18" column="2" />
-      </file>
-      <file name="other.xml" timestamp="1470239128710">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/4connect/1basic.js" timestamp="1444366628575">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="13" column="42" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="5" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/ng-book2/code/first_app/angular2_reddit/tslint.json" timestamp="1482098469792">
-        <mark key="'" line="35" column="7" />
-      </file>
-      <file name="C:/Development/awesome-test/server.js" timestamp="1492594202395">
+      <file name="$USER_HOME$/Documents/dev/ng-book2/code/first_app/angular2-reddit-base/app.ts" timestamp="1469980760975">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/ng-book2/code/typescript/example01.ts" timestamp="1469996748684">
@@ -1219,58 +308,28 @@
         <mark key="^" line="76" column="21" />
         <mark key="." line="76" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/generators/insideValue.js" timestamp="1445839292145">
-        <mark key="[" line="13" column="34" />
-        <mark key="]" line="13" column="31" />
-        <mark key="^" line="13" column="31" />
-        <mark key="." line="13" column="31" />
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/thencatch/settle.js" timestamp="1445403487879">
+        <mark key="'" line="23" column="12" />
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="23" column="12" />
+        <mark key="^" line="23" column="12" />
+        <mark key="." line="23" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/epublibre_node/test.yml" timestamp="1454807904917">
-        <mark key="'" line="32" column="13" />
-        <mark key="[" line="32" column="13" />
-        <mark key="]" line="32" column="13" />
-        <mark key="." line="32" column="13" />
-        <mark key="^" line="32" column="12" />
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/crud/basic.js" timestamp="1444971198866">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="21" />
+        <mark key="^" line="9" column="26" />
+        <mark key="." line="6" column="49" />
       </file>
-      <file name="/JavaScript Console" timestamp="1450219405330">
+      <file name="/Angular2HTML Fragment (app.ts:1844).html" timestamp="1470767169452">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/masteringts/async03.ts" timestamp="1470286711356">
-        <mark key="'" line="17" column="22" />
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="10" />
-        <mark key="^" line="3" column="10" />
-        <mark key="." line="3" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/approute/4param.js" timestamp="1444884799160">
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="8" column="32" />
-        <mark key="^" line="8" column="32" />
-        <mark key="." line="8" column="32" />
-      </file>
-      <file name="$USER_HOME$/Development/Javascript/mastering-typescript/example02.ts" timestamp="1469917497391">
-        <mark key="'" line="34" column="18" />
-        <mark key="[" line="54" column="16" />
-        <mark key="]" line="54" column="16" />
-        <mark key="^" line="62" column="58" />
-        <mark key="." line="54" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.ts" timestamp="1485412379240">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 09/todostart/public/index.html" timestamp="1445231498595">
-        <mark key="'" line="14" column="6" />
-        <mark key="[" line="24" column="81" />
-        <mark key="]" line="24" column="117" />
-        <mark key="^" line="24" column="117" />
-        <mark key="." line="24" column="117" />
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/events/10errorEvent.js" timestamp="1444107303853">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="9" column="32" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/further/gracefulcatch.js" timestamp="1445601497736">
         <mark key="'" line="4" column="0" />
@@ -1279,19 +338,605 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="20" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/1create/2defaultHeaders.js" timestamp="1444195980400">
-        <mark key="'" line="11" column="11" />
-        <mark key="[" line="13" column="43" />
+      <file name="C:/Development/legacy_functions/src/test_reg.py" timestamp="1479220896979">
+        <mark key="'" line="7" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/masteringts/example02.ts" timestamp="1469917745580">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="80" column="60" />
+        <mark key="]" line="80" column="60" />
+        <mark key="^" line="80" column="60" />
+        <mark key="." line="80" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/update/1save.js" timestamp="1444971726443">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="28" column="4" />
+        <mark key="^" line="27" column="6" />
+        <mark key="." line="27" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/pyramid/indented.js" timestamp="1445317100380">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/masteringts/async03.ts" timestamp="1470286711356">
+        <mark key="'" line="17" column="22" />
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="10" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 04/File04.js" timestamp="1429854591868">
+        <mark key="'" line="197" column="23" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="17" />
+        <mark key="^" line="41" column="16" />
+        <mark key="." line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Javascript/mastering-typescript/example02.ts" timestamp="1469917497391">
+        <mark key="'" line="34" column="18" />
+        <mark key="[" line="54" column="16" />
+        <mark key="]" line="54" column="16" />
+        <mark key="^" line="62" column="58" />
+        <mark key="." line="54" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/further/parallel.js" timestamp="1445602331375">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/interop/good.json" timestamp="1445576185347">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+        <mark key="." line="1" column="8" />
+      </file>
+      <file name="C:/Development/legacy_functions/src/createDSfile.py" timestamp="1479717641662">
+        <mark key="'" line="36" column="30" />
+        <mark key="[" line="51" column="50" />
+        <mark key="]" line="51" column="67" />
+        <mark key="." line="51" column="67" />
+        <mark key="^" line="51" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/node-api/server.js" timestamp="1428533979363">
+        <mark key="'" line="16" column="43" />
+        <mark key="[" line="20" column="81" />
+        <mark key="]" line="20" column="81" />
+        <mark key="^" line="49" column="0" />
+        <mark key="." line="20" column="81" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/events/8maxEventListeners.js" timestamp="1444107156856">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="33" />
+        <mark key="^" line="19" column="27" />
+        <mark key="." line="19" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/8error/3throwErrorHandler.js" timestamp="1444712869441">
+        <mark key="'" line="9" column="44" />
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="22" column="16" />
+        <mark key="." line="22" column="16" />
+        <mark key="^" line="22" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/ng-book2/code/typescript/generics.ts" timestamp="1469994184161">
+        <mark key="'" line="26" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/interop/context.js" timestamp="1445576394150">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/generators/infiniteSequence.js" timestamp="1445838908734">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="4" column="8" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="4" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 11/mocha/basic.js" timestamp="1445964060085">
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/interop/nodeback.js" timestamp="1445490402895">
+        <mark key="'" line="41" column="2" />
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/ng-book2/code/how_angular_works/inventory_app/app.ts" timestamp="1470767082633">
+        <mark key="'" line="34" column="22" />
+        <mark key="[" line="25" column="1" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/events/maxEventListeners.js" timestamp="1444077258330">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="9" column="33" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/tslint.json" timestamp="1485497257600">
+        <mark key="'" line="53" column="10" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/5middleware/6configurable.js" timestamp="1444368434542">
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="17" column="8" />
+        <mark key="^" line="17" column="8" />
+        <mark key="." line="17" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 11/assert/list.js" timestamp="1445925316199">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="32" column="2" />
+        <mark key="]" line="34" column="21" />
+        <mark key="^" line="34" column="21" />
+        <mark key="." line="34" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/interop/sleep.js" timestamp="1445576553682">
+        <mark key="[" line="16" column="2" />
+        <mark key="]" line="16" column="2" />
+        <mark key="." line="16" column="2" />
+        <mark key="^" line="16" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/6chain/1parse.js" timestamp="1444392390702">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="17" column="6" />
+        <mark key="^" line="17" column="6" />
+        <mark key="." line="17" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/4connect/1basic.js" timestamp="1444366628575">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="13" column="42" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 11/mocha/hooks.js" timestamp="1445964271684">
+        <mark key="[" line="18" column="2" />
+        <mark key="]" line="18" column="2" />
+        <mark key="^" line="18" column="2" />
+        <mark key="." line="18" column="2" />
+      </file>
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/Build definitions.md" timestamp="1474442712738">
+        <mark key="'" line="14" column="23" />
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="27" />
+        <mark key="." line="16" column="27" />
+        <mark key="^" line="1" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/further/inspect.js" timestamp="1445602091867">
+        <mark key="[" line="17" column="40" />
+        <mark key="]" line="17" column="47" />
+        <mark key="^" line="17" column="47" />
+        <mark key="." line="17" column="47" />
+      </file>
+      <file name="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/app-02.ts" timestamp="1469986105188">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="58" column="19" />
+        <mark key="." line="58" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/postgres/models/database.js" timestamp="1442432449781">
+        <mark key="[" line="5" column="51" />
+        <mark key="]" line="5" column="103" />
+        <mark key="^" line="5" column="101" />
+        <mark key="." line="5" column="101" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/thencatch/fulfilled.js" timestamp="1445403777269">
+        <mark key="[" line="14" column="65" />
+        <mark key="]" line="14" column="65" />
+        <mark key="^" line="14" column="65" />
+        <mark key="." line="14" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/cookie/1basic.js" timestamp="1444798779521">
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1471592683095">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/interop/dual.js" timestamp="1445576795295">
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="22" column="3" />
+        <mark key="^" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/streams/4writeable/basic.js" timestamp="1444193629993">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 04/file01.js" timestamp="1429043907101">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/10redirect/secure.js" timestamp="1444751181740">
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="22" column="33" />
+        <mark key="." line="22" column="33" />
+        <mark key="^" line="22" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/8error/2errorHandler.js" timestamp="1444712819440">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="21" column="15" />
+        <mark key="^" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+      </file>
+      <file name="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/tslint.json" timestamp="1469977076915">
+        <mark key="[" line="57" column="20" />
+        <mark key="]" line="57" column="24" />
+        <mark key="." line="57" column="24" />
+        <mark key="^" line="57" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/masteringts/async02.ts" timestamp="1470286226980">
+        <mark key="'" line="56" column="10" />
+        <mark key="[" line="45" column="1" />
+        <mark key="]" line="47" column="18" />
+        <mark key="." line="47" column="18" />
+        <mark key="^" line="47" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/test/bdd.test.ts" timestamp="1485930330190">
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/Chapter03.ts" timestamp="1485412379240">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="54" />
+      </file>
+      <file name="C:/Development/DDS06Test/src/main.py" timestamp="1477394836965">
+        <mark key="'" line="35" column="69" />
+        <mark key="[" line="36" column="63" />
+        <mark key="]" line="36" column="73" />
+        <mark key="^" line="36" column="73" />
+        <mark key="." line="36" column="73" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/thencatch/rejected.js" timestamp="1445403884900">
+        <mark key="'" line="7" column="35" />
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="2" />
+        <mark key="^" line="8" column="2" />
+        <mark key="." line="8" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/interop/loadJSONAsync.js" timestamp="1445576244576">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="33" column="27" />
+        <mark key="^" line="33" column="27" />
+        <mark key="." line="33" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/9ssl/2connect.js" timestamp="1444714296381">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="18" column="15" />
+        <mark key="." line="18" column="1" />
+        <mark key="^" line="18" column="1" />
+      </file>
+      <file name="vcs.xml" timestamp="1475959278214">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/router/basic.js" timestamp="1444923861319">
+        <mark key="'" line="16" column="31" />
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="21" column="18" />
+        <mark key="^" line="47" column="31" />
+        <mark key="." line="21" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 04/File03.js" timestamp="1429632982958">
+        <mark key="'" line="83" column="1" />
+        <mark key="[" line="106" column="55" />
+        <mark key="]" line="106" column="74" />
+        <mark key="^" line="106" column="74" />
+        <mark key="." line="106" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 02/File01.js" timestamp="1428691688348">
+        <mark key="'" line="41" column="10" />
+        <mark key="[" line="61" column="20" />
+        <mark key="]" line="61" column="18" />
+        <mark key="^" line="61" column="18" />
+        <mark key="." line="61" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/bodyparser/basic.js" timestamp="1444798602821">
+        <mark key="'" line="19" column="16" />
+        <mark key="[" line="19" column="14" />
+        <mark key="]" line="19" column="14" />
+        <mark key="^" line="19" column="14" />
+        <mark key="." line="19" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 15/File01.js" timestamp="1431581599795">
+        <mark key="'" line="92" column="15" />
+        <mark key="[" line="109" column="39" />
+        <mark key="]" line="115" column="1" />
+        <mark key="^" line="115" column="1" />
+        <mark key="." line="115" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/events/11custom.js" timestamp="1444107546245">
+        <mark key="'" line="26" column="13" />
+        <mark key="[" line="25" column="2" />
+        <mark key="]" line="26" column="13" />
+        <mark key="." line="26" column="13" />
+        <mark key="^" line="26" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/streams/3readable/basic.js" timestamp="1444164908240">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/trackerhdrss/rssexample/closure_example.js" timestamp="1442002847436">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="52" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/PowerBuilderBuild.md" timestamp="1474275842550">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/masteringts/ErrorHelperTypeScript.ts" timestamp="1470316630173">
+        <mark key="'" line="10" column="5" />
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/misc/src/promises.js" timestamp="1446531852346">
+        <mark key="'" line="26" column="29" />
+        <mark key="[" line="40" column="7" />
+        <mark key="]" line="40" column="8" />
+        <mark key="." line="40" column="8" />
+        <mark key="^" line="39" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 09/todostart/public/index.html" timestamp="1445231498595">
+        <mark key="'" line="14" column="6" />
+        <mark key="[" line="24" column="81" />
+        <mark key="]" line="24" column="117" />
+        <mark key="^" line="24" column="117" />
+        <mark key="." line="24" column="117" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/streams/2pipe/2chain.js" timestamp="1444164598506">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="24" />
+        <mark key="^" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+      </file>
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/example.py" timestamp="1473341783244">
+        <mark key="'" line="1" column="10" />
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+        <mark key="^" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/Development/Misc/ServerConfig/Fedora/nfs.yml" timestamp="1474907299207">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="10" column="21" />
+      </file>
+      <file name="/Bash" timestamp="1470239314229">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/approute/2path.js" timestamp="1444838029006">
+        <mark key="'" line="14" column="34" />
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="20" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/generators/insideThrow.js" timestamp="1445839482225">
+        <mark key="[" line="16" column="46" />
+        <mark key="]" line="16" column="43" />
+        <mark key="^" line="16" column="43" />
+        <mark key="." line="16" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 10/File02.js" timestamp="1430201144209">
+        <mark key="'" line="0" column="1" />
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="9" column="40" />
+        <mark key="^" line="9" column="40" />
+        <mark key="." line="9" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/chapter01.ts" timestamp="1484115679910">
+        <mark key="'" line="5" column="4" />
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="5" column="4" />
+        <mark key="^" line="35" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 02/File02.js" timestamp="1429042339889">
+        <mark key="'" line="122" column="0" />
+        <mark key="[" line="144" column="12" />
+        <mark key="]" line="144" column="3" />
+        <mark key="^" line="144" column="3" />
+        <mark key="." line="144" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/masteringts/decorators02.ts" timestamp="1470114046624">
+        <mark key="'" line="47" column="5" />
+        <mark key="[" line="43" column="32" />
+        <mark key="]" line="43" column="32" />
+        <mark key="^" line="43" column="26" />
+        <mark key="." line="47" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/ng-book2/code/first_app/angular2-reddit-base/index.html" timestamp="1469981179238">
+        <mark key="'" line="9" column="60" />
+        <mark key="[" line="9" column="61" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/update/2update.js" timestamp="1444972995486">
+        <mark key="'" line="29" column="8" />
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="12" column="50" />
+        <mark key="^" line="39" column="4" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/5middleware/1noop.js" timestamp="1444366847006">
+        <mark key="[" line="13" column="39" />
         <mark key="]" line="13" column="42" />
         <mark key="^" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/thencatch/settle.js" timestamp="1445403487879">
-        <mark key="'" line="23" column="12" />
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="23" column="12" />
-        <mark key="^" line="23" column="12" />
-        <mark key="." line="23" column="12" />
+      <file name="C:/Development/pinboard/src/BreezeMeeting" timestamp="1470141270103">
+        <mark key="'" line="5" column="27" />
+        <mark key="[" line="21" column="20" />
+        <mark key="]" line="25" column="89" />
+        <mark key="^" line="25" column="89" />
+        <mark key="." line="25" column="89" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/approute/5paramLoad.js" timestamp="1444885777585">
+        <mark key="'" line="14" column="8" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="16" column="40" />
+        <mark key="^" line="16" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/approute/4param.js" timestamp="1444884799160">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+      </file>
+      <file name="$USER_HOME$/Development/Javascript/mastering-typescript/example03.ts" timestamp="1469963990817">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="33" column="5" />
+        <mark key="]" line="33" column="5" />
+        <mark key="^" line="33" column="5" />
+        <mark key="." line="33" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/masteringts/generics02.ts" timestamp="1470200431652">
+        <mark key="'" line="16" column="33" />
+        <mark key="[" line="64" column="14" />
+        <mark key="]" line="64" column="48" />
+        <mark key="^" line="64" column="48" />
+        <mark key="." line="64" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/streams/2pipe/1basic.js" timestamp="1444163884878">
+        <mark key="[" line="10" column="35" />
+        <mark key="]" line="10" column="35" />
+        <mark key="^" line="10" column="35" />
+        <mark key="." line="10" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/further/done.js" timestamp="1445601720827">
+        <mark key="'" line="7" column="1" />
+        <mark key="[" line="19" column="9" />
+        <mark key="]" line="19" column="7" />
+        <mark key="." line="19" column="7" />
+        <mark key="^" line="19" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/generators/insideValue.js" timestamp="1445839292145">
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="13" column="31" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="13" column="31" />
+      </file>
+      <file name="/Python Console" timestamp="1479308361056">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1479283413257">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/masteringts/decorators03.ts" timestamp="1470114490069">
+        <mark key="'" line="15" column="26" />
+        <mark key="[" line="17" column="1" />
+        <mark key="]" line="22" column="19" />
+        <mark key="^" line="22" column="19" />
+        <mark key="." line="22" column="19" />
+      </file>
+      <file name="$USER_HOME$/Development/Misc/ServerConfig/Fedora/ddclient.yml" timestamp="1474907250880">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+        <mark key="^" line="7" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/ng-book2/code/first_app/angular2_reddit/src/main.ts" timestamp="1482265172343">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/masteringts/async01.ts" timestamp="1470229831320">
+        <mark key="'" line="68" column="5" />
+        <mark key="[" line="66" column="43" />
+        <mark key="]" line="66" column="43" />
+        <mark key="." line="66" column="43" />
+        <mark key="^" line="66" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/masteringts/ErrorHelper.d.ts" timestamp="1470316665930">
+        <mark key="'" line="10" column="36" />
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="28" />
+        <mark key="^" line="1" column="28" />
+        <mark key="." line="1" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 04/File02.js" timestamp="1429509140789">
+        <mark key="'" line="226" column="22" />
+        <mark key="[" line="248" column="29" />
+        <mark key="]" line="248" column="27" />
+        <mark key="^" line="248" column="27" />
+        <mark key="." line="248" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/source/interfaces.d.ts" timestamp="1485843960881">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="12" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/5middleware/5object.js" timestamp="1444368145017">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/static/2static.js" timestamp="1444751999475">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="21" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/masteringts/generics01.ts" timestamp="1470143862559">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="32" column="5" />
+        <mark key="]" line="47" column="26" />
+        <mark key="." line="47" column="26" />
+        <mark key="^" line="47" column="26" />
+      </file>
+      <file name="$USER_HOME$/Development/Javascript/mastering-typescript/async02.ts" timestamp="1471592644079">
+        <mark key="'" line="60" column="5" />
+        <mark key="[" line="41" column="33" />
+        <mark key="]" line="41" column="38" />
+        <mark key="^" line="41" column="38" />
+        <mark key="." line="41" column="38" />
+      </file>
+      <file name="C:/Development/legacy_functions/src/test_invoice_printing.py" timestamp="1479200053475">
+        <mark key="'" line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 09/angularstart/app.js" timestamp="1445105755371">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/5middleware/2logit.js" timestamp="1444367097328">
         <mark key="'" line="4" column="0" />
@@ -1300,12 +945,353 @@
         <mark key="^" line="16" column="16" />
         <mark key="." line="16" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/karma.conf.js" timestamp="1485756041184">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="2" column="3" />
+        <mark key="]" line="50" column="1" />
+        <mark key="^" line="50" column="1" />
+        <mark key="." line="50" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 12/File03.html" timestamp="1431322153026">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="16" />
+        <mark key="^" line="22" column="10" />
+        <mark key="." line="16" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 11/mocha/skip.js" timestamp="1445964453741">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="16" column="10" />
         <mark key="]" line="16" column="10" />
         <mark key="." line="16" column="10" />
         <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/epublibre_node/test.yml" timestamp="1454807904917">
+        <mark key="'" line="32" column="13" />
+        <mark key="[" line="32" column="13" />
+        <mark key="]" line="32" column="13" />
+        <mark key="." line="32" column="13" />
+        <mark key="^" line="32" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/.gitignore" timestamp="1445107949169">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="23" column="6" />
+        <mark key="^" line="23" column="6" />
+        <mark key="." line="23" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/masteringts/decorators01.ts" timestamp="1470057887433">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="39" column="23" />
+        <mark key="]" line="39" column="43" />
+        <mark key="." line="39" column="43" />
+        <mark key="^" line="39" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/intro/2simpler.js" timestamp="1444751719497">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="10" column="16" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="10" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/masteringts/mvc01/mvc01.ts" timestamp="1470372987713">
+        <mark key="'" line="15" column="26" />
+        <mark key="[" line="19" column="64" />
+        <mark key="]" line="19" column="60" />
+        <mark key="^" line="19" column="60" />
+        <mark key="." line="19" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/7auth/1auth.js" timestamp="1444712158335">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="33" column="15" />
+        <mark key="^" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/further/thenable.js" timestamp="1445601239869">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="21" column="5" />
+        <mark key="^" line="21" column="5" />
+        <mark key="." line="21" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/masteringts/generics03.ts" timestamp="1470200781388">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="23" column="49" />
+        <mark key="]" line="23" column="59" />
+        <mark key="." line="23" column="59" />
+        <mark key="^" line="23" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/bundled/test/bdd.test.js" timestamp="1485843325637">
+        <mark key="'" line="21953" column="0" />
+      </file>
+      <file name="C:/Development/pinboard/src/mailPDFPOC.md" timestamp="1474960313266">
+        <mark key="'" line="33" column="44" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="117" />
+        <mark key="." line="39" column="117" />
+        <mark key="^" line="39" column="117" />
+      </file>
+      <file name="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/intermediates/app-04.ts" timestamp="1469987828926">
+        <mark key="'" line="70" column="4" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="^" line="112" column="9" />
+        <mark key="." line="67" column="0" />
+      </file>
+      <file name="C:/HISCollection/Inator3/TRC/Current/PowerBuilder/Automation/utils.py" timestamp="1474022354184">
+        <mark key="'" line="106" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/rss/app.js" timestamp="1432243215288">
+        <mark key="'" line="63" column="4" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="17" />
+        <mark key="^" line="30" column="4" />
+        <mark key="." line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/2server/server.js" timestamp="1444232943487">
+        <mark key="'" line="8" column="55" />
+        <mark key="[" line="17" column="7" />
+        <mark key="]" line="17" column="1" />
+        <mark key="^" line="17" column="1" />
+        <mark key="." line="17" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 09/angularstart/public/index.html" timestamp="1445107273277">
+        <mark key="'" line="16" column="26" />
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/3serverjs/public/index.html" timestamp="1444280097472">
+        <mark key="'" line="10" column="6" />
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+        <mark key="^" line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/app-04.ts" timestamp="1469986185961">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="63" column="14" />
+        <mark key="]" line="63" column="14" />
+        <mark key="^" line="68" column="22" />
+        <mark key="." line="63" column="16" />
+      </file>
+      <file name="$USER_HOME$/Development/Javascript/ng-book2/code/first_app/angular2-reddit-base/app.ts" timestamp="1469988123714">
+        <mark key="'" line="8" column="22" />
+        <mark key="[" line="87" column="15" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/1create/2defaultHeaders.js" timestamp="1444195980400">
+        <mark key="'" line="11" column="11" />
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="13" column="42" />
+        <mark key="^" line="13" column="42" />
+        <mark key="." line="13" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/9ssl/1basic.js" timestamp="1444714077605">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="9" column="77" />
+        <mark key="^" line="9" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/static/1basic.js" timestamp="1444751975109">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="16" />
+        <mark key="." line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/masteringts/mvc01/view01.html" timestamp="1470373108712">
+        <mark key="'" line="4" column="11" />
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1475959354958">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/interop/bad.json" timestamp="1445576196013">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/masteringts/async03.js" timestamp="1470286701140">
+        <mark key="'" line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 12/File01.html" timestamp="1430978313249">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="77" column="9" />
+        <mark key="^" line="24" column="59" />
+        <mark key="." line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/1create/1raw.js" timestamp="1444195419347">
+        <mark key="'" line="7" column="30" />
+        <mark key="[" line="14" column="53" />
+        <mark key="]" line="14" column="55" />
+        <mark key="^" line="14" column="55" />
+        <mark key="." line="14" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/trackerhdrss/.gitignore" timestamp="1432334243739">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="^" line="189" column="6" />
+        <mark key="." line="159" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/masteringts/declaring01.html" timestamp="1470287358934">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+      </file>
+      <file name="other.xml" timestamp="1470239128710">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/3serverjs/public/main.js" timestamp="1444279986443">
+        <mark key="[" line="5" column="69" />
+        <mark key="]" line="5" column="69" />
+        <mark key="^" line="5" column="69" />
+        <mark key="." line="5" column="69" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/eloquent-javascript/Chapter 12/File01.js" timestamp="1430930498103">
+        <mark key="'" line="0" column="1" />
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="12" column="50" />
+        <mark key="^" line="12" column="50" />
+        <mark key="." line="12" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/spawn/basics.js" timestamp="1445839702571">
+        <mark key="[" line="18" column="2" />
+        <mark key="]" line="18" column="2" />
+        <mark key="." line="18" column="2" />
+        <mark key="^" line="18" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/cookie/2show.js" timestamp="1444799677597">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="11" />
+        <mark key="^" line="12" column="11" />
+        <mark key="." line="12" column="11" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1450219405330">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/Misc/ServerConfig/Fedora/initial_ansible_install.sh" timestamp="1474912380796">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="1" column="45" />
+        <mark key="^" line="1" column="45" />
+        <mark key="." line="1" column="45" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/ng-book2/code/first_app/angular2_reddit/tslint.json" timestamp="1482098469792">
+        <mark key="'" line="35" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/further/badcatch.js" timestamp="1445601635167">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="18" column="5" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 11/mocha/asyncbad.js" timestamp="1445964857519">
+        <mark key="'" line="10" column="3" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="16" column="2" />
+        <mark key="^" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 05/streams/1concepts/eventBased.js" timestamp="1444163307371">
+        <mark key="[" line="8" column="62" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/7auth/2authArea.js" timestamp="1444712225351">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="37" column="22" />
+        <mark key="]" line="37" column="22" />
+        <mark key="^" line="37" column="22" />
+        <mark key="." line="37" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/spawn/async.js" timestamp="1445878092254">
+        <mark key="'" line="19" column="8" />
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="19" column="8" />
+        <mark key="^" line="19" column="8" />
+        <mark key="." line="19" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 11/mocha/only.js" timestamp="1445964407884">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="14" column="2" />
+        <mark key="^" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/tsconfig.json" timestamp="1484116209981">
+        <mark key="[" line="17" column="3" />
+        <mark key="]" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+        <mark key="^" line="14" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/session/inmemory.js" timestamp="1444997412558">
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="36" />
+        <mark key="^" line="23" column="16" />
+        <mark key="." line="17" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/promises/create.js" timestamp="1445356102019">
+        <mark key="'" line="9" column="28" />
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="28" />
+        <mark key="^" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/approute/2route.js" timestamp="1444837643434">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="16" column="18" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="16" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/further/librarycompat.js" timestamp="1445601856761">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="5" />
+        <mark key="^" line="17" column="5" />
+        <mark key="." line="17" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 07/intro/1basic.js" timestamp="1444751603159">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="16" />
+        <mark key="^" line="16" column="16" />
+        <mark key="." line="16" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 10/promises/seperate.js" timestamp="1445356341857">
+        <mark key="'" line="7" column="25" />
+        <mark key="[" line="20" column="2" />
+        <mark key="]" line="20" column="2" />
+        <mark key="^" line="20" column="2" />
+        <mark key="." line="20" column="2" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/postgres/routes/index.js" timestamp="1442433334246">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 11/assert/list.test.js" timestamp="1445925829618">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="55" column="1" />
+        <mark key="]" line="54" column="43" />
+        <mark key="." line="54" column="43" />
+        <mark key="^" line="54" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 11/mocha/asyncpromise.js" timestamp="1445965049432">
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="14" column="2" />
+        <mark key="^" line="14" column="2" />
+        <mark key="." line="14" column="2" />
       </file>
       <file name="C:/Development/awesome-test/tslint.json" timestamp="1481789567188">
         <mark key="[" line="5" column="19" />
@@ -1318,6 +1304,13 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="35" column="7" filename="$USER_HOME$/Documents/dev/ng-book2/code/first_app/angular2_reddit/tslint.json" />
+      <jump line="5" column="15" filename="$USER_HOME$/Documents/dev/ng-book2/code/first_app/angular2_reddit/src/main.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/dev/ng-book2/code/first_app/angular2_reddit/src/main.ts" />
+      <jump line="11" column="3" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/chapter01.ts" />
+      <jump line="27" column="8" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/chapter01.ts" />
+      <jump line="31" column="8" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/chapter01.ts" />
+      <jump line="24" column="8" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/chapter01.ts" />
       <jump line="26" column="7" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/chapter01.ts" />
       <jump line="12" column="17" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/chapter01.ts" />
       <jump line="30" column="16" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/chapter01.ts" />
@@ -1407,24 +1400,17 @@
       <jump line="4" column="0" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/test/bdd.test.ts" />
       <jump line="8" column="0" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/test/bdd.test.ts" />
       <jump line="15" column="21" filename="C:/Development/awesome-test/server.ts" />
+      <jump line="0" column="0" filename="C:/Development/awesome-test/server.ts" />
       <jump line="11" column="1" filename="$USER_HOME$/WebstormProjects/untitled/example.js" />
       <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/untitled/example.js" />
       <jump line="9" column="8" filename="$USER_HOME$/WebstormProjects/untitled/example.js" />
-      <jump line="5" column="16" filename="C:/Development/awesome-test/server.ts" />
-      <jump line="18" column="25" filename="C:/Development/awesome-test/server.js" />
-      <jump line="0" column="0" filename="C:/Development/awesome-test/server.js" />
-      <jump line="11" column="27" filename="C:/Development/awesome-test/server.ts" />
-      <jump line="0" column="0" filename="C:/Development/awesome-test/server.ts" />
-      <jump line="23" column="12" filename="C:/Development/awesome-test/example.xml" />
-      <jump line="65" column="0" filename="C:/Development/awesome-test/example.xml" />
-      <jump line="11" column="13" filename="C:/Development/awesome-test/example.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIEV4YW1wbGUKICovCmNsYXNzIEV4YW1wbGUgewogICAgcHJpdmF0ZSBuYW1lOiBzdHJpbmc7CiAgICBwcml2YXRlIGlkOiBudW1iZXI7CgoKICAgIGNvbnN0cnVjdG9yKCRuYW1lOiBzdHJpbmcsICRpZDogbnVtYmVyKSB7CiAgICAgICAgdGhpcy5uYW1lID0gJG5hbWUgfHwgJyc7CiAgICAgICAgaWYgKCRuYW1lID09PSBudWxsKSB7CiAgICAgICAgICAgIHRoaXMubmFtZSA9ICcnOwogICAgICAgIH0KICAgICAgICBlbHNlIHsKICAgICAgICAgICAgdGhpcy5uYW1lID0gJG5hbWU7CiAgICAgICAgfQogICAgICAgIHRoaXMuaWQgPSAkaWQ7CiAgICB9CgogICAgcHVibGljIGdldCAkbmFtZSgpOiBzdHJpbmcgewogICAgICAgIHJldHVybiB0aGlzLm5hbWU7CiAgICB9CgogICAgcHVibGljIHNldCAkbmFtZSh2YWx1ZTogc3RyaW5nKSB7CiAgICAgICAgdGhpcy5uYW1lID0gdmFsdWU7CiAgICB9Cgp9CmNvbnN0IGFuRXhhbXBsZTogRXhhbXBsZSA9IG5ldyBFeGFtcGxlKCdJbmFraScsIDIpOwpjb25zb2xlLmxvZyhgVGhlIG5hbWUgaXMgJHthbkV4YW1wbGUuJG5hbWV9YCk7CmFuRXhhbXBsZS4kbmFtZSA9ICdNYXJjJzsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JiY=</text>
       </register>
       <register name="-" type="4">
-        <text>``;</text>
+        <text encoding="base64">JiY=</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
@@ -1433,31 +1419,31 @@
         <text encoding="base64">ICAgIHBvd0FzeW5jKGJhc2U6IG51bWJlciwgZXhwb25lbnQ6IG51bWJlciwgY2I6IChyZXN1bHQ6IG51bWJlcikgPT4gdm9pZCk6IHZvaWQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">MHhGRiA5OjQ1IG0teAo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IHtNYXRoRGVtb30gZnJvbSAnLi4vc291cmNlL21hdGhfZGVtbyc7CgppbXBvcnQge2V4cGVjdH0gZnJvbSAnY2hhaSc7CmltcG9ydCAnbW9jaGEnOwpkZXNjcmliZSgnQkREIHRlc3QgZXhhbXBsZSBmb3IgTWF0aERlbW8gY2xhc3NcbicsCiAgICAoKSA9PiB7CiAgICAgICAgYmVmb3JlKGZ1bmN0aW9uICgpIHsgLyogaW52b2tlZCBvbmNlIGJlZm9yZSBBTEwgdGVzdHMgKi8KICAgICAgICB9KTsKICAgICAgICBhZnRlcihmdW5jdGlvbiAoKSB7IC8qIGludm9rZWQgb25jZSBhZnRlciBBTEwgdGVzdHMgKi8KICAgICAgICB9KTsKICAgICAgICBiZWZvcmVFYWNoKGZ1bmN0aW9uICgpIHsgLyogaW52b2tlZCBvbmNlIGJlZm9yZSBFQUNIIHRlc3QgKi8KICAgICAgICB9KTsKICAgICAgICBhZnRlckVhY2goZnVuY3Rpb24gKCkgeyAvKiBpbnZva2VkIG9uY2UgYmVmb3JlIEVBQ0ggdGVzdCAqLwogICAgICAgIH0pOwoKICAgICAgICBpdCgnc2hvdWxkIHJldHVybiB0aGUgY29ycmVjdCBudW1lcmljIHZhbHVlIGZvciBQSSBcbicsICgpID0+IHsKICAgICAgICAgICAgY29uc3QgbWF0aDogTWF0aEludGVyZmFjZSA9IG5ldyBNYXRoRGVtbygpOwogICAgICAgICAgICBleHBlY3QobWF0aC5QSSkudG8uZXF1YWxzKDMuMTQxNTkyNjUzNTkpOwogICAgICAgICAgICBleHBlY3QobWF0aC5QSSkudG8uYmUuYSgnbnVtYmVyJyk7CiAgICAgICAgICAgIGNvbnN0IGV4cGVjdGVkOiBudW1iZXIgPSAyNDM7CiAgICAgICAgICAgIGNvbnN0IHJlc3VsdDogbnVtYmVyID0gbWF0aC5wb3coMywgNSk7CiAgICAgICAgICAgIGV4cGVjdChyZXN1bHQpLnRvLmJlLmEoJ251bWJlcicpOwogICAgICAgICAgICBleHBlY3QocmVzdWx0KS50by5lcXVhbChleHBlY3RlZCk7CiAgICAgICAgfSk7CiAgICAgICAgaXQoJ3Nob3VsZCB0aG93IGFuIGV4Y2VwdGlvbiB3aGVuIG5vIHBhcmFtZXRlcnMgYXJlIHBhc3NlZFxuJywgKCkgPT4gewogICAgICAgICAgICBjb25zdCBtYXRoOiBNYXRoRGVtbyA9IG5ldyBNYXRoRGVtbygpOwogICAgICAgICAgICBjb25zdCB0aHJvd3NGOiBGdW5jdGlvbiA9IGZ1bmN0aW9uICgpOiB2b2lkIHsKICAgICAgICAgICAgICAgIG1hdGguYmFkKCk7CiAgICAgICAgICAgIH07CiAgICAgICAgICAgIGV4cGVjdCh0aHJvd3NGKS50by50aHJvdyhFcnJvcik7CiAgICAgICAgfSk7CiAgICB9KTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBwb3dBc3luYyhiYXNlOm51bWJlcixleHBvbmVudDpudW1iZXIsY2I6KHJlc3VsdDpudW1iZXIpPT52b2lkKQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IHtleHBlY3R9IGZyb20gJ2NoYWknOwo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Y29uc3QgZXhwZWN0ID0gY2hhaS5leHBlY3Q7Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">dmFyIGNoYWk9cmVxdWlyZSgnYycpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHtjaGFpfSBmcm9tICdjaGFpJzsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
