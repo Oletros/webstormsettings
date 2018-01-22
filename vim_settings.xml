@@ -301,6 +301,12 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
+      <file name="$USER_HOME$/Desktop/paragon/new/example.js" timestamp="1513261046016">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/dev/BeginningNode/Chapter 06/5middleware/1noop.js" timestamp="1444366847006">
         <mark key="[" line="13" column="39" />
         <mark key="]" line="13" column="42" />
@@ -1425,10 +1431,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>72</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>72</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
