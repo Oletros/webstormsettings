@@ -22,8 +22,8 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="6" column="12" />
       </file>
-      <file name="C:/Development/awesome-test/server.ts" timestamp="1512400264237">
-        <mark key="'" line="0" column="0" />
+      <file name="C:/Development/awesome-test/server.ts" timestamp="1516614850488">
+        <mark key="'" line="15" column="24" />
         <mark key="[" line="24" column="43" />
         <mark key="]" line="24" column="43" />
         <mark key="^" line="24" column="44" />
@@ -1420,7 +1420,6 @@
       <jump line="28" column="40" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/test/bdd.test.ts" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/test/bdd.test.ts" />
       <jump line="8" column="0" filename="$USER_HOME$/Documents/dev/typescriptmodern/src/Chapter01/test/bdd.test.ts" />
-      <jump line="15" column="21" filename="C:/Development/awesome-test/server.ts" />
       <jump line="0" column="0" filename="C:/Development/awesome-test/server.ts" />
       <jump line="11" column="1" filename="$USER_HOME$/WebstormProjects/untitled/example.js" />
       <jump line="0" column="0" filename="$USER_HOME$/WebstormProjects/untitled/example.js" />
@@ -1428,6 +1427,7 @@
       <jump line="43" column="39" filename="C:/Development/awesome-test/example.xml" />
       <jump line="58" column="13" filename="C:/Development/awesome-test/example.xml" />
       <jump line="37" column="49" filename="C:/Development/awesome-test/example.xml" />
+      <jump line="15" column="24" filename="C:/Development/awesome-test/server.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
